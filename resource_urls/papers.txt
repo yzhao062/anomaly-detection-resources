@@ -2,3 +2,5 @@ Anomaly detection: A survey | https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/c
 A survey of outlier detection methodologies | https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf
 A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data | http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable
 Outlier detection for temporal data: A survey | https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf
+Ensembles for unsupervised outlier detection: challenges and research questions a position paper | http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf
+Outlier ensembles: position paper | https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf
