@@ -29,6 +29,7 @@ In this repository, you will find many:
     - [4. Ouliter Datasets](#4-ouliter-datasets)
     - [5. Outlier Detection Libraries and Demo Codes](#5-outlier-detection-libraries-and-demo-codes)
         - [5.1. Python](#51-python)
+        - [5.2. Matlab](#52-matlab)
         - [5.2. Java](#52-java)
     - [6. Key Conferences/Workshops/Journals](#6-key-conferencesworkshopsjournals)
         - [6.1. Conferences & Workshopes](#61-conferences-workshopes)
@@ -57,7 +58,7 @@ Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *AC
 
 Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*, 22(2), pp.85-126. [[Download PDF]](https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf )
 
-Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study.* Data Mining and Knowledge Discovery*, 30(4), pp.891-927. [[HTML]](https://link.springer.com/article/10.1007/s10618-015-0444-8"[HTML]") [[SLIDES]](https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf"[SLIDES]")
+Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*, 30(4), pp.891-927. [[HTML]](https://link.springer.com/article/10.1007/s10618-015-0444-8"[HTML]") [[SLIDES]](https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf"[SLIDES]")
 
 Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data. *PloS one*, 11(4), p.e0152173.  [[Download PDF]](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable )
 
@@ -91,8 +92,13 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 **Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques. http://web.stanford.edu/class/cs259d/
 ## 4. Ouliter Datasets
 
-ELKI Outlier Datasets: https://elki-project.github.io/datasets/outlier
-Outlier Detection DataSets (ODDS): http://odds.cs.stonybrook.edu/#table1
+**ELKI Outlier Datasets**: https://elki-project.github.io/datasets/outlier
+
+**Outlier Detection DataSets (ODDS)**: http://odds.cs.stonybrook.edu/#table1
+
+**Unsupervised Anomaly Detection Dataverse**: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF
+
+**Anomaly Detection Meta-Analysis Benchmarks**: https://ir.library.oregonstate.edu/concern/datasets/47429f155
 
 ## 5. Outlier Detection Libraries and Demo Codes
 
@@ -101,6 +107,9 @@ Outlier Detection DataSets (ODDS): http://odds.cs.stonybrook.edu/#table1
 [Scikit-learn Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html). It supports some popular algorithms like LOF, Isolation Forest and One-class SVM
 
 [Python Outlier Detection (PyOD)](https://github.com/yzhao062/Pyod): Under construction, it supports a series of outlier detection algorithms and combination frameworks
+
+### 5.2. Matlab
+[Anomaly Detection Toolbox - Beta](http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/): A collection of popular outlier detection algorithms in Matlab.
 
 ### 5.2. Java
 
@@ -114,6 +123,7 @@ IEEE ICDM
 IEEE ICDE
 ACM CIKM
 ACM WSDM
+
 ### 6.2. Journals 
 TKDD
 TKDE
