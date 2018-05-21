@@ -118,12 +118,19 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 ## 6. Key Conferences/Workshops/Journals
 ### 6.1. Conferences & Workshopes
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (http://www.kdd.org/conferences)
+
 ACM SIGMOD
+
 IEEE ICDM
+
 IEEE ICDE
+
 ACM CIKM
+
 ACM WSDM
 
 ### 6.2. Journals 
+
 TKDD
+
 TKDE
