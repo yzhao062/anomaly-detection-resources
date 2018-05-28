@@ -18,7 +18,7 @@ In this repository, you will find many:
     - [1. Books & Tutorials](#1-books-tutorials)
         - [1.1. Books](#11-books)
         - [1.2. Tutorials](#12-tutorials)
-    - [2. Courses/Seminars/Videos](#2-coursesseminarsvideos)
+    - [2. Courses/Seminars/Videos](#2-courses-seminars-videos)
     - [3. Toolbox & Datasets](#3-toolbox-datasets)
         - [3.1. Python](#31-python)
         - [3.2. Matlab](#32-matlab)
@@ -32,7 +32,7 @@ In this repository, you will find many:
         - [4.5. Spatial Outliers](#45-spatial-outliers)
         - [4.6. High-dimensional & Subspace Outliers](#46-high-dimensional-subspace-outliers)
         - [4.7. Outlier Ensembles](#47-outlier-ensembles)
-    - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
+    - [5. Key Conferences/Workshops/Journals](#5-key-conferences-workshops-journals)
         - [6.1. Conferences & Workshopes](#61-conferences-workshopes)
         - [6.2. Journals](#62-journals)
 
@@ -73,7 +73,7 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 
 [Scikit-learn Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html). It supports some popular algorithms like LOF, Isolation Forest and One-class SVM
 
-[Python Outlier Detection (PyOD)](https://github.com/yzhao062/Pyod): Under construction, it supports a series of outlier detection algorithms and combination frameworks. It is now released on PyPI and can be installed with "pip install pyod".
+[Python Outlier Detection (PyOD)](https://github.com/yzhao062/Pyod):It supports a series of outlier detection algorithms and combination frameworks. It is now released on PyPI and can be installed with "pip install pyod".
 
 ### 3.2. Matlab
 [Anomaly Detection Toolbox - Beta](http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/): A collection of popular outlier detection algorithms in Matlab.
@@ -81,6 +81,8 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 ### 3.3. Java
 
 [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io/): ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
+
+[RapidMiner Anomaly Detection Extension](https://github.com/Markus-Go/rapidminer-anomalydetection): The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
 ### 3.4. Datasets
 
