@@ -2,16 +2,16 @@
 
 ------------
 
-**Anomaly detection**, also known as **outlier detection**, is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** , also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you will find many:
 1. Books & Academic Papers 
 2. Learning Materials, e.g, online courses and videos 
 3. Outlier Datasets
 4. Outlier Detection Libraries & Demo Codes
-5. **Paper Downloader**: a Python 3 script to download the open access papers listed in this repository. 
+5. **Paper Downloader**: a Python 3 script to download the open access papers listed in this repository (under development). 
 
-**I would continue adding more items to the repository**. Please feel free to suggest some key materials by opening an issue or dropping me an email (yuezhao@cs.toronto.edu). Enjoy reading!
+**I would continue adding more items to the repository**. Please feel free to suggest some key materials by opening an issue or dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
 <!-- TOC -->
 
 - [Anomaly Detection Learning Resources](#anomaly-detection-learning-resources)
@@ -114,11 +114,16 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 
 **Local Outlier Factor (LOF)**. Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*, 29(2), pp. 93-104. [[Download PDF]](http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf)
 
+**Isolation Forest**. Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *ICDM '08*, pp. 413-422. IEEE. [[Download PDF]](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
+
+**One-class Support Vector Machine**. Ma, J. and Perkins, S., 2003, July. Time-series novelty detection using one-class support vector machines. In *IJCNN' 03*, pp. 1741-1745. IEEE. [[Download PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf)
+
+
 ### 4.3. Graph & Network Outlier Detection
 Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*, 29(3), pp.626-688. [[Download PDF]](https://arxiv.org/pdf/1404.4679.pdf)
 
 ### 4.4. Time Series Outlier Detection
-Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf )
+Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf)
 
 ### 4.5. Spatial Outliers
 
@@ -129,7 +134,10 @@ Zimek, A., Schubert, E. and Kriegel, H.P., 2012. A survey on unsupervised outlie
 
 Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Explorations Newsletter*, 14(2), pp.49-58. [[Download PDF]](https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf )
 
-Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newslette*r, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf )
+Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newslette*r, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
+
+### 4.8. Outlier Detection in Evolving Data
+Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newslette*r. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
 ## 5. Key Conferences/Workshops/Journals
 ### 6.1. Conferences & Workshopes
