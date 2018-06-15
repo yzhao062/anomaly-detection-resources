@@ -32,9 +32,10 @@ In this repository, you will find many:
         - [4.5. Spatial Outliers](#45-spatial-outliers)
         - [4.6. High-dimensional & Subspace Outliers](#46-high-dimensional-subspace-outliers)
         - [4.7. Outlier Ensembles](#47-outlier-ensembles)
+        - [4.8. Outlier Detection in Evolving Data](#48-outlier-detection-in-evolving-data)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferences-workshops-journals)
-        - [6.1. Conferences & Workshopes](#61-conferences-workshopes)
-        - [6.2. Journals](#62-journals)
+        - [5.1. Conferences & Workshops](#51-conferences-workshops)
+        - [5.2. Journals](#52-journals)
 
 <!-- /TOC -->
 ## 1. Books & Tutorials
@@ -140,7 +141,7 @@ Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outli
 Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newslette*r. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
 ## 5. Key Conferences/Workshops/Journals
-### 6.1. Conferences & Workshopes
+### 5.1. Conferences & Workshops
 [ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
  **Note: SIGKDD is usually associated with an Outlier Detection Workshop (ODD), see [ODD 2018](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)**.
 
@@ -162,7 +163,7 @@ Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving
 
 [The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://prada-research.net/pakdd18/)
 
-### 6.2. Journals 
+### 5.2. Journals 
 
 [ACM Transactions on Knowledge Discovery from Data (TKDD)](https://tkdd.acm.org/)
 
