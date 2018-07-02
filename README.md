@@ -23,7 +23,7 @@ In this repository, you will find many:
         - [3.1. Python](#31-python)
         - [3.2. Matlab](#32-matlab)
         - [3.3. Java](#33-java)
-        - [3.4. Time-series outlier detection Toolbox](#34-time-series-outlier-detection-toolbox)
+        - [3.4. Time-series outlier detection](#34-time-series-outlier-detection)
         - [3.5. Datasets](#35-datasets)
     - [4. Papers](#4-papers)
         - [4.1. Overview & Survey Papers](#41-overview-survey-papers)
