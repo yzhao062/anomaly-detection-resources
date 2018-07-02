@@ -23,7 +23,8 @@ In this repository, you will find many:
         - [3.1. Python](#31-python)
         - [3.2. Matlab](#32-matlab)
         - [3.3. Java](#33-java)
-        - [3.4. Datasets](#34-datasets)
+        - [3.4. Time-series outlier detection Toolbox](#34-time-series-outlier-detection-toolbox)
+        - [3.5. Datasets](#35-datasets)
     - [4. Papers](#4-papers)
         - [4.1. Overview & Survey Papers](#41-overview-survey-papers)
         - [4.2. Key Algorithms](#42-key-algorithms)
@@ -85,7 +86,13 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 
 [RapidMiner Anomaly Detection Extension](https://github.com/Markus-Go/rapidminer-anomalydetection): The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
-### 3.4. Datasets
+### 3.4. Time series outlier detection
+
+- [datastream.io](https://github.com/MentatInnovations/datastream.io)
+- [skyline](https://github.com/earthgecko/skyline)
+- [banpei](https://github.com/tsurubee/banpei)
+
+### 3.5. Datasets
 
 **ELKI Outlier Datasets**: https://elki-project.github.io/datasets/outlier
 
