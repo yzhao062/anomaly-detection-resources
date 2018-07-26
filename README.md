@@ -2,7 +2,7 @@
 
 ------------
 
-***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** , also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)***, also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you will find many:
 1. Books & Academic Papers 
@@ -42,6 +42,7 @@ In this repository, you will find many:
 ## 1. Books & Tutorials
 
 ### 1.1. Books
+
 [Outlier Analysis](https://www.springer.com/gp/book/9781461463955 "Outlier Analysis") by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. A must-read for people in outlier detection. [[Preview.pdf]](http://charuaggarwal.net/outlierbook.pdf "Preview.pdf")
 
 [Outlier Ensembles: An Introduction](https://www.springer.com/gp/book/9783319547640 "Outlier Ensembles: An Introduction") by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier anaysis.
@@ -68,16 +69,16 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 
 **Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques. http://web.stanford.edu/class/cs259d/
 
-
 ## 3. Toolbox & Datasets
 
 ### 3.1. Python
 
 [Scikit-learn Novelty and Outlier Detection](http://scikit-learn.org/stable/modules/outlier_detection.html). It supports some popular algorithms like LOF, Isolation Forest and One-class SVM
 
-[Python Outlier Detection (PyOD)](https://github.com/yzhao062/Pyod):It supports a series of outlier detection algorithms and combination frameworks. It is now released on PyPI and can be installed with "pip install pyod".
+[Python Outlier Detection (PyOD)](https://github.com/yzhao062/Pyod): It supports a series of outlier detection algorithms and combination frameworks. It is now released on PyPI and can be installed with "pip install pyod".
 
 ### 3.2. Matlab
+
 [Anomaly Detection Toolbox - Beta](http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/): A collection of popular outlier detection algorithms in Matlab.
 
 ### 3.3. Java
@@ -86,11 +87,12 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 
 [RapidMiner Anomaly Detection Extension](https://github.com/Markus-Go/rapidminer-anomalydetection): The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
-### 3.4. Time series outlier detection
+### 3.4. Time Series Outlier Detection
 
 - [datastream.io](https://github.com/MentatInnovations/datastream.io)
 - [skyline](https://github.com/earthgecko/skyline)
 - [banpei](https://github.com/tsurubee/banpei)
+- [AnomalyDetection](https://github.com/twitter/AnomalyDetection)
 
 ### 3.5. Datasets
 
@@ -130,9 +132,11 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 
 
 ### 4.3. Graph & Network Outlier Detection
+
 Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*, 29(3), pp.626-688. [[Download PDF]](https://arxiv.org/pdf/1404.4679.pdf)
 
 ### 4.4. Time Series Outlier Detection
+
 Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf)
 
 ### 4.5. Spatial Outliers
@@ -147,10 +151,13 @@ Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Exploration
 Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newslette*r, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
 
 ### 4.8. Outlier Detection in Evolving Data
+
 Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newslette*r. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
 ## 5. Key Conferences/Workshops/Journals
+
 ### 5.1. Conferences & Workshops
+
 [ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
  **Note: SIGKDD is usually associated with an Outlier Detection Workshop (ODD), see [ODD 2018](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)**.
 
