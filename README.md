@@ -15,27 +15,28 @@ In this repository, you will find many:
 <!-- TOC -->
 
 - [Anomaly Detection Learning Resources](#anomaly-detection-learning-resources)
-    - [1. Books & Tutorials](#1-books-tutorials)
+    - [1. Books & Tutorials](#1-books--tutorials)
         - [1.1. Books](#11-books)
         - [1.2. Tutorials](#12-tutorials)
-    - [2. Courses/Seminars/Videos](#2-courses-seminars-videos)
-    - [3. Toolbox & Datasets](#3-toolbox-datasets)
+    - [2. Courses/Seminars/Videos](#2-coursesseminarsvideos)
+    - [3. Toolbox & Datasets](#3-toolbox--datasets)
         - [3.1. Python](#31-python)
         - [3.2. Matlab](#32-matlab)
         - [3.3. Java](#33-java)
-        - [3.4. Time-series outlier detection](#34-time-series-outlier-detection)
+        - [3.4. Time series outlier detection](#34-time-series-outlier-detection)
         - [3.5. Datasets](#35-datasets)
     - [4. Papers](#4-papers)
-        - [4.1. Overview & Survey Papers](#41-overview-survey-papers)
+        - [4.1. Overview & Survey Papers](#41-overview--survey-papers)
         - [4.2. Key Algorithms](#42-key-algorithms)
-        - [4.3. Graph & Network Outlier Detection](#43-graph-network-outlier-detection)
+        - [4.3. Graph & Network Outlier Detection](#43-graph--network-outlier-detection)
         - [4.4. Time Series Outlier Detection](#44-time-series-outlier-detection)
         - [4.5. Spatial Outliers](#45-spatial-outliers)
-        - [4.6. High-dimensional & Subspace Outliers](#46-high-dimensional-subspace-outliers)
+        - [4.6. High-dimensional & Subspace Outliers](#46-high-dimensional--subspace-outliers)
         - [4.7. Outlier Ensembles](#47-outlier-ensembles)
         - [4.8. Outlier Detection in Evolving Data](#48-outlier-detection-in-evolving-data)
-    - [5. Key Conferences/Workshops/Journals](#5-key-conferences-workshops-journals)
-        - [5.1. Conferences & Workshops](#51-conferences-workshops)
+        - [4.9. Representation Learning in Outlier Detection](#49-representation-learning-in-outlier-detection)
+    - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
+        - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
 
 <!-- /TOC -->
@@ -81,13 +82,11 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 [Anomaly Detection Toolbox - Beta](http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/): A collection of popular outlier detection algorithms in Matlab.
 
 ### 3.3. Java
-
 [ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io/): ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
 
 [RapidMiner Anomaly Detection Extension](https://github.com/Markus-Go/rapidminer-anomalydetection): The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
 ### 3.4. Time series outlier detection
-
 - [datastream.io](https://github.com/MentatInnovations/datastream.io)
 - [skyline](https://github.com/earthgecko/skyline)
 - [banpei](https://github.com/tsurubee/banpei)
@@ -144,10 +143,20 @@ Zimek, A., Schubert, E. and Kriegel, H.P., 2012. A survey on unsupervised outlie
 
 Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Explorations Newsletter*, 14(2), pp.49-58. [[Download PDF]](https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf )
 
-Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newslette*r, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
+Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
 
 ### 4.8. Outlier Detection in Evolving Data
-Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newslette*r. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
+Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newsletter*. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
+
+Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-kdd-xstream.pdf) [[Github]](https://cmuxstream.github.io/)
+
+
+### 4.9. Representation Learning in Outlier Detection
+Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://arxiv.org/pdf/1806.04808.pdf)
+
+Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations for outlier detection on a budget. arXiv preprint arXiv:1507.08104. [[Download PDF]](https://arxiv.org/pdf/1507.08104.pdf)
+
+Zhao, Y., Hryniewicki, M.K. and PricewaterhouseCoopers, A., 2018. XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning. *International Joint Conference on Neural Networks*. [[Download PDF]](https://www.cs.toronto.edu/~yuezhao/s/edited_XGBOD.pdf)
 
 ## 5. Key Conferences/Workshops/Journals
 ### 5.1. Conferences & Workshops
