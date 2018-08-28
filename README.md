@@ -35,6 +35,7 @@ In this repository, you will find many:
         - [4.7. Outlier Ensembles](#47-outlier-ensembles)
         - [4.8. Outlier Detection in Evolving Data](#48-outlier-detection-in-evolving-data)
         - [4.9. Representation Learning in Outlier Detection](#49-representation-learning-in-outlier-detection)
+        - [4.10. Interpretability](#410-interpretability)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
         - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
@@ -154,7 +155,6 @@ Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving
 
 Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-kdd-xstream.pdf) [[Github]](https://cmuxstream.github.io/)
 
-
 ### 4.9. Representation Learning in Outlier Detection
 Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://arxiv.org/pdf/1806.04808.pdf)
 
@@ -162,12 +162,17 @@ Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations fo
 
 Zhao, Y., Hryniewicki, M.K. and PricewaterhouseCoopers, A., 2018. XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning. *International Joint Conference on Neural Networks*. [[Download PDF]](https://www.cs.toronto.edu/~yuezhao/s/edited_XGBOD.pdf)
 
+### 4.10. Interpretability
+Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. arXiv preprint arXiv:1711.10589. [[Download PDF]](https://arxiv.org/pdf/1711.10589.pdf)
+
+Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf)
+
 ## 5. Key Conferences/Workshops/Journals
 
 ### 5.1. Conferences & Workshops
 
 [ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD)](http://www.kdd.org/conferences)
- **Note: SIGKDD is usually associated with an Outlier Detection Workshop (ODD), see [ODD 2018](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)**.
+ **Note: SIGKDD usually has an Outlier Detection Workshop (ODD), see [ODD 2018](https://www.andrew.cmu.edu/user/lakoglu/odd/index.html)**.
 
 [ACM International Conference on Management of Data (SIGMOD)](https://sigmod.org/)
 
