@@ -2,7 +2,7 @@
 
 ------------
 
-***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)***, also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** , also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you will find many:
 1. Books & Academic Papers 
