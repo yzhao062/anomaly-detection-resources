@@ -36,6 +36,7 @@ In this repository, you will find many:
         - [4.8. Outlier Detection in Evolving Data](#48-outlier-detection-in-evolving-data)
         - [4.9. Representation Learning in Outlier Detection](#49-representation-learning-in-outlier-detection)
         - [4.10. Interpretability](#410-interpretability)
+        - [4.11. Social Media Anomaly Detection](#411-social-media-anomaly-detection)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
         - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
@@ -166,6 +167,9 @@ Zhao, Y., Hryniewicki, M.K. and PricewaterhouseCoopers, A., 2018. XGBOD: Improvi
 Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. arXiv preprint arXiv:1711.10589. [[Download PDF]](https://arxiv.org/pdf/1711.10589.pdf)
 
 Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf)
+
+### 4.11. Social Media Anomaly Detection
+Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*, 18(1), pp.1-14. [[Download PDF]](https://arxiv.org/pdf/1601.01102.pdf)
 
 ## 5. Key Conferences/Workshops/Journals
 
