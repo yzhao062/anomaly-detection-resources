@@ -151,6 +151,8 @@ Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Exploration
 
 Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*, 15(1), pp.11-22. [[Download PDF]](http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf)
 
+Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576). Springer, Cham. [[HTML]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45)
+
 ### 4.8. Outlier Detection in Evolving Data
 Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newsletter*. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
@@ -165,6 +167,8 @@ Zhao, Y., Hryniewicki, M.K. and PricewaterhouseCoopers, A., 2018. XGBOD: Improvi
 
 ### 4.10. Interpretability
 Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. arXiv preprint arXiv:1711.10589. [[Download PDF]](https://arxiv.org/pdf/1711.10589.pdf)
+
+Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. Intelligent Data Analysis, 19(5), pp.1171-1192.  [[Download PDF]](http://www.cs.sfu.ca/~jpei/publications/Contextual%20outliers.pdf)
 
 Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf)
 
