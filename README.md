@@ -2,7 +2,8 @@
 
 ------------
 
-***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** , also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** , 
+also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you will find many:
 1. Books & Academic Papers 
@@ -46,11 +47,15 @@ In this repository, you will find many:
 
 ### 1.1. Books
 
-[Outlier Analysis](https://www.springer.com/gp/book/9781461463955 "Outlier Analysis") by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. A must-read for people in outlier detection. [[Preview.pdf]](http://charuaggarwal.net/outlierbook.pdf "Preview.pdf")
+[Outlier Analysis](https://www.springer.com/gp/book/9781461463955) 
+by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. 
+A must-read for people in outlier detection. [[Preview.pdf]](http://charuaggarwal.net/outlierbook.pdf)
 
-[Outlier Ensembles: An Introduction](https://www.springer.com/gp/book/9783319547640 "Outlier Ensembles: An Introduction") by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier anaysis.
+[Outlier Ensembles: An Introduction](https://www.springer.com/gp/book/9783319547640) 
+by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier anaysis.
 
-[Data Mining: Concepts and Techniques (3rd)](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1 "Data Mining: Concepts and Techniques (3rd)") by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. [[Google Search]](https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei "[Google Search]")
+[Data Mining: Concepts and Techniques (3rd)](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) 
+by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. [[Google Search]](https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei")
 
 ### 1.2. Tutorials
 Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD*, 10. [[Download PDF]](https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf)
@@ -85,7 +90,8 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 [Anomaly Detection Toolbox - Beta](http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/): A collection of popular outlier detection algorithms in Matlab.
 
 ### 3.3. Java
-[ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io/): ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
+[ELKI: Environment for Developing KDD-Applications Supported by Index-Structures](https://elki-project.github.io/): 
+ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
 
 [RapidMiner Anomaly Detection Extension](https://github.com/Markus-Go/rapidminer-anomalydetection): The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
@@ -113,7 +119,8 @@ Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *AC
 
 Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*, 22(2), pp.85-126. [[Download PDF]](https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf )
 
-Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*, 30(4), pp.891-927. [[HTML]](https://link.springer.com/article/10.1007/s10618-015-0444-8"[HTML]") [[SLIDES]](https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf"[SLIDES]")
+Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*, 30(4), pp.891-927. [[HTML]](https://link.springer.com/article/10.1007/s10618-015-0444-8) 
+[[SLIDES]](https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf)
 
 Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. International Journal of Computer Science Issues (IJCSI), 9(1), 307. [[Download PDF]](https://pdfs.semanticscholar.org/4f58/44c9e7db68af7c2c5b918082636c3307cef9.pdf)
 
@@ -163,7 +170,8 @@ Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Stra
 ### 4.8. Outlier Detection in Evolving Data
 Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newsletter*. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
-Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-kdd-xstream.pdf) [[Github]](https://cmuxstream.github.io/)
+Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-kdd-xstream.pdf) 
+[[Github]](https://cmuxstream.github.io/)
 
 ### 4.9. Representation Learning in Outlier Detection
 Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://arxiv.org/pdf/1806.04808.pdf)
