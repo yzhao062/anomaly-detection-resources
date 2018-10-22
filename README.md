@@ -30,7 +30,7 @@ In this repository, you will find many:
         - [4.2. Key Algorithms](#42-key-algorithms)
         - [4.3. Graph & Network Outlier Detection](#43-graph--network-outlier-detection)
         - [4.4. Time Series Outlier Detection](#44-time-series-outlier-detection)
-        - [4.5. Spatial Outliers](#45-spatial-outliers)
+        - [4.5. Feature Selection in Outlier Detection](#45-feature-selection-in-outlier-detection)
         - [4.6. High-dimensional & Subspace Outliers](#46-high-dimensional--subspace-outliers)
         - [4.7. Outlier Ensembles](#47-outlier-ensembles)
         - [4.8. Outlier Detection in Evolving Data](#48-outlier-detection-in-evolving-data)
@@ -140,10 +140,17 @@ Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and des
 
 Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf)
 
-### 4.5. Spatial Outliers
+### 4.5. Feature Selection in Outlier Detection
+
+Pang, G., Cao, L., Chen, L. and Liu, H., 2016, December. Unsupervised feature selection for outlier detection by modelling hierarchical value-feature couplings. In Data Mining (ICDM), 2016 IEEE 16th International Conference on (pp. 410-419). IEEE. [[Download PDF]](https://opus.lib.uts.edu.au/bitstream/10453/107356/4/DSFS_ICDM2016.pdf)
+
+Pang, G., Cao, L., Chen, L. and Liu, H., 2017, August. Learning homophily couplings from non-iid data for joint feature selection and noise-resilient outlier detection. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (pp. 2585-2591). AAAI Press. [[Download PDF]](https://www.ijcai.org/proceedings/2017/0360.pdf)
 
 ### 4.6. High-dimensional & Subspace Outliers
+
 Zimek, A., Schubert, E. and Kriegel, H.P., 2012. A survey on unsupervised outlier detection in high‐dimensional numerical data. *Statistical Analysis and Data Mining: The ASA Data Science Journal*, 5(5), pp.363-387. [[Downloadable Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161)
+
+Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://arxiv.org/pdf/1806.04808.pdf)
 
 ### 4.7. Outlier Ensembles
 
