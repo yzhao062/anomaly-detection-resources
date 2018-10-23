@@ -38,7 +38,7 @@ In this repository, you will find many:
         - [4.9. Representation Learning in Outlier Detection](#49-representation-learning-in-outlier-detection)
         - [4.10. Interpretability](#410-interpretability)
         - [4.11. Social Media Anomaly Detection](#411-social-media-anomaly-detection)
-        - [4.12. Social Media Anomaly Detection](#412-outlier-detection-in-other-fields)
+        - [4.12. Outlier Detection in Other fields](#412-outlier-detection-in-other-fields)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
         - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
