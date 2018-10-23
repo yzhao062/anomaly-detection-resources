@@ -1,5 +1,7 @@
 import re
 import requests
+import selenium
+from selenium import webdriver
 
 
 def exists(path):
@@ -8,10 +10,25 @@ def exists(path):
     :return:
     """
     r = requests.head(path)
+    # print(r.status_code)
+    return r.status_code == requests.codes.ok
+
+
+def exists_adv(path):
+    """ Utility function to check whether a web file exists
+    :param path:
+    :return:
+    """
+    # TODO: use selenium
+    r = requests.head(path)
+    # print(r.status_code)
     return r.status_code == requests.codes.ok
 
 
 if __name__ == "__main__":
+    # driver = webdriver.Firefox()
+    manual_links = []
+    potential_broken_links = []
     with open('README.md', encoding="utf-8") as f:
         lines = f.readlines()
 
@@ -19,4 +36,13 @@ if __name__ == "__main__":
         result = re.search(']\(http(.*)\)', line)
         if result:
             link = "http" + result.group(1)
-            print(link, exists(link))
+            if "github" in link or "coursera" in link:
+                manual_links.append(link)
+            else:
+                flag = exists(link)
+                if not flag:
+                    potential_broken_links.append(link)
+                    print(link)
+
+    print()
+    print(manual_links)

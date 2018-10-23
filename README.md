@@ -55,7 +55,7 @@ A must-read for people in outlier detection. [[Preview.pdf]](http://charuaggarwa
 by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier anaysis.
 
 [Data Mining: Concepts and Techniques (3rd)](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) 
-by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. [[Google Search]](https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei")
+by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. [[Google Search]](https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei)
 
 ### 1.2. Tutorials
 Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD*, 10. [[Download PDF]](https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf)
@@ -145,7 +145,7 @@ Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and des
 
 ### 4.4. Time Series Outlier Detection
 
-Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://pdfs.semanticscholar.org/18d1/714870fb989f32b4311892e8765f00f7098f.pdf)
+Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/gupta14_tkde.pdf)
 
 ### 4.5. Feature Selection in Outlier Detection
 
@@ -203,7 +203,7 @@ Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media an
 
 [IEEE International Conference on Data Mining (ICDM)](http://icdm2018.org/)
 
-[SIAM International Conference on Data Mining (SDM)](https://www.siam.org/meetings/sdm18/)
+[SIAM International Conference on Data Mining (SDM)](https://www.siam.org/Conferences/CM/Main/sdm19)
 
 [IEEE International Conference on Data Engineering (ICDE)](https://icde2018.org/)
 
@@ -213,7 +213,7 @@ Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media an
 
 [The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](http://www.ecmlpkdd2018.org/)
 
-[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://prada-research.net/pakdd18/)
+[The Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)](http://pakdd2019.medmeeting.org)
 
 ### 5.2. Journals 
 
