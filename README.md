@@ -38,6 +38,7 @@ In this repository, you will find many:
         - [4.9. Representation Learning in Outlier Detection](#49-representation-learning-in-outlier-detection)
         - [4.10. Interpretability](#410-interpretability)
         - [4.11. Social Media Anomaly Detection](#411-social-media-anomaly-detection)
+        - [4.12. Social Media Anomaly Detection](#412-outlier-detection-in-other-fields)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
         - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
@@ -189,6 +190,10 @@ Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyon
 
 ### 4.11. Social Media Anomaly Detection
 Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*, 18(1), pp.1-14. [[Download PDF]](https://arxiv.org/pdf/1601.01102.pdf)
+
+### 4.12. Outlier Detection in Other fields
+
+Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection for text data. In Proceedings of the 2017 SIAM International Conference on Data Mining (pp. 489-497). Society for Industrial and Applied Mathematics. [[Download PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55)
 
 ## 5. Key Conferences/Workshops/Journals
 
