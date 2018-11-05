@@ -204,7 +204,8 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 
 ### 4.13. Outlier Detection Applications
 
-Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*, 17(1), pp.70-91. [[Download PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338)
+**Security**:
+- Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*, 17(1), pp.70-91. [[Download PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338)
 
 ## 5. Key Conferences/Workshops/Journals
 
