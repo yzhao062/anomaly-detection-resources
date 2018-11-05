@@ -226,7 +226,7 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 
 [ACM InternationalConference on Information and Knowledge Management (CIKM)](http://www.cikmconference.org/)
 
-[ACM International Conference on Web Search and Data Mining(WSDM)](http://www.wsdm-conference.org/2018/)
+[ACM International Conference on Web Search and Data Mining (WSDM)](http://www.wsdm-conference.org/2018/)
 
 [The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)](http://www.ecmlpkdd2018.org/)
 
