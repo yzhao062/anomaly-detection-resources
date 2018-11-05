@@ -39,6 +39,7 @@ In this repository, you will find many:
         - [4.10. Interpretability](#410-interpretability)
         - [4.11. Social Media Anomaly Detection](#411-social-media-anomaly-detection)
         - [4.12. Outlier Detection in Other fields](#412-outlier-detection-in-other-fields)
+        - [4.13. Outlier Detection Applications](#413-outlier-detection-applications)
     - [5. Key Conferences/Workshops/Journals](#5-key-conferencesworkshopsjournals)
         - [5.1. Conferences & Workshops](#51-conferences--workshops)
         - [5.2. Journals](#52-journals)
@@ -169,12 +170,14 @@ Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outli
 Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576). Springer, Cham. [[HTML]](https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45)
 
 ### 4.8. Outlier Detection in Evolving Data
+
 Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newsletter*. 20. 13-23. [[Download PDF]](http://www.kdd.org/exploration_files/20-1-Article2.pdf)
 
 Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-kdd-xstream.pdf) 
 [[Github]](https://cmuxstream.github.io/)
 
 ### 4.9. Representation Learning in Outlier Detection
+
 Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. [[Download PDF]](https://arxiv.org/pdf/1806.04808.pdf)
 
 Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations for outlier detection on a budget. arXiv preprint arXiv:1507.08104. [[Download PDF]](https://arxiv.org/pdf/1507.08104.pdf)
@@ -182,18 +185,26 @@ Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations fo
 Zhao, Y., Hryniewicki, M.K. and PricewaterhouseCoopers, A., 2018. XGBOD: Improving Supervised Outlier Detection with Unsupervised Representation Learning. *International Joint Conference on Neural Networks*. [[Download PDF]](https://www.cs.toronto.edu/~yuezhao/s/edited_XGBOD.pdf)
 
 ### 4.10. Interpretability
+
+Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf)
+
 Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. arXiv preprint arXiv:1711.10589. [[Download PDF]](https://arxiv.org/pdf/1711.10589.pdf)
 
 Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. Intelligent Data Analysis, 19(5), pp.1171-1192.  [[Download PDF]](http://www.cs.sfu.ca/~jpei/publications/Contextual%20outliers.pdf)
 
-Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos. Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*. [[Download PDF]](https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf)
+Dang, X.H., Assent, I., Ng, R.T., Zimek, A. and Schubert, E., 2014, March. Discriminative features for identifying and interpreting outliers. In *International Conference on Data Engineering (ICDE)*. IEEE. [[Download PDF]](http://cs.au.dk/~dang/icde2014.pdf)
 
 ### 4.11. Social Media Anomaly Detection
+
 Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*, 18(1), pp.1-14. [[Download PDF]](https://arxiv.org/pdf/1601.01102.pdf)
 
 ### 4.12. Outlier Detection in Other fields
 
 Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection for text data. In Proceedings of the 2017 SIAM International Conference on Data Mining (pp. 489-497). Society for Industrial and Applied Mathematics. [[Download PDF]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55)
+
+### 4.13. Outlier Detection Applications
+
+Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*, 17(1), pp.70-91. [[Download PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338)
 
 ## 5. Key Conferences/Workshops/Journals
 
