@@ -145,6 +145,8 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 
 Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*, 29(3), pp.626-688. [[Download PDF]](https://arxiv.org/pdf/1404.4679.pdf)
 
+Ranshous, S., Shen, S., Koutra, D., Harenberg, S., Faloutsos, C. and Samatova, N.F., 2015. Anomaly detection in dynamic networks: a survey. Wiley Interdisciplinary Reviews: Computational Statistics, 7(3), pp.223-247. [[Download PDF]](https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347)
+
 ### 4.4. Time Series Outlier Detection
 
 Gupta, M., Gao, J., Aggarwal, C.C. and Han, J., 2014. Outlier detection for temporal data: A survey. *IEEE Transactions on Knowledge and Data Engineering*, 26(9), pp.2250-2267. [[Download PDF]](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/gupta14_tkde.pdf)
