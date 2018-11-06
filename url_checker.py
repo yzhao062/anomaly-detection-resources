@@ -1,7 +1,5 @@
 import re
 import requests
-import selenium
-from selenium import webdriver
 
 
 def exists(path):
