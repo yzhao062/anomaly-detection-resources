@@ -54,7 +54,7 @@ by Charu Aggarwal: Classical text book covering most of the outlier analysis tec
 A must-read for people in outlier detection. [[Preview.pdf]](http://charuaggarwal.net/outlierbook.pdf)
 
 [Outlier Ensembles: An Introduction](https://www.springer.com/gp/book/9783319547640) 
-by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier anaysis.
+by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier analysis.
 
 [Data Mining: Concepts and Techniques (3rd)](https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1) 
 by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. [[Google Search]](https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei)
