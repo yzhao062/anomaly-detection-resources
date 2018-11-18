@@ -43,4 +43,5 @@ if __name__ == "__main__":
                     print(link)
 
     print()
-    print(manual_links)
+    for link in manual_links:
+        print(link)
