@@ -2,7 +2,8 @@
 
 ------------
 
-***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** (also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** ) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+***[Outlier Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** 
+(also known as ***[Anomaly Detection](https://en.wikipedia.org/wiki/Anomaly_detection)*** ) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you could find:
 1. Books & Academic Papers 
@@ -201,6 +202,8 @@ Dang, X.H., Assent, I., Ng, R.T., Zimek, A. and Schubert, E., 2014, March. Discr
 ### 4.11. Social Media Anomaly Detection
 
 Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*, 18(1), pp.1-14. [[Download PDF]](https://arxiv.org/pdf/1601.01102.pdf)
+
+Yu, R., He, X. and Liu, Y., 2015. Glad: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 10(2), p.18. [[Download PDF]](https://arxiv.org/pdf/1410.1940.pdf)
 
 ### 4.12. Outlier Detection in Other fields
 
