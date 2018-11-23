@@ -283,7 +283,7 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) <http://www.kdd.org/conferences>`_
- **Note: SIGKDD usually has an Outlier Detection Workshop (ODD), see `ODD 2018 <https://www.andrew.cmu.edu/user/lakoglu/odd/index.html>`_\ **.
+ **Note**: SIGKDD usually has an Outlier Detection Workshop (ODD), see `ODD 2018 <https://www.andrew.cmu.edu/user/lakoglu/odd/index.html>`_.
 
 `ACM International Conference on Management of Data (SIGMOD) <https://sigmod.org/>`_
 
