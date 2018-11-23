@@ -32,40 +32,41 @@ Table of Contents
 
    <!-- TOC -->
 
-  * `1. Books & Tutorials <#1-books--tutorials>`_
 
-    * `1.1. Books <#11-books>`_
-    * `1.2. Tutorials <#12-tutorials>`_
+* `1. Books & Tutorials <#1-books--tutorials>`_
 
-  * `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
-  * `3. Toolbox & Datasets <#3-toolbox--datasets>`_
+  * `1.1. Books <#11-books>`_
+  * `1.2. Tutorials <#12-tutorials>`_
 
-    * `3.1. Python <#31-python>`_
-    * `3.2. Matlab <#32-matlab>`_
-    * `3.3. Java <#33-java>`_
-    * `3.4. Time series outlier detection <#34-time-series-outlier-detection>`_
-    * `3.5. Datasets <#35-datasets>`_
+* `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
+* `3. Toolbox & Datasets <#3-toolbox--datasets>`_
 
-  * `4. Papers <#4-papers>`_
+  * `3.1. Python <#31-python>`_
+  * `3.2. Matlab <#32-matlab>`_
+  * `3.3. Java <#33-java>`_
+  * `3.4. Time series outlier detection <#34-time-series-outlier-detection>`_
+  * `3.5. Datasets <#35-datasets>`_
 
-    * `4.1. Overview & Survey Papers <#41-overview--survey-papers>`_
-    * `4.2. Key Algorithms <#42-key-algorithms>`_
-    * `4.3. Graph & Network Outlier Detection <#43-graph--network-outlier-detection>`_
-    * `4.4. Time Series Outlier Detection <#44-time-series-outlier-detection>`_
-    * `4.5. Feature Selection in Outlier Detection <#45-feature-selection-in-outlier-detection>`_
-    * `4.6. High-dimensional & Subspace Outliers <#46-high-dimensional--subspace-outliers>`_
-    * `4.7. Outlier Ensembles <#47-outlier-ensembles>`_
-    * `4.8. Outlier Detection in Evolving Data <#48-outlier-detection-in-evolving-data>`_
-    * `4.9. Representation Learning in Outlier Detection <#49-representation-learning-in-outlier-detection>`_
-    * `4.10. Interpretability <#410-interpretability>`_
-    * `4.11. Social Media Anomaly Detection <#411-social-media-anomaly-detection>`_
-    * `4.12. Outlier Detection in Other fields <#412-outlier-detection-in-other-fields>`_
-    * `4.13. Outlier Detection Applications <#413-outlier-detection-applications>`_
+* `4. Papers <#4-papers>`_
 
-  * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
+  * `4.1. Overview & Survey Papers <#41-overview--survey-papers>`_
+  * `4.2. Key Algorithms <#42-key-algorithms>`_
+  * `4.3. Graph & Network Outlier Detection <#43-graph--network-outlier-detection>`_
+  * `4.4. Time Series Outlier Detection <#44-time-series-outlier-detection>`_
+  * `4.5. Feature Selection in Outlier Detection <#45-feature-selection-in-outlier-detection>`_
+  * `4.6. High-dimensional & Subspace Outliers <#46-high-dimensional--subspace-outliers>`_
+  * `4.7. Outlier Ensembles <#47-outlier-ensembles>`_
+  * `4.8. Outlier Detection in Evolving Data <#48-outlier-detection-in-evolving-data>`_
+  * `4.9. Representation Learning in Outlier Detection <#49-representation-learning-in-outlier-detection>`_
+  * `4.10. Interpretability <#410-interpretability>`_
+  * `4.11. Social Media Anomaly Detection <#411-social-media-anomaly-detection>`_
+  * `4.12. Outlier Detection in Other fields <#412-outlier-detection-in-other-fields>`_
+  * `4.13. Outlier Detection Applications <#413-outlier-detection-applications>`_
 
-    * `5.1. Conferences & Workshops <#51-conferences--workshops>`_
-    * `5.2. Journals <#52-journals>`_
+* `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
+
+  * `5.1. Conferences & Workshops <#51-conferences--workshops>`_
+  * `5.2. Journals <#52-journals>`_
 
 :raw-html-m2r:`<!-- /TOC -->`
 
@@ -312,4 +313,3 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 `Data Mining and Knowledge Discovery <https://link.springer.com/journal/10618>`_
 
 `Knowledge and Information Systems (KAIS) <https://link.springer.com/journal/10115>`_
-
