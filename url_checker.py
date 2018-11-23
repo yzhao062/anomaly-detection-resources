@@ -27,7 +27,7 @@ if __name__ == "__main__":
     # driver = webdriver.Firefox()
     manual_links = []
     potential_broken_links = []
-    with open('README.md', encoding="utf-8") as f:
+    with open('README_11232019.md', encoding="utf-8") as f:
         lines = f.readlines()
 
     for line in lines:
