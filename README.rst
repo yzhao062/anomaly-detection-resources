@@ -264,14 +264,12 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 4.13. Outlier Detection Applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Security**\ :
-
+**Security**:
 
 * Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91. `[Download PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
 * Garcia-Teodoro, P., Diaz-Verdejo, J., Maciá-Fernández, G. and Vázquez, E., 2009. Anomaly-based network intrusion detection: Techniques, systems and challenges. *computers & security*\ , 28(1-2), pp.18-28. `[Download PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
 
-**Finance**\ :
-
+**Finance**:
 
 * Ahmed, M., Mahmood, A.N. and Islam, M.R., 2016. A survey of anomaly detection techniques in financial domain. Future Generation Computer Systems, 55, pp.278-288. `[Download PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
 
