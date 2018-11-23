@@ -32,8 +32,6 @@ Table of Contents
 
    <!-- TOC -->
 
-* `Anomaly Detection Learning Resources <#anomaly-detection-learning-resources>`_
-
   * `1. Books & Tutorials <#1-books--tutorials>`_
 
     * `1.1. Books <#11-books>`_
@@ -314,3 +312,4 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 `Data Mining and Knowledge Discovery <https://link.springer.com/journal/10618>`_
 
 `Knowledge and Information Systems (KAIS) <https://link.springer.com/journal/10115>`_
+
