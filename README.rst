@@ -7,7 +7,7 @@ Anomaly Detection Learning Resources
 
 ----
 
-**\ `Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_\ **\ 
+`\ **Outlier Detection**\ <https://en.wikipedia.org/wiki/Anomaly_detection>`_
 (also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you could find:
