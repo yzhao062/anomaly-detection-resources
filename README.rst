@@ -7,8 +7,8 @@ Anomaly Detection Learning Resources
 
 ----
 
-`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
-(also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+**`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_**
+(also known as **`Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_**) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you could find:
 
@@ -17,11 +17,11 @@ In this repository, you could find:
 #. Learning Materials, e.g., online courses and videos 
 #. Outlier Datasets
 #. Open-source Libraries & Demo Codes
-#. **Paper Downloader**\ : a Python 3 script to download the open access papers listed in this repository (under development). 
+#. **Paper Downloader**: a Python 3 script to download the open access papers listed in this repository (under development).
 
 **I would continue adding more items to the repository**. 
-Please feel free to suggest some critical materials by opening an issue, submitting a pull request,
- or dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
+Please feel free to suggest some critical materials by opening an issue, submitting a pull request, or
+dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
 
 
 .. raw:: html
