@@ -23,13 +23,14 @@ In this repository, you could find:
 Please feel free to suggest some critical materials by opening an issue, submitting a pull request, or
 dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
 
+---
+
+Table of Contents
+-----------------
 
 .. raw:: html
 
    <!-- TOC -->
-
-
-
 
 * `Anomaly Detection Learning Resources <#anomaly-detection-learning-resources>`_
 
