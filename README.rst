@@ -176,13 +176,12 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
-**k Nearst Neighbors (kNN) Outlier Detector**.
-
+**k Nearst Neighbors (kNN) Outlier Detector**:
 
 * Efficient algorithms for mining outliers from large data sets [#Ramaswamy2000Efficient]_. `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
 * Fast outlier detection in high dimensional spaces [#Angiulli2002Fast]_. `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
 
-**Local Outlier Factor (LOF)**. Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104. `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
+**Local Outlier Factor (LOF)**: LOF: identifying density-based local outliers [#Breunig2000LOF]_. `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
 
 **Isolation Forest**. Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *ICDM '08*\ , pp. 413-422. IEEE. `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
 
@@ -326,4 +325,9 @@ References
 .. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. 
     Efficient algorithms for mining outliers from large data sets. 
     *ACM Sigmod Record*\ , 29(2), pp. 427-438).
+
+.. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May.
+    LOF: identifying density-based local outliers.
+    *ACM Sigmod Record*\ , 29(2), pp. 93-104
+
 
