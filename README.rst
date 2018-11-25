@@ -177,14 +177,17 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 ^^^^^^^^^^^^^^^^^^^
 
 +----------------+---------------------------------------------------------------+--------------------+----------------------------+---------------------------------------------------------------------------+
-| Abbreviation   | Paper Title                                                   | Publication Year   | Reference                  | Downloadable                                                              |
+| Abbreviation   | Paper Title                                                   | Year               | Ref                        | Downloadable                                                              |
 +================+===============================================================+====================+============================+===========================================================================+
 | kNN            | Efficient algorithms for mining outliers from large data sets | 2000               | [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
 +----------------+---------------------------------------------------------------+--------------------+----------------------------+---------------------------------------------------------------------------+
 | KNN            | Fast outlier detection in high dimensional spaces             | 2002               | [#Angiulli2002Fast]_       | `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_     |
 +----------------+---------------------------------------------------------------+--------------------+----------------------------+---------------------------------------------------------------------------+
+| IForest        | Isolation forest                                              | 2008               | [#Liu2008Isolation]_       | `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_     |
++----------------+---------------------------------------------------------------+--------------------+----------------------------+---------------------------------------------------------------------------+
 
-**Isolation Forest**. Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *ICDM '08*\ , pp. 413-422. IEEE. `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
+
+
 
 **One-class Support Vector Machine**. Ma, J. and Perkins, S., 2003, July. Time-series novelty detection using one-class support vector machines. In *IJCNN' 03*\ , pp. 1741-1745. IEEE. `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
 
@@ -330,5 +333,11 @@ References
 .. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May.
     LOF: identifying density-based local outliers.
     *ACM Sigmod Record*\ , 29(2), pp. 93-104
+
+.. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December.
+    Isolation forest.
+    In *ICDM '08*\ , pp. 413-422. IEEE.
+
+
 
 
