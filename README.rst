@@ -176,9 +176,16 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
++---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
+| Paper Name                                                    | Citation                   | Downloadable                                                              |
++===============================================================+============================+===========================================================================+
+| Efficient algorithms for mining outliers from large data sets | [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
++---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
+
+
 **k Nearst Neighbors (kNN) Outlier Detector**:
 
-* Efficient algorithms for mining outliers from large data sets [#Ramaswamy2000Efficient]_. `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
+*  .
 * Fast outlier detection in high dimensional spaces [#Angiulli2002Fast]_. `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
 
 **Local Outlier Factor (LOF)**: LOF: identifying density-based local outliers [#Breunig2000LOF]_. `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
