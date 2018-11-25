@@ -190,6 +190,7 @@ IForest              Isolation forest                                           
 OCSVM                Time-series novelty detection using one-class support vector machines                              2003   [#Ma2003Time]_                `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
 ===================  =================================================================================================  =====  ============================  ================================================================================================
 
+
 4.3. Graph & Network Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
