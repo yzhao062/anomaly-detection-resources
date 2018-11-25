@@ -178,8 +178,9 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 
 +---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
 | Paper Name                                                    | Citation                   | Downloadable                                                              |
-+===============================================================+============================+===========================================================================+
-| Efficient algorithms for mining outliers from large data sets | [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
++==============================================================+============================+===========================================================================+
+| Efficient algorithms for mining  | [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
+| outliers from large data sets    |                            | 
 +---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
 
 
