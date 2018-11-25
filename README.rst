@@ -313,7 +313,7 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 
 `Knowledge and Information Systems (KAIS) <https://link.springer.com/journal/10115>`_
 
-[#angiulli02]_
+
 
 References
 ----------
