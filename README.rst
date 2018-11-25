@@ -180,7 +180,7 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 
 
 * Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM Sigmod Record*\ , 29(2), pp. 427-438). `[Download PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
-* Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27. `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
+* Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27. `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_ [#Angiulli02Fast]_
 
 **Local Outlier Factor (LOF)**. Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104. `[Download PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
 
@@ -313,3 +313,13 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 `Data Mining and Knowledge Discovery <https://link.springer.com/journal/10618>`_
 
 `Knowledge and Information Systems (KAIS) <https://link.springer.com/journal/10115>`_
+
+[#angiulli02]_
+
+References
+----------
+
+.. [#Angiulli02Fast] Angiulli, F. and Pizzuti, C.,
+    "Fast outlier detection in high dimensional spaces,"
+    In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27, 2002.
+
