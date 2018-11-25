@@ -176,20 +176,13 @@ Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised ano
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
-+---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
-| Paper Name                                                    | Citation                   | Downloadable                                                              |
-+==============================================================+============================+===========================================================================+
-| Efficient algorithms for mining  | [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
-| outliers from large data sets    |                            | 
-+---------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
-
-
-**k Nearst Neighbors (kNN) Outlier Detector**:
-
-*  .
-* Fast outlier detection in high dimensional spaces [#Angiulli2002Fast]_. `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
-
-**Local Outlier Factor (LOF)**: LOF: identifying density-based local outliers [#Breunig2000LOF]_. `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
++----------------+---------------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
+| Abbreviation   | Paper & Publication Year                                            | Reference                  | Downloadable                                                              |
++================+=====================================================================+============================+===========================================================================+
+| kNN            | Efficient algorithms for mining outliers from large data sets (2000)| [#Ramaswamy2000Efficient]_ | `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_ |
++--------------------------------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
+| KNN            | Fast outlier detection in high dimensional spaces             (2002)| [#Angiulli2002Fast]_       | `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_     |
++--------------------------------------------------------------------------------------+----------------------------+---------------------------------------------------------------------------+
 
 **Isolation Forest**. Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *ICDM '08*\ , pp. 413-422. IEEE. `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
 
