@@ -97,6 +97,8 @@ Chawla, S. and Chandola, V., 2011, Anomaly Detection: A Tutorial. *Tutorial at I
 
 Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. In *Tutorial at ECML PKDD 2008*. `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
 
+----
+
 2. Courses/Seminars/Videos
 --------------------------
 
@@ -112,6 +114,8 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 **Udemy Outlier Detection Algorithms in Data Mining and Data Science**\ : https://www.udemy.com/outlier-detection-techniques/
 
 **Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques. http://web.stanford.edu/class/cs259d/
+
+----
 
 3. Toolbox & Datasets
 ---------------------
@@ -156,6 +160,8 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 **Anomaly Detection Meta-Analysis Benchmarks**\ : https://ir.library.oregonstate.edu/concern/datasets/47429f155
 
+----
+
 4. Papers
 ---------
 
@@ -169,7 +175,7 @@ Anomaly detection: A survey                                                     
 A survey of outlier detection methodologies                                                        2004   [#Hodge2004A]_                `[PDF] <https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf>`_
 On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study    2016   [#Campos2016On]_              `[HTML] <https://link.springer.com/article/10.1007/s10618-015-0444-8>`_, `[SLIDES] <https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf>`_
 Outlier detection: applications and techniques                                                     2012   [#Singh2012Outlier]_          `[PDF] <https://pdfs.semanticscholar.org/4f58/44c9e7db68af7c2c5b918082636c3307cef9.pdf>`_
-A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data.       2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
+A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data        2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -271,6 +277,8 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 **Finance**:
 
 * Ahmed, M., Mahmood, A.N. and Islam, M.R., 2016. A survey of anomaly detection techniques in financial domain. Future Generation Computer Systems, 55, pp.278-288. `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
+
+----
 
 5. Key Conferences/Workshops/Journals
 -------------------------------------
