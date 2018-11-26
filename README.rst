@@ -163,23 +163,20 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                        Year   Ref                           Downloadable
+Paper Title                                                                                        Year   Ref                           Materials
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
 Anomaly detection: A survey                                                                        2009   [#Chandola2009Anomaly]_       `[PDF] <https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf>`_
 A survey of outlier detection methodologies                                                        2004   [#Hodge2004A]_                `[PDF] <https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf>`_
 On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study    2016   [#Campos2016On]_              `[HTML] <https://link.springer.com/article/10.1007/s10618-015-0444-8>`_, `[SLIDES] <https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf>`_
+Outlier detection: applications and techniques                                                     2012   [#Singh2012Outlier]_          `[PDF] <https://pdfs.semanticscholar.org/4f58/44c9e7db68af7c2c5b918082636c3307cef9.pdf>`_
+A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data.       2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
-
-
-Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. *International Journal of Computer Science Issues (IJCSI)*, 9(1), 307. `[PDF] <https://pdfs.semanticscholar.org/4f58/44c9e7db68af7c2c5b918082636c3307cef9.pdf>`_
-
-Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data. *PloS one*\ , 11(4), p.e0152173.  `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
 
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
 ===================  =================================================================================================  =====  ============================  ====================================================================================================
-Abbreviation         Paper Title                                                                                        Year   Ref                           Downloadable
+Abbreviation         Paper Title                                                                                        Year   Ref                           Materials
 ===================  =================================================================================================  =====  ============================  ====================================================================================================
 kNN                  Efficient algorithms for mining outliers from large data sets                                      2000   [#Ramaswamy2000Efficient]_    `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
 KNN                  Fast outlier detection in high dimensional spaces                                                  2002   [#Angiulli2002Fast]_          `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
@@ -319,39 +316,27 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 References
 ----------
 
-.. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August.
-    Fast outlier detection in high dimensional spaces.
-    In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27.
+.. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27.
 
-.. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May.
-    LOF: identifying density-based local outliers.
-    *ACM Sigmod Record*\ , 29(2), pp. 93-104.
+.. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104.
 
 .. [#Campos2016On] Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*\ , 30(4), pp.891-927.
 
-.. [#Chandola2009Anomaly] Chandola, V., Banerjee, A. and Kumar, V., 2009.
-    Anomaly detection: A survey.
-    *ACM computing surveys* , 41(3), p.15.
+.. [#Chandola2009Anomaly] Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *ACM computing surveys* , 41(3), p.15.
 
+.. [#Goldstein2016A] Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data. *PloS one*\ , 11(4), p.e0152173.
 
-.. [#Hodge2004A] Hodge, V. and Austin, J., 2004.
-    A survey of outlier detection methodologies.
-    *Artificial intelligence review*\ , 22(2), pp.85-126.
+.. [#Hodge2004A] Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*\ , 22(2), pp.85-126.
 
-.. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December.
-    Isolation forest.
-    In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
+.. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
-.. [#Ma2003Time] Ma, J. and Perkins, S., 2003, July.
-    Time-series novelty detection using one-class support vector machines.
-    In *IJCNN' 03*\ , pp. 1741-1745. IEEE.
+.. [#Ma2003Time] Ma, J. and Perkins, S., 2003, July. Time-series novelty detection using one-class support vector machines. In *IJCNN' 03*\ , pp. 1741-1745. IEEE.
 
-.. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May.
-    Efficient algorithms for mining outliers from large data sets.
-    *ACM Sigmod Record*\ , 29(2), pp. 427-438).
+.. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM Sigmod Record*\ , 29(2), pp. 427-438).
 
+.. [#Singh2012Outlier] Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. *International Journal of Computer Science Issues (IJCSI)*, 9(1), 307.
 
-
+.. [#]
 
 
 
