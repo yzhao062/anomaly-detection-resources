@@ -1,7 +1,3 @@
-.. role:: raw-html-m2r(raw)
-   :format: html
-
-
 Anomaly Detection Learning Resources
 ====================================
 
@@ -27,10 +23,6 @@ dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
 
 Table of Contents
 -----------------
-
-.. raw:: html
-
-   <!-- TOC -->
 
 
 * `1. Books & Tutorials <#1-books--tutorials>`_
@@ -68,7 +60,6 @@ Table of Contents
   * `5.1. Conferences & Workshops <#51-conferences--workshops>`_
   * `5.2. Journals <#52-journals>`_
 
-:raw-html-m2r:`<!-- /TOC -->`
 
 ----
 
