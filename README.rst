@@ -185,9 +185,13 @@ OCSVM                Time-series novelty detection using one-class support vecto
 4.3. Graph & Network Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*\ , 29(3), pp.626-688. `[PDF] <https://arxiv.org/pdf/1404.4679.pdf>`_
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Year   Ref                           Materials
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Graph based anomaly detection and description: a survey                                            2015   [#Akoglu2015Graph]_           `[PDF] <https://arxiv.org/pdf/1404.4679.pdf>`_
+Anomaly detection in dynamic networks: a survey                                                    2015   [#Ranshous2015Anomaly]_       `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347>`_
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
-Ranshous, S., Shen, S., Koutra, D., Harenberg, S., Faloutsos, C. and Samatova, N.F., 2015. Anomaly detection in dynamic networks: a survey. Wiley Interdisciplinary Reviews: Computational Statistics, 7(3), pp.223-247. `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347>`_
 
 4.4. Time Series Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -315,6 +319,8 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 References
 ----------
 
+.. [#Akoglu2015Graph] Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*\ , 29(3), pp.626-688.
+
 .. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery* pp. 15-27.
 
 .. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104.
@@ -333,9 +339,12 @@ References
 
 .. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM Sigmod Record*\ , 29(2), pp. 427-438).
 
+.. [#Ranshous2015Anomaly] Ranshous, S., Shen, S., Koutra, D., Harenberg, S., Faloutsos, C. and Samatova, N.F., 2015. Anomaly detection in dynamic networks: a survey. Wiley Interdisciplinary Reviews: Computational Statistics, 7(3), pp.223-247. `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347>`_
+
 .. [#Singh2012Outlier] Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. *International Journal of Computer Science Issues (IJCSI)*, 9(1), 307.
 
 .. [#]
+
 
 
 
