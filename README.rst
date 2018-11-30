@@ -220,9 +220,8 @@ Paper Title                                                                     
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
 Outlier ensembles: position paper                                                                  2013   [#Aggarwal2013Outlier]_       `[PDF] <https://pdfs.semanticscholar.org/841e/ce7c3812bbf799c99c84c064bbcf77916ba9.pdf>`_
 Ensembles for unsupervised outlier detection: challenges and research questions a position paper   2014   [#Zimek2014Ensembles]_        `[PDF] <http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf>`_
-An Unsupervised Boosting Strategy for Outlier Detection Ensembles                                  2018   [#Campos2016On]_              `[HTML] <https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45>`_
+An Unsupervised Boosting Strategy for Outlier Detection Ensembles                                  2018   [#Campos2018An]_              `[HTML] <https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45>`_
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
-
 
 4.8. Outlier Detection in Evolving Data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -331,6 +330,8 @@ References
 .. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104.
 
 .. [#Campos2016On] Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*\ , 30(4), pp.891-927.
+
+.. [#Campos2018An] Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In *Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576)*. Springer, Cham.
 
 .. [#Chandola2009Anomaly] Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *ACM computing surveys* , 41(3), p.15.
 
