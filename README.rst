@@ -321,7 +321,7 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 References
 ----------
 
-.. [Aggarwal2013Outlier] Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Explorations Newsletter*\ , 14(2), pp.49-58.
+.. [#Aggarwal2013Outlier] Aggarwal, C.C., 2013. Outlier ensembles: position paper. *ACM SIGKDD Explorations Newsletter*\ , 14(2), pp.49-58.
 
 .. [#Akoglu2015Graph] Akoglu, L., Tong, H. and Koutra, D., 2015. Graph based anomaly detection and description: a survey. *Data Mining and Knowledge Discovery*\ , 29(3), pp.626-688.
 
