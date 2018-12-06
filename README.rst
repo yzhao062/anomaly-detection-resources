@@ -3,8 +3,10 @@ Anomaly Detection Learning Resources
 
 ----
 
-`\Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
-(also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_) is a fascinating and useful technique to identify outlying data objects. It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+`Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
+(also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_)
+is a fascinating and useful technique to identify outlying data objects.
+It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
 
 In this repository, you could find:
 
@@ -17,7 +19,7 @@ In this repository, you could find:
 
 **I would continue adding more items to the repository**. 
 Please feel free to suggest some critical materials by opening an issue, submitting a pull request, or
-dropping me an email @(yuezhao@cs.toronto.edu). Enjoy reading!
+dropping me an email @ (yuezhao@cs.toronto.edu). Enjoy reading!
 
 ----
 
@@ -71,22 +73,24 @@ Table of Contents
 
 `Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_ 
 by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. 
-A must-read for people in outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
+A must-read for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
 
 `Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_ 
 by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier analysis.
 
 `Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_ 
-by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many important points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
+by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many fundamental points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
 
 1.2. Tutorials
 ^^^^^^^^^^^^^^
 
-Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD*\ , 10. `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
-
-Chawla, S. and Chandola, V., 2011, Anomaly Detection: A Tutorial. *Tutorial at ICDM 2011*.  `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-
-Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. In *Tutorial at ECML PKDD 2008*. `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Tutorial Title                                                                                     Year   Ref                           Materials
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Outlier detection techniques (*2010 ACM SIGKDD*)                                                   2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
+Anomaly Detection: A Tutorial (*ICDM 2011*)                                                        2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
+Data mining for anomaly detection (*PKDD 2008*)                                                    2008   [#Lazarevic2008Data]_         `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
 
@@ -351,9 +355,13 @@ References
 
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
+.. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
+
+.. [#Chawla2011Anomaly] Chawla, S. and Chandola, V., 2011, Anomaly Detection: A Tutorial. *Tutorial at ICDM 2011*.
+
+.. [#Lazarevic2008Data] Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. *Tutorial at ECML PKDD 2008*.
+
 .. [#]
-
-
 
 
 
