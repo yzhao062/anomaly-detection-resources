@@ -100,6 +100,9 @@ Data mining for anomaly detection (*PKDD 2008*)                                 
 **Coursera Introduction to Anomaly Detection (by IBM)**\ :
 https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detection
 
+**Coursera Real-Time Cyber Threat Detection and Mitigation partly covers the topic**\ :
+https://www.coursera.org/learn/real-time-cyber-threat-detection
+
 **Coursera Machine Learning by Andrew Ng also partly covers the topic**\ :
 
 
@@ -120,7 +123,7 @@ https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detectio
 
 `Scikit-learn Novelty and Outlier Detection <http://scikit-learn.org/stable/modules/outlier_detection.html>`_. It supports some popular algorithms like LOF, Isolation Forest and One-class SVM
 
-`Python Outlier Detection (PyOD) <https://github.com/yzhao062/Pyod>`_\ : It supports a series of outlier detection algorithms and combination frameworks. It is now released on PyPI and can be installed with "pip install pyod".
+`Python Outlier Detection (PyOD) <https://github.com/yzhao062/Pyod>`_\ : PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. It includes more than 20 detection algorithms, including deep learning and outlier ensembles.
 
 3.2. Matlab
 ^^^^^^^^^^^
