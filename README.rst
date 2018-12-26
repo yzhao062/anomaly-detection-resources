@@ -5,8 +5,9 @@ Anomaly Detection Learning Resources
 
 `Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
 (also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_)
-is a fascinating and useful technique to identify outlying data objects.
-It has been proven critical in many fields, such as credit card fraud analytics and mechanical unit defect detection.
+is an exciting yet challenging field, aiming to identify outlying data objects.
+It has been proven critical in many fields, such as credit card fraud analytics,
+network intrusion detection, and mechanical unit defect detection.
 
 In this repository, you could find:
 
@@ -15,10 +16,10 @@ In this repository, you could find:
 #. Learning Materials, e.g., online courses and videos 
 #. Outlier Datasets
 #. Open-source Libraries & Demo Codes
-#. **Paper Downloader (under development)**: a Python 3 script to download the open access papers listed in this repository.
+#. **Paper Downloader (under development)**: a Python script to download open access papers listed in this repository.
 
 **I would continue adding more items to the repository**. 
-Please feel free to suggest some critical materials by opening an issue, submitting a pull request, or
+Please feel free to suggest some critical materials by opening an issue report, submitting a pull request, or
 dropping me an email @ (yuezhao@cs.toronto.edu). Enjoy reading!
 
 ----
@@ -84,13 +85,13 @@ by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection 
 1.2. Tutorials
 ^^^^^^^^^^^^^^
 
-=================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Tutorial Title                                                                                     Year   Ref                           Materials
-=================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Outlier detection techniques (*2010 ACM SIGKDD*)                                                   2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
-Anomaly Detection: A Tutorial (*ICDM 2011*)                                                        2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-Data mining for anomaly detection (*PKDD 2008*)                                                    2008   [#Lazarevic2008Data]_         `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
-=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
+Tutorial Title                                        Place                                         Year   Ref                           Materials
+===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
+Outlier detection techniques                          *ACM SIGKDD 2010*                             2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
+Anomaly Detection: A Tutorial                         *ICDM 2011*                                   2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
+Data mining for anomaly detection                     *PKDD 2008*                                   2008   [#Lazarevic2008Data]_         `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
+===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
 
