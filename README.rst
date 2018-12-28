@@ -242,11 +242,13 @@ Emaad Manzoor, Hemank Lamba, Leman Akoglu. Outlier Detection in Feature-Evolving
 4.9. Representation Learning in Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
-
-Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations for outlier detection on a budget. arXiv preprint arXiv:1507.08104. `[PDF] <https://arxiv.org/pdf/1507.08104.pdf>`_
-
-Zhao, Y. and Hryniewicki, M.K., 2018, July. Xgbod: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Year   Ref                           Materials
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
+Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection 2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
+Learning representations for outlier detection on a budget                                         2015   [#Micenkova2015Learning]_     `[PDF] <https://arxiv.org/pdf/1507.08104.pdf>`_
+XGBOD: improving supervised outlier detection with unsupervised representation learning            2018   [#Zhao2018Xgbod]_             `[PDF] <https://www.yuezhao.me/s/edited_XGBOD.pdf>`_
+=================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
 4.10. Interpretability
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -365,7 +367,11 @@ References
 
 .. [#Macha2018Explaining] Macha, M. and Akoglu, L., 2018. Explaining anomalies in groups with characterizing subspace rules. Data Mining and Knowledge Discovery, 32(5), pp.1444-1480.
 
+.. [#Micenkova2015Learning] Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations for outlier detection on a budget. arXiv preprint arXiv:1507.08104.
+
 .. [#Gupta2018Beyond] Gupta, N., Eswaran, D., Shah, N., Akoglu, L. and Faloutsos, C., Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*.
+
+.. [#Pang2018Learning] Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018.
 
 .. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM Sigmod Record*\ , 29(2), pp. 427-438).
 
@@ -374,6 +380,8 @@ References
 .. [#Singh2012Outlier] Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. *International Journal of Computer Science Issues (IJCSI)*, 9(1), 307.
 
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
+
+.. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
