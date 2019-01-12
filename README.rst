@@ -180,15 +180,16 @@ A comparative evaluation of unsupervised anomaly detection algorithms for multiv
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
-===================  =================================================================================================  =====  ============================  ====================================================================================================
-Abbreviation         Paper Title                                                                                        Year   Ref                           Materials
-===================  =================================================================================================  =====  ============================  ====================================================================================================
-kNN                  Efficient algorithms for mining outliers from large data sets                                      2000   [#Ramaswamy2000Efficient]_    `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
-KNN                  Fast outlier detection in high dimensional spaces                                                  2002   [#Angiulli2002Fast]_          `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
-LOF                  LOF: identifying density-based local outliers                                                      2000   [#Breunig2000LOF]_            `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
-IForest              Isolation forest                                                                                   2008   [#Liu2008Isolation]_          `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
-OCSVM                Time-series novelty detection using one-class support vector machines                              2003   [#Ma2003Time]_                `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
-===================  =================================================================================================  =====  ============================  ====================================================================================================
+====================  =================================================================================================  =====  ============================  ====================================================================================================
+Abbreviation          Paper Title                                                                                        Year   Ref                           Materials
+====================  =================================================================================================  =====  ============================  ====================================================================================================
+kNN                   Efficient algorithms for mining outliers from large data sets                                      2000   [#Ramaswamy2000Efficient]_    `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
+KNN                   Fast outlier detection in high dimensional spaces                                                  2002   [#Angiulli2002Fast]_          `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
+LOF                   LOF: identifying density-based local outliers                                                      2000   [#Breunig2000LOF]_            `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
+IForest               Isolation forest                                                                                   2008   [#Liu2008Isolation]_          `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
+OCSVM                 Time-series novelty detection using one-class support vector machines                              2003   [#Ma2003Time]_                `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
+AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       2017   [#Chen2017Outlier]_           `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
+====================  =================================================================================================  =====  ============================  ====================================================================================================
 
 4.3. Graph & Network Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -360,6 +361,8 @@ References
 .. [#Goldstein2016A] Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data. *PloS one*\ , 11(4), p.e0152173.
 
 .. [#Hodge2004A] Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*\ , 22(2), pp.85-126.
+
+.. [#Chen2017Outlier] Chen, J., Sathe, S., Aggarwal, C. and Turaga, D., 2017, June. Outlier detection with autoencoder ensembles. *SIAM International Conference on Data Mining*, pp. 90-98. Society for Industrial and Applied Mathematics.
 
 .. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
 
