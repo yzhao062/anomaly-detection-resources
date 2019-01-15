@@ -175,6 +175,7 @@ A survey of outlier detection methodologies                                     
 On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study    2016   [#Campos2016On]_              `[HTML] <https://link.springer.com/article/10.1007/s10618-015-0444-8>`_, `[SLIDES] <https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf>`_
 Outlier detection: applications and techniques                                                     2012   [#Singh2012Outlier]_          `[PDF] <https://pdfs.semanticscholar.org/4f58/44c9e7db68af7c2c5b918082636c3307cef9.pdf>`_
 A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data        2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
+Research Issues in Outlier Detection                                                               2019   [#Suri2019Research]_          `[HTML] <https://link.springer.com/chapter/10.1007/978-3-030-05127-3_3>`_
 =================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -387,6 +388,8 @@ References
 .. [#Ranshous2015Anomaly] Ranshous, S., Shen, S., Koutra, D., Harenberg, S., Faloutsos, C. and Samatova, N.F., 2015. Anomaly detection in dynamic networks: a survey. Wiley Interdisciplinary Reviews: Computational Statistics, 7(3), pp.223-247.
 
 .. [#Singh2012Outlier] Singh, K., & Upadhyaya, S. (2012). Outlier detection: applications and techniques. *International Journal of Computer Science Issues (IJCSI)*, 9(1), 307.
+
+.. [#Suri2019Research] Suri, N.R. and Athithan, G., 2019. Research Issues in Outlier Detection. In *Outlier Detection: Techniques and Applications*, pp. 29-51. Springer, Cham.
 
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
 
