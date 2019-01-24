@@ -5,8 +5,8 @@ Anomaly Detection Learning Resources
 
 `Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
 (also known as `Anomaly Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_)
-is an exciting yet challenging field, aiming to identify outlying data objects.
-It has been proven critical in many fields, such as credit card fraud analytics,
+is an exciting yet challenging field. It aims to identify outlying data objects,
+and has been proven critical in many fields, such as credit card fraud analytics,
 network intrusion detection, and mechanical unit defect detection.
 
 In this repository, you could find:
@@ -18,8 +18,8 @@ In this repository, you could find:
 #. Open-source Libraries & Demo Codes
 #. **Paper Downloader (under development)**: a Python script to download open access papers listed in this repository.
 
-**I would continue adding more items to the repository**. 
-Please feel free to suggest some critical materials by opening an issue report, submitting a pull request, or
+**More items will be added to the repository**.
+Please feel free to add other key resources by opening an issue report, submitting a pull request, or
 dropping me an email @ (yuezhao@cs.toronto.edu). Enjoy reading!
 
 ----
@@ -36,11 +36,9 @@ Table of Contents
 * `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
 * `3. Toolbox & Datasets <#3-toolbox--datasets>`_
 
-  * `3.1. Python <#31-python>`_
-  * `3.2. Matlab <#32-matlab>`_
-  * `3.3. Java <#33-java>`_
-  * `3.4. Time series outlier detection <#34-time-series-outlier-detection>`_
-  * `3.5. Datasets <#35-datasets>`_
+  * `3.1. Python <#31-multivariate-data>`_
+  * `3.2. Time series outlier detection <#32-time-series-outlier-detection>`_
+  * `3.3. Datasets <#33-datasets>`_
 
 * `4. Papers <#4-papers>`_
 
@@ -74,19 +72,19 @@ Table of Contents
 
 `Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_ 
 by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. 
-A must-read for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
+A **must-read** for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
 
 `Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_ 
 by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier analysis.
 
 `Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_ 
-by Jiawei Han Micheline Kamber Jian Pei: Chapter 12 discusses outlier detection with many fundamental points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
+by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier detection with many key points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
 
 1.2. Tutorials
 ^^^^^^^^^^^^^^
 
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-Tutorial Title                                        Place                                         Year   Ref                           Materials
+Tutorial Title                                        Venue                                         Year   Ref                           Materials
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Outlier detection techniques                          *ACM SIGKDD 2010*                             2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
 Anomaly Detection: A Tutorial                         *ICDM 2011*                                   2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
@@ -99,10 +97,10 @@ Data mining for anomaly detection                     *PKDD 2008*               
 --------------------------
 
 **Coursera Introduction to Anomaly Detection (by IBM)**\ :
-https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detection
+`[See Video] <https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detection>`_
 
 **Coursera Real-Time Cyber Threat Detection and Mitigation partly covers the topic**\ :
-https://www.coursera.org/learn/real-time-cyber-threat-detection
+`[See Video] <https://www.coursera.org/learn/real-time-cyber-threat-detection>`_
 
 **Coursera Machine Learning by Andrew Ng also partly covers the topic**\ :
 
@@ -110,36 +108,34 @@ https://www.coursera.org/learn/real-time-cyber-threat-detection
 * `Anomaly Detection vs. Supervised Learning <https://www.coursera.org/learn/machine-learning/lecture/Rkc5x/anomaly-detection-vs-supervised-learning>`_
 * `Developing and Evaluating an Anomaly Detection System <https://www.coursera.org/learn/machine-learning/lecture/Mwrni/developing-and-evaluating-an-anomaly-detection-system>`_
 
-**Udemy Outlier Detection Algorithms in Data Mining and Data Science**\ : https://www.udemy.com/outlier-detection-techniques/
+**Udemy Outlier Detection Algorithms in Data Mining and Data Science**\ :
+`[See Video] <https://www.udemy.com/outlier-detection-techniques/>`_
 
-**Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques. http://web.stanford.edu/class/cs259d/
+**Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques.
+`[See Video] <http://web.stanford.edu/class/cs259d/>`_
 
 ----
 
 3. Toolbox & Datasets
 ---------------------
 
-3.1. Python
-^^^^^^^^^^^
+3.1. Multivariate Data
+^^^^^^^^^^^^^^^^^^^^^^
 
-`Scikit-learn Novelty and Outlier Detection <http://scikit-learn.org/stable/modules/outlier_detection.html>`_. It supports some popular algorithms like LOF, Isolation Forest and One-class SVM
+[**Python**] `Python Outlier Detection (PyOD) <https://github.com/yzhao062/Pyod>`_\ : PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. It contains more than 20 detection algorithms, including emerging deep learning models and outlier ensembles.
 
-`Python Outlier Detection (PyOD) <https://github.com/yzhao062/Pyod>`_\ : PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. It contains more than 20 detection algorithms, including emerging deep learning models and outlier ensembles.
+[**Python**] `Scikit-learn Novelty and Outlier Detection <http://scikit-learn.org/stable/modules/outlier_detection.html>`_. It supports some popular algorithms like LOF, Isolation Forest, and One-class SVM.
 
-3.2. Matlab
-^^^^^^^^^^^
+[**Matlab**] `Anomaly Detection Toolbox - Beta <http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/>`_\ : A collection of popular outlier detection algorithms in Matlab.
 
-`Anomaly Detection Toolbox - Beta <http://dsmi-lab-ntust.github.io/AnomalyDetectionToolbox/>`_\ : A collection of popular outlier detection algorithms in Matlab.
-
-3.3. Java
-^^^^^^^^^
-
-`ELKI: Environment for Developing KDD-Applications Supported by Index-Structures <https://elki-project.github.io/>`_\ : 
+[**Java**] `ELKI: Environment for Developing KDD-Applications Supported by Index-Structures <https://elki-project.github.io/>`_\ :
 ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
 
-`RapidMiner Anomaly Detection Extension <https://github.com/Markus-Go/rapidminer-anomalydetection>`_\ : The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
+[**Java**] `RapidMiner Anomaly Detection Extension <https://github.com/Markus-Go/rapidminer-anomalydetection>`_\ : The Anomaly Detection Extension for RapidMiner comprises the most well know unsupervised anomaly detection algorithms, assigning individual anomaly scores to data rows of example sets. It allows you to find data, which is significantly different from the normal, without the need for the data being labeled.
 
-3.4. Time series outlier detection
+[**R**] `outliers package <https://cran.r-project.org/web/packages/outliers/index.html>`_\ : A collection of some tests commonly used for identifying outliers in R.
+
+3.2. Time series outlier detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
@@ -148,7 +144,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 * `banpei <https://github.com/tsurubee/banpei>`_
 * `AnomalyDetection <https://github.com/twitter/AnomalyDetection>`_
 
-3.5. Datasets
+3.3. Datasets
 ^^^^^^^^^^^^^
 
 **ELKI Outlier Datasets**\ : https://elki-project.github.io/datasets/outlier
