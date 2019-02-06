@@ -182,16 +182,16 @@ Research Issues in Outlier Detection                                            
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
-====================  =================================================================================================  =====  ============================  ====================================================================================================
-Abbreviation          Paper Title                                                                                        Year   Ref                           Materials
-====================  =================================================================================================  =====  ============================  ====================================================================================================
-kNN                   Efficient algorithms for mining outliers from large data sets                                      2000   [#Ramaswamy2000Efficient]_    `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
-KNN                   Fast outlier detection in high dimensional spaces                                                  2002   [#Angiulli2002Fast]_          `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
-LOF                   LOF: identifying density-based local outliers                                                      2000   [#Breunig2000LOF]_            `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
-IForest               Isolation forest                                                                                   2008   [#Liu2008Isolation]_          `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
-OCSVM                 Time-series novelty detection using one-class support vector machines                              2003   [#Ma2003Time]_                `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
-AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       2017   [#Chen2017Outlier]_           `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
-====================  =================================================================================================  =====  ============================  ====================================================================================================
+====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
+Abbreviation          Paper Title                                                                                        Venue                              Year   Ref                         Materials
+====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
+kNN                   Efficient algorithms for mining outliers from large data sets                                      ACM SIGMOD Record                  2000   [#Ramaswamy2000Efficient]_  `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
+KNN                   Fast outlier detection in high dimensional spaces                                                  PKDD                               2002   [#Angiulli2002Fast]_        `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
+LOF                   LOF: identifying density-based local outliers                                                      ACM SIGMOD Record                  2000   [#Breunig2000LOF]_          `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
+IForest               Isolation forest                                                                                   ICDM                               2008   [#Liu2008Isolation]_        `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
+OCSVM                 Time-series novelty detection using one-class support vector machines                              IJNCC                              2003   [#Ma2003Time]_              `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
+AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       SDM                                2017   [#Chen2017Outlier]_         `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
+====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
 
 4.3. Graph & Network Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -372,7 +372,7 @@ References
 
 .. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery*, pp. 15-27.
 
-.. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM Sigmod Record*\ , 29(2), pp. 93-104.
+.. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM SIGMOD Record*\ , 29(2), pp. 93-104.
 
 .. [#Campos2016On] Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*\ , 30(4), pp.891-927.
 
@@ -420,7 +420,7 @@ References
 
 .. [#Pelleg2005Active] Pelleg, D. and Moore, A.W., 2005. Active learning for anomaly and rare-category detection. In *Advances in neural information processing systems*\, pp. 1073-1080.
 
-.. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM Sigmod Record*\ , 29(2), pp. 427-438.
+.. [#Ramaswamy2000Efficient] Ramaswamy, S., Rastogi, R. and Shim, K., 2000, May. Efficient algorithms for mining outliers from large data sets. *ACM SIGMOD Record*\ , 29(2), pp. 427-438.
 
 .. [#Ranshous2015Anomaly] Ranshous, S., Shen, S., Koutra, D., Harenberg, S., Faloutsos, C. and Samatova, N.F., 2015. Anomaly detection in dynamic networks: a survey. Wiley Interdisciplinary Reviews: Computational Statistics, 7(3), pp.223-247.
 
