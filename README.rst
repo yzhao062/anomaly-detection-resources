@@ -228,9 +228,13 @@ Learning homophily couplings from non-iid data for joint feature selection and n
 4.6. High-dimensional & Subspace Outliers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Zimek, A., Schubert, E. and Kriegel, H.P., 2012. A survey on unsupervised outlier detection in high‐dimensional numerical data. *Statistical Analysis and Data Mining: The ASA Data Science Journal*\ , 5(5), pp.363-387. `[Downloadable Link] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                         Venue                         Year   Ref                           Materials
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A survey on unsupervised outlier detection in high‐dimensional numerical data                        Stat Anal Data Min            2012   [#Zimek2012A]_                `[Downloadable Link] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
+Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
-Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018. `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
 
 4.7. Outlier Ensembles
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -431,6 +435,8 @@ References
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
 .. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
+
+.. [#Zimek2012A] Zimek, A., Schubert, E. and Kriegel, H.P., 2012. A survey on unsupervised outlier detection in high‐dimensional numerical data. *Statistical Analysis and Data Mining: The ASA Data Science Journal*\ , 5(5), pp.363-387.
 
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
