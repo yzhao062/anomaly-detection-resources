@@ -283,9 +283,13 @@ Discriminative features for identifying and interpreting outliers               
 4.11. Social Media Anomaly Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14. `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A survey on social media anomaly detection                                                         SIGKDD explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
+Glad: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
-Yu, R., He, X. and Liu, Y., 2015. Glad: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18. `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
 
 4.12. Outlier Detection in Other fields
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -433,6 +437,10 @@ References
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
 
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
+
+.. [#Yu2015Glad] Yu, R., He, X. and Liu, Y., 2015. Glad: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18.
+
+.. [#Yu2016A] Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14.
 
 .. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
