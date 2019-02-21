@@ -57,6 +57,7 @@ Table of Contents
   * `4.12. Outlier Detection in Other fields <#412-outlier-detection-in-other-fields>`_
   * `4.13. Outlier Detection Applications <#413-outlier-detection-applications>`_
   * `4.14. Active Anomaly Detection <#414-active-anomaly-detection>`_
+  * `4.15. Outlier Detection with Neural Networks <#415-outlier-detection-with-neural-networks>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -323,6 +324,17 @@ Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretabili
 ==================================================================================================  =====  ============================  ==========================================================================================================================================================================
 
 
+4.15. Outlier Detection with Neural Networks
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks  Preprint                      2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
+Generative Adversarial Active Learning for Unsupervised Outlier Detection.                         Preprint                      2018   [#Liu2018Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
 ----
 
 5. Key Conferences/Workshops/Journals
@@ -411,9 +423,13 @@ References
 
 .. [#Lazarevic2008Data] Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. *Tutorial at ECML PKDD 2008*.
 
+.. [#Li2019MAD] Li, D., Chen, D., Shi, L., Jin, B., Goh, J. and Ng, S.K., 2019. MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks. arXiv preprint arXiv:1901.04997.
+
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
 .. [#Liu2018Contextual] Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. In *International Joint Conference on Artificial Intelligence (IJCAI-18)*, pp.2461-2467.
+
+.. [#Liu2018Generative] Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M. and He, X., 2018. Generative Adversarial Active Learning for Unsupervised Outlier Detection. arXiv preprint arXiv:1809.10816.
 
 .. [#Ma2003Time] Ma, J. and Perkins, S., 2003, July. Time-series novelty detection using one-class support vector machines. In *IJCNN' 03*\ , pp. 1741-1745. IEEE.
 
