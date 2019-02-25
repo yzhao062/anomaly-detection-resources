@@ -89,9 +89,9 @@ by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier de
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Tutorial Title                                        Venue                                         Year   Ref                           Materials
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-Outlier detection techniques                          *ACM SIGKDD 2010*                             2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
-Anomaly Detection: A Tutorial                         *ICDM 2011*                                   2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-Data mining for anomaly detection                     *PKDD 2008*                                   2008   [#Lazarevic2008Data]_         `[See Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
+Outlier detection techniques                          ACM SIGKDD                                    2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
+Anomaly Detection: A Tutorial                         ICDM 2011                                     2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
+Data mining for anomaly detection                     PKDD 2008                                     2008   [#Lazarevic2008Data]_         `[Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
