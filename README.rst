@@ -232,7 +232,7 @@ Learning homophily couplings from non-iid data for joint feature selection and n
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                         Venue                         Year   Ref                           Materials
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-A survey on unsupervised outlier detection in high‐dimensional numerical data                        Stat Anal Data Min            2012   [#Zimek2012A]_                `[Downloadable Link] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
+A survey on unsupervised outlier detection in high-dimensional numerical data                        Stat Anal Data Min            2012   [#Zimek2012A]_                `[Downloadable Link] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
 Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
@@ -303,25 +303,25 @@ Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection 
 4.13. Outlier Detection Applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-============== =================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Field          Paper Title                                                                                        Year   Ref                           Materials
-============== =================================================================================================  =====  ============================  ==========================================================================================================================================================================
-**Security**   A survey of distance and similarity measures used within network intrusion anomaly detection       2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
-**Security**   Anomaly-based network intrusion detection: Techniques, systems and challenges                      2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
-**Finance**    A survey of anomaly detection techniques in financial domain                                       2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
-============== =================================================================================================  =====  ============================  ==========================================================================================================================================================================
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Field          Paper Title                                                                                        Venue                         Year   Ref                           Materials
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+**Security**   A survey of distance and similarity measures used within network intrusion anomaly detection       IEEE Commun. Surv. Tutor.     2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
+**Security**   Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
+**Finance**    A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
 4.14. Active Anomaly Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-==================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                         Year   Ref                           Materials
-==================================================================================================  =====  ============================  ==========================================================================================================================================================================
-Active learning for anomaly and rare-category detection                                             2005   [#Pelleg2005Active]_          `[PDF] <http://papers.nips.cc/paper/2554-active-learning-for-anomaly-and-rare-category-detection.pdf>`_
-Outlier detection by active learning                                                                2006   [#Abe2006Outlier]_            `[PDF] <https://www.researchgate.net/profile/Naoki_Abe2/publication/221653343_Outlier_detection_by_active_learning/links/5441464a0cf2e6f0c0f60abb.pdf>`_
-Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability                  2019   [#Das2019Active]_             `[PDF] <https://arxiv.org/pdf/1901.08930.pdf>`_
-==================================================================================================  =====  ============================  ==========================================================================================================================================================================
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                         Venue                         Year   Ref                           Materials
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Active learning for anomaly and rare-category detection                                             NIPS                          2005   [#Pelleg2005Active]_          `[PDF] <http://papers.nips.cc/paper/2554-active-learning-for-anomaly-and-rare-category-detection.pdf>`_
+Outlier detection by active learning                                                                SIGKDD                        2006   [#Abe2006Outlier]_            `[PDF] <https://www.researchgate.net/profile/Naoki_Abe2/publication/221653343_Outlier_detection_by_active_learning/links/5441464a0cf2e6f0c0f60abb.pdf>`_
+Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability                  Preprint                      2019   [#Das2019Active]_             `[PDF] <https://arxiv.org/pdf/1901.08930.pdf>`_
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
 4.15. Outlier Detection with Neural Networks
@@ -409,7 +409,7 @@ References
 
 .. [#Das2019Active] Das, S., Islam, M.R., Jayakodi, N.K. and Doppa, J.R., 2019. Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability. arXiv preprint arXiv:1901.08930.
 
-.. [#GarciaTeodoro2009Anomaly] Garcia-Teodoro, P., Diaz-Verdejo, J., Maciá-Fernández, G. and Vázquez, E., 2009. Anomaly-based network intrusion detection: Techniques, systems and challenges. *computers & security*\ , 28(1-2), pp.18-28.
+.. [#GarciaTeodoro2009Anomaly] Garcia-Teodoro, P., Diaz-Verdejo, J., Maciá-Fernández, G. and Vázquez, E., 2009. Anomaly-based network intrusion detection: Techniques, systems and challenges. *Computers & Security*\ , 28(1-2), pp.18-28.
 
 .. [#Goldstein2016A] Goldstein, M. and Uchida, S., 2016. A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data. *PloS one*\ , 11(4), p.e0152173.
 
