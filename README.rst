@@ -115,7 +115,7 @@ Data mining for anomaly detection                     PKDD                      
 **Udemy Outlier Detection Algorithms in Data Mining and Data Science**\ :
 `[See Video] <https://www.udemy.com/outlier-detection-techniques/>`_
 
-**Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques.
+**Stanford Data Mining for Cyber Security** also covers part of anomaly detection techniques\ :
 `[See Video] <http://web.stanford.edu/class/cs259d/>`_
 
 ----
@@ -184,16 +184,16 @@ Research Issues in Outlier Detection                                            
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
-====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
+====================  =================================================================================================  =================================  =====  ==========================  ==============================================================================================================================================================================================
 Abbreviation          Paper Title                                                                                        Venue                              Year   Ref                         Materials
-====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
+====================  =================================================================================================  =================================  =====  ==========================  ==============================================================================================================================================================================================
 kNN                   Efficient algorithms for mining outliers from large data sets                                      ACM SIGMOD Record                  2000   [#Ramaswamy2000Efficient]_  `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/pub/check/ramaswamy.pdf>`_
-KNN                   Fast outlier detection in high dimensional spaces                                                  PKDD                               2002   [#Angiulli2002Fast]_        `[HTML] <https://link.springer.com/chapter/10.1007/3-540-45681-3_2>`_
+KNN                   Fast outlier detection in high dimensional spaces                                                  PKDD                               2002   [#Angiulli2002Fast]_        `[PDF] <https://www.researchgate.net/profile/Clara_Pizzuti/publication/220699183_Fast_Outlier_Detection_in_High_Dimensional_Spaces/links/542ea6a60cf27e39fa9635c6.pdf>`_
 LOF                   LOF: identifying density-based local outliers                                                      ACM SIGMOD Record                  2000   [#Breunig2000LOF]_          `[PDF] <http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf>`_
 IForest               Isolation forest                                                                                   ICDM                               2008   [#Liu2008Isolation]_        `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
 OCSVM                 Time-series novelty detection using one-class support vector machines                              IJCNN                              2003   [#Ma2003Time]_              `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.653.2440&rep=rep1&type=pdf>`_
 AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       SDM                                2017   [#Chen2017Outlier]_         `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
-====================  =================================================================================================  =================================  =====  ==========================  ====================================================================================================
+====================  =================================================================================================  =================================  =====  ==========================  ==============================================================================================================================================================================================
 
 4.3. Graph & Network Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
