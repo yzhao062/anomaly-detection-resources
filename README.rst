@@ -38,7 +38,7 @@ Table of Contents
 * `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
 * `3. Toolbox & Datasets <#3-toolbox--datasets>`_
 
-  * `3.1. Python <#31-multivariate-data>`_
+  * `3.1. Multivariate data outlier detection <#31-multivariate-data>`_
   * `3.2. Time series outlier detection <#32-time-series-outlier-detection>`_
   * `3.3. Datasets <#33-datasets>`_
 
