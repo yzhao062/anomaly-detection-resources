@@ -293,7 +293,7 @@ Discriminative features for identifying and interpreting outliers               
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 A survey on social media anomaly detection                                                         SIGKDD Explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
-Glad: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
+GLAD: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -466,7 +466,7 @@ References
 
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
-.. [#Yu2015Glad] Yu, R., He, X. and Liu, Y., 2015. Glad: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18.
+.. [#Yu2015Glad] Yu, R., He, X. and Liu, Y., 2015. GLAD: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18.
 
 .. [#Yu2016A] Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14.
 
