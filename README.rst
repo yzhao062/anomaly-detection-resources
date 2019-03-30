@@ -13,7 +13,12 @@ Anomaly Detection Learning Resources
 
 .. image:: https://img.shields.io/github/license/yzhao062/anomaly-detection-resources.svg
    :target: https://github.com/yzhao062/anomaly-detection-resources/blob/master/LICENSE
-   :alt: GitHub
+   :alt: License
+
+
+.. image:: https://img.shields.io/badge/link-996.icu-red.svg
+   :target: https://github.com/996icu/996.ICU
+   :alt: 996.ICU
 
 
 ----
