@@ -42,7 +42,7 @@ This repository collects:
 
 **More items will be added to the repository**.
 Please feel free to add other key resources by opening an issue report, submitting a pull request, or
-dropping me an email @ (yuezhao@cs.toronto.edu). Enjoy reading!
+dropping me an email @ (zhaoy@cmu.edu). Enjoy reading!
 
 ----
 
