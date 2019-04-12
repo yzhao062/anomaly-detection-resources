@@ -355,7 +355,7 @@ Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretabili
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks  Preprint                      2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
-Generative Adversarial Active Learning for Unsupervised Outlier Detection.                         Preprint                      2018   [#Liu2018Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
+Generative Adversarial Active Learning for Unsupervised Outlier Detection                          TKDE                          2019   [#Liu2019Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
 Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                        ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
@@ -456,7 +456,7 @@ References
 
 .. [#Liu2018Contextual] Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. In *International Joint Conference on Artificial Intelligence (IJCAI-18)*, pp.2461-2467.
 
-.. [#Liu2018Generative] Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M. and He, X., 2018. Generative Adversarial Active Learning for Unsupervised Outlier Detection. arXiv preprint arXiv:1809.10816.
+.. [#Liu2019Generative] Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M. and He, X., 2019. Generative Adversarial Active Learning for Unsupervised Outlier Detection. *IEEE transactions on knowledge and data engineering*.
 
 .. [#Ma2003Time] Ma, J. and Perkins, S., 2003, July. Time-series novelty detection using one-class support vector machines. In *IJCNN' 03*\ , pp. 1741-1745. IEEE.
 
