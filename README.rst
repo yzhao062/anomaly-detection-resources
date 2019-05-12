@@ -79,6 +79,7 @@ Table of Contents
   * `4.13. Outlier Detection Applications <#413-outlier-detection-applications>`_
   * `4.14. Active Anomaly Detection <#414-active-anomaly-detection>`_
   * `4.15. Outlier Detection with Neural Networks <#415-outlier-detection-with-neural-networks>`_
+  * `4.16. Interactive Outlier Detection <#416-interactive-outlier-detection>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -366,6 +367,17 @@ Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection     
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
+4.16. Interactive Outlier Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Learning On-the-Job to Re-rank Anomalies from Top-1 Feedback                                       SDM                           2019   [#Lamba2019Learning]_         `[PDF] <https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.69>`_
+Interactive anomaly detection on attributed networks                                               WSDM                          2019   [#Ding2019Interactive]_       `[PDF] <http://www.public.asu.edu/~jundongl/paper/WSDM19_GraphUCB.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
 ----
 
 5. Key Conferences/Workshops/Journals
@@ -515,3 +527,7 @@ References
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
 .. [#Zhao2019LSCP] Zhao, Y., Nasrullah, Z., Hryniewicki, M.K. and Li, Z., 2019, May. LSCP: Locally selective combination in parallel outlier ensembles. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 585-593. Society for Industrial and Applied Mathematics.
+
+.. [#Lamba2019Learning] Lamba, H. and Akoglu, L., 2019, May. Learning On-the-Job to Re-rank Anomalies from Top-1 Feedback. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 612-620. Society for Industrial and Applied Mathematics.
+
+.. [#Ding2019Interactive] Ding, K., Li, J. and Liu, H., 2019, January. Interactive anomaly detection on attributed networks. In *Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining*, pp. 357-365. ACM.
