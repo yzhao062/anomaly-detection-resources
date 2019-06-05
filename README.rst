@@ -329,7 +329,12 @@ GLAD: group anomaly detection in social media analysis                          
 4.12. Outlier Detection in Other fields
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection for text data. In Proceedings of the 2017 SIAM International Conference on Data Mining (pp. 489-497). Society for Industrial and Applied Mathematics. `[PDF] <https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55>`_
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Field          Paper Title                                                                                        Venue                         Year   Ref                           Materials
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+**Text**       Outlier detection for text data                                                                    SDM                           2017   [#Kannan2017Outlier]_         `[PDF] <https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55>`_
+============== =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
 
 4.13. Outlier Detection Applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -471,6 +476,8 @@ References
 .. [#Hodge2004A] Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*\ , 22(2), pp.85-126.
 
 .. [#Hundman2018Detecting] Hundman, K., Constantinou, V., Laporte, C., Colwell, I. and Soderstrom, T., 2018, July. Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding. In *Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*, (pp. 387-395). ACM.
+
+.. [#Kannan2017Outlier] Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection for text data. In *Proceedings of the 2017 SIAM International Conference on Data Mining*, pp. 489-497. Society for Industrial and Applied Mathematics. `[PDF] <https://epubs.siam.org/doi/pdf/10.1137/1.9781611974973.55>`_
 
 .. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
 
