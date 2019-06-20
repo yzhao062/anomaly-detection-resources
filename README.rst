@@ -76,8 +76,8 @@ Table of Contents
   * `4.9. Representation Learning in Outlier Detection <#49-representation-learning-in-outlier-detection>`_
   * `4.10. Interpretability <#410-interpretability>`_
   * `4.11. Active Anomaly Detection <#411-active-anomaly-detection>`_
-  * `4.12. Outlier Detection with Neural Networks <#412-outlier-detection-with-neural-networks>`_
-  * `4.13. Interactive Outlier Detection <#413-interactive-outlier-detection>`_
+  * `4.12. Interactive Outlier Detection <#412-interactive-outlier-detection>`_
+  * `4.13. Outlier Detection with Neural Networks <#413-outlier-detection-with-neural-networks>`_
   * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
 
@@ -319,19 +319,7 @@ Sequential Feature Explanations for Anomaly Detection                           
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
-4.11. Active Anomaly Detection
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                         Venue                         Year   Ref                           Materials
-==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Active learning for anomaly and rare-category detection                                             NeurIPS                       2005   [#Pelleg2005Active]_          `[PDF] <http://papers.nips.cc/paper/2554-active-learning-for-anomaly-and-rare-category-detection.pdf>`_
-Outlier detection by active learning                                                                SIGKDD                        2006   [#Abe2006Outlier]_            `[PDF] <https://www.researchgate.net/profile/Naoki_Abe2/publication/221653343_Outlier_detection_by_active_learning/links/5441464a0cf2e6f0c0f60abb.pdf>`_
-Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability                  Preprint                      2019   [#Das2019Active]_             `[PDF] <https://arxiv.org/pdf/1901.08930.pdf>`_
-==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-
-
-4.12. Outlier Detection with Neural Networks
+4.11. Outlier Detection with Neural Networks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -343,6 +331,17 @@ Generative Adversarial Active Learning for Unsupervised Outlier Detection       
 Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                        ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
+
+4.12. Active Anomaly Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                         Venue                         Year   Ref                           Materials
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Active learning for anomaly and rare-category detection                                             NeurIPS                       2005   [#Pelleg2005Active]_          `[PDF] <http://papers.nips.cc/paper/2554-active-learning-for-anomaly-and-rare-category-detection.pdf>`_
+Outlier detection by active learning                                                                SIGKDD                        2006   [#Abe2006Outlier]_            `[PDF] <https://www.researchgate.net/profile/Naoki_Abe2/publication/221653343_Outlier_detection_by_active_learning/links/5441464a0cf2e6f0c0f60abb.pdf>`_
+Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability                  Preprint                      2019   [#Das2019Active]_             `[PDF] <https://arxiv.org/pdf/1901.08930.pdf>`_
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.13. Interactive Outlier Detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -375,7 +374,7 @@ Field               Paper Title                                                 
 **Security**        A survey of distance and similarity measures used within network intrusion anomaly detection       IEEE Commun. Surv. Tutor.     2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
 **Security**        Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
 **Finance**         A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
-**Traffic**         Outlier Detection in Urban Traffic Data                                                            WIMS                          2018   [#Djenouri2018Outlier]_       `[HTML] <https://dl.acm.org/citation.cfm?id=3227692>`_
+**Traffic**         Outlier Detection in Urban Traffic Data                                                            WIMS                          2018   [#Djenouri2018Outlier]_       `[PDF] <http://dss.sdu.dk/assets/fpd-lof/outlier-detection-urban.pdf>`_
 **Social Media**    A survey on social media anomaly detection                                                         SIGKDD Explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
 **Social Media**    GLAD: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
 ================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
