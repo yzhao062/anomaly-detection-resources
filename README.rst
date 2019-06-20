@@ -75,9 +75,9 @@ Table of Contents
   * `4.8. Outlier Detection in Evolving Data <#48-outlier-detection-in-evolving-data>`_
   * `4.9. Representation Learning in Outlier Detection <#49-representation-learning-in-outlier-detection>`_
   * `4.10. Interpretability <#410-interpretability>`_
-  * `4.11. Active Anomaly Detection <#411-active-anomaly-detection>`_
-  * `4.12. Interactive Outlier Detection <#412-interactive-outlier-detection>`_
-  * `4.13. Outlier Detection with Neural Networks <#413-outlier-detection-with-neural-networks>`_
+  * `4.11. Outlier Detection with Neural Networks <#411-outlier-detection-with-neural-networks>`_
+  * `4.12. Active Anomaly Detection <#412-active-anomaly-detection>`_
+  * `4.13. Interactive Outlier Detection <#413-interactive-outlier-detection>`_
   * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
 
