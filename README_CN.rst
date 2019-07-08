@@ -23,7 +23,7 @@
 
 ----
 
-`异常检测（anomaly detection）<https://zh.wikipedia.org/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B>`_
+`异常检测 (anomaly detection) <https://zh.wikipedia.org/wiki/%E5%BC%82%E5%B8%B8%E6%A3%80%E6%B5%8B>`_
 (又名 Outlier Detection) 是一个重要但非常有挑战性的领域。异常检测的目标主要是找到数据中
 偏离于主要分布的案例--它在很多领域都有重要意义，包括「信用卡诈骗检测」、「网络入侵检测」、
 「机械故障检测」等。
