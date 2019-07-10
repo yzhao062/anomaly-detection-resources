@@ -38,18 +38,17 @@
 #. 重要的会议与期刊
 
 
-**More items will be added to the repository**.
-Please feel free to suggest other key resources by opening an issue report,
-submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
-Enjoy reading!
+**更多内容会被陆续添加到当前仓库中来**.
+请建议/推荐相关资源，你可以选择提交issue report、pull request或者给我发邮件 (zhaoy@cmu.edu)。
+Enjoy reading！
 
 ----
 
-Table of Contents
+目录
 -----------------
 
 
-* `1. Books & Tutorials <#1-books--tutorials>`_
+* `1. 书籍 & 教程 <#1-书籍--教程>`_
 
   * `1.1. Books <#11-books>`_
   * `1.2. Tutorials <#12-tutorials>`_
@@ -87,7 +86,7 @@ Table of Contents
 
 ----
 
-1. Books & Tutorials
+1. 书籍 & 教程
 --------------------
 
 1.1. Books
