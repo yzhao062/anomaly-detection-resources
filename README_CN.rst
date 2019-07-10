@@ -28,14 +28,14 @@
 偏离于主要分布的案例--它在很多领域都有重要意义，包括「信用卡诈骗检测」、「网络入侵检测」、
 「机械故障检测」等。
 
-This repository collects:
+这个仓库中收藏了关于异常检测的：
 
 
-#. Books & Academic Papers
-#. Online Courses and Videos
-#. Outlier Datasets
-#. Open-source and Commercial Libraries/Toolkits
-#. Key Conferences & Journals
+#. 专业书籍与学术论文
+#. 在线课程与视频
+#. 异常检测数据集
+#. 开源与商业工具库
+#. 重要的会议与期刊
 
 
 **More items will be added to the repository**.
