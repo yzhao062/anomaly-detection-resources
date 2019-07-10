@@ -87,10 +87,10 @@ Enjoy reading！
 ----
 
 1. 书籍 & 教程
---------------------
+-------------
 
-1.1. Books
-^^^^^^^^^^
+1.1. 书籍
+^^^^^^^^
 
 `Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_
 by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques.
@@ -102,8 +102,8 @@ by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in out
 `Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_
 by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier detection with many key points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
 
-1.2. Tutorials
-^^^^^^^^^^^^^^
+1.2. 教程
+^^^^^^^^
 
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Tutorial Title                                        Venue                                         Year   Ref                           Materials
