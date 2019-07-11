@@ -93,20 +93,20 @@ Enjoy reading！
 ^^^^^^^^
 
 `Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_
-by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques.
-A **must-read** for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
+作者: Charu Aggarwal: 经典异常检测教科书，内容涵盖了大部分相关算法与应用。异常检测领域人士必读。
+`[预览.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
 
 `Outlier Ensembles: An Introduction <https://www.springer.com/gp/book/9783319547640>`_
-by Charu Aggarwal and Saket Sathe: Great intro book for ensemble learning in outlier analysis.
+作者: Charu Aggarwal and Saket Sathe: 非常权威的集成异常检测教科书。
 
 `Data Mining: Concepts and Techniques (3rd) <https://www.elsevier.com/books/data-mining-concepts-and-techniques/han/978-0-12-381479-1>`_
-by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier detection with many key points. `[Google Search] <https://www.google.ca/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
+作者: 韩家炜 (Jiawei Han) and Micheline Kamber and Jian Pei (裴健): 该书第十二章讨论了异常检测技术。 `[Google Search] <https://www.google.com/search?&q=data+mining+jiawei+han&oq=data+ming+jiawei>`_
 
 1.2. 教程
 ^^^^^^^^
 
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
-Tutorial Title                                        Venue                                         Year   Ref                           Materials
+名字                                                   发表于                                         时间    文献                           材料
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Outlier detection techniques                          ACM SIGKDD                                    2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
 Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
