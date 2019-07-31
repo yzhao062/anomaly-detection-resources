@@ -115,9 +115,10 @@ by Jiawei Han and Micheline Kamber and Jian Pei: Chapter 12 discusses outlier de
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Tutorial Title                                        Venue                                         Year   Ref                           Materials
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
+Data mining for anomaly detection                     PKDD                                          2008   [#Lazarevic2008Data]_         `[Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
 Outlier detection techniques                          ACM SIGKDD                                    2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
 Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-Data mining for anomaly detection                     PKDD                                          2008   [#Lazarevic2008Data]_         `[Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
+Which Anomaly Detector should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
@@ -546,6 +547,8 @@ References
 .. [#Suri2019Research] Suri, N.R. and Athithan, G., 2019. Research Issues in Outlier Detection. In *Outlier Detection: Techniques and Applications*, pp. 29-51. Springer, Cham.
 
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
+
+.. [#Ting2018Which] Ting, KM., Aryal, S. and Washio, T., 2018, Which Anomaly Detector should I use? *Tutorial at ICDM 2018*.
 
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
