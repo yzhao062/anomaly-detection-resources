@@ -231,6 +231,7 @@ Paper Title                                                                     
 =================================================================================================  =============================  =====  ============================  ==========================================================================================================================================================================
 Graph based anomaly detection and description: a survey                                            DMKD                           2015   [#Akoglu2015Graph]_           `[PDF] <https://arxiv.org/pdf/1404.4679.pdf>`_
 Anomaly detection in dynamic networks: a survey                                                    WIREs Computational Statistic  2015   [#Ranshous2015Anomaly]_       `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347>`_
+Outlier detection in graphs: On the impact of multiple graph models                                ComSIS                         2019   [#Campos2019Outlier]_         `[PDF] <http://www.comsis.org/pdf.php?id=wims-8671>`_
 =================================================================================================  =============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -262,7 +263,7 @@ Learning homophily couplings from non-iid data for joint feature selection and n
 ==================================================================================================  ============================  =====  ============================  =======================================================================================================================================================================================================
 Paper Title                                                                                         Venue                         Year   Ref                           Materials
 ==================================================================================================  ============================  =====  ============================  =======================================================================================================================================================================================================
-A survey on unsupervised outlier detection in high-dimensional numerical data                        Stat Anal Data Min            2012   [#Zimek2012A]_                `[HTML] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
+A survey on unsupervised outlier detection in high-dimensional numerical data                       Stat Anal Data Min            2012   [#Zimek2012A]_                `[HTML] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
 Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
 Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection                          TKDE                          2015   [#Radovanovic2015Reverse]_    `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9559&rep=rep1&type=pdf>`_, `[SLIDES] <https://pdfs.semanticscholar.org/c8aa/832362422418287ff56793c780b425afa93f.pdf>`_
 Outlier detection for high-dimensional data                                                         Biometrika                    2015   [#Ro2015Outlier]_             `[PDF] <http://web.hku.hk/~gyin/materials/2015RoZouWangYinBiometrika.pdf>`_
@@ -453,6 +454,8 @@ References
 .. [#Campos2016On] Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*\ , 30(4), pp.891-927.
 
 .. [#Campos2018An] Campos, G.O., Zimek, A. and Meira, W., 2018, June. An Unsupervised Boosting Strategy for Outlier Detection Ensembles. In *Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 564-576)*. Springer, Cham.
+
+.. [#Campos2019Outlier] Campos, G.O., Moreira, E., Meira Jr, W. and Zimek, A., 2019. Outlier Detection in Graphs: A Study on the Impact of Multiple Graph Models. *Computer Science & Information Systems*, 16(2).
 
 .. [#Chandola2009Anomaly] Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *ACM computing surveys* , 41(3), p.15.
 
