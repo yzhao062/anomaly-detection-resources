@@ -16,6 +16,11 @@ Anomaly Detection Learning Resources
    :alt: License
 
 
+.. image:: https://awesome.re/badge-flat2.svg
+   :target: https://awesome.re/badge-flat2.svg
+   :alt: Awesome
+
+
 .. image:: https://img.shields.io/badge/link-996.icu-red.svg
    :target: https://github.com/996icu/996.ICU
    :alt: 996.ICU
