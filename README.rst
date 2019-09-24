@@ -84,6 +84,7 @@ Table of Contents
   * `4.13. Interactive Outlier Detection <#413-interactive-outlier-detection>`_
   * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
+  * `4.16. Emerging and Interesting Topics <#416-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -397,6 +398,16 @@ Field                  Paper Title                                              
 ===================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
+4.16. Emerging and Interesting Topics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Clustering with Outlier Removal                                                                    Preprint                      2018   [#Liu2018Clustering]_         `[PDF] <https://arxiv.org/pdf/1801.01899.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
 ----
 
 5. Key Conferences/Workshops/Journals
@@ -514,6 +525,8 @@ References
 .. [#Li2019MAD] Li, D., Chen, D., Shi, L., Jin, B., Goh, J. and Ng, S.K., 2019. MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks. arXiv preprint arXiv:1901.04997.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
+
+.. [#Liu2018Clustering] Liu, H., Li, J., Wu, Y. and Fu, Y., 2018. Clustering with Outlier Removal. arXiv preprint arXiv:1801.01899.
 
 .. [#Liu2018Contextual] Liu, N., Shin, D. and Hu, X., 2017. Contextual outlier interpretation. In *International Joint Conference on Artificial Intelligence (IJCAI-18)*, pp.2461-2467.
 
