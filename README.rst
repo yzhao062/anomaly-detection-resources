@@ -21,11 +21,6 @@ Anomaly Detection Learning Resources
    :alt: Awesome
 
 
-.. image:: https://img.shields.io/badge/link-996.icu-red.svg
-   :target: https://github.com/996icu/996.ICU
-   :alt: 996.ICU
-
-
 ----
 
 `Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
@@ -345,6 +340,7 @@ MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adv
 Generative Adversarial Active Learning for Unsupervised Outlier Detection                          TKDE                          2019   [#Liu2019Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
 Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                        ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
 Deep Anomaly Detection with Outlier Exposure                                                       ICLR                          2019   [#Hendrycks2019Deep]_         `[PDF] <https://arxiv.org/pdf/1812.04606.pdf>`_, `[Code] <https://github.com/hendrycks/outlier-exposure>`_
+Unsupervised Anomaly Detection With LSTM Neural Networks                                           IEEE TNNLS                    2019   [#Ergen2019Unsupervised]_     `[PDF] <https://arxiv.org/pdf/1710.09207.pdf>`_, `[IEEE] <https://ieeexplore.ieee.org/document/8836638>`_,
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -500,6 +496,8 @@ References
 .. [#Domingues2018A] Domingues, R., Filippone, M., Michiardi, P. and Zouaoui, J., 2018. A comparative evaluation of outlier detection algorithms: Experiments and analyses. *Pattern Recognition*, 74, pp.406-421.
 
 .. [#Emmott2015A] Emmott, A., Das, S., Dietterich, T., Fern, A. and Wong, W.K., 2015. A meta-analysis of the anomaly detection problem. arXiv preprint arXiv:1503.01158.
+
+.. [#Ergen2019Unsupervised] Ergen, T. and Kozat, S.S., 2019. Unsupervised Anomaly Detection With LSTM Neural Networks. *IEEE transactions on neural networks and learning systems*.
 
 .. [#Falcao2019Quantitative] Falcão, F., Zoppi, T., Silva, C.B.V., Santos, A., Fonseca, B., Ceccarelli, A. and Bondavalli, A., 2019, April. Quantitative comparison of unsupervised anomaly detection algorithms for intrusion detection. In *Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing*, (pp. 318-327). ACM.
 
