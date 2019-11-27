@@ -60,7 +60,8 @@ Table of Contents
 
   * `3.1. Multivariate data outlier detection <#31-multivariate-data>`_
   * `3.2. Time series outlier detection <#32-time-series-outlier-detection>`_
-  * `3.3. Datasets <#33-datasets>`_
+  * `3.3. Real-time Elasticsearch <#33-real-time-elasticsearch>`_
+  * `3.4. Datasets <#33-datasets>`_
 
 * `4. Papers <#4-papers>`_
 
@@ -166,8 +167,6 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-[**Python**] `datastream.io <https://github.com/MentatInnovations/datastream.io>`_\ : An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.
-
 [**Python**] `skyline <https://github.com/earthgecko/skyline>`_\ : Skyline is a near real time anomaly detection system.
 
 [**Python**] `banpei <https://github.com/tsurubee/banpei>`_\ : Banpei is a Python package of the anomaly detection.
@@ -181,7 +180,15 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 [**R**] `AnomalyDetection <https://github.com/twitter/AnomalyDetection>`_\ : AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.
 
 
-3.3. Datasets
+3.3. Real-time Elasticsearch
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+[**Open Distro**] `Real Time Anomaly Detection in Open Distro for Elasticsearch by Amazon <https://github.com/aws/random-cut-forest-by-aws>`_\ : A machine learning-based anomaly detection plugins for Open Distro for Elasticsearch. See `Real Time Anomaly Detection in Open Distro for Elasticsearch <https://opendistro.github.io/for-elasticsearch/blog/odfe-updates/2019/11/real-time-anomaly-detection-in-open-distro-for-elasticsearch/>`_.
+
+[**Python**] `datastream.io <https://github.com/MentatInnovations/datastream.io>`_\ : An open-source framework for real-time anomaly detection using Python, Elasticsearch and Kibana.
+
+
+3.4. Datasets
 ^^^^^^^^^^^^^
 
 **ELKI Outlier Datasets**\ : https://elki-project.github.io/datasets/outlier
@@ -192,7 +199,9 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 **Anomaly Detection Meta-Analysis Benchmarks**\ : https://ir.library.oregonstate.edu/concern/datasets/47429f155
 
+
 ----
+
 
 4. Papers
 ---------
