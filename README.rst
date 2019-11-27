@@ -61,7 +61,7 @@ Table of Contents
   * `3.1. Multivariate data outlier detection <#31-multivariate-data>`_
   * `3.2. Time series outlier detection <#32-time-series-outlier-detection>`_
   * `3.3. Real-time Elasticsearch <#33-real-time-elasticsearch>`_
-  * `3.4. Datasets <#33-datasets>`_
+  * `3.4. Datasets <#34-datasets>`_
 
 * `4. Papers <#4-papers>`_
 
