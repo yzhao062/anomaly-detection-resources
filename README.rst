@@ -179,6 +179,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 [**R**] `AnomalyDetection <https://github.com/twitter/AnomalyDetection>`_\ : AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.
 
+[**R**] `anomalize <https://cran.r-project.org/web/packages/anomalize/>`_\ : The 'anomalize' package enables a "tidy" workflow for detecting anomalies in data. 
 
 3.3. Real-time Elasticsearch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
