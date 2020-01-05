@@ -393,17 +393,18 @@ Field          Paper Title                                                      
 4.15. Outlier Detection Applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-===================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Field                  Paper Title                                                                                        Venue                         Year   Ref                           Materials
-===================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-**Security**           A survey of distance and similarity measures used within network intrusion anomaly detection       IEEE Commun. Surv. Tutor.     2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
-**Security**           Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
-**Finance**            A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
-**Traffic**            Outlier Detection in Urban Traffic Data                                                            WIMS                          2018   [#Djenouri2018Outlier]_       `[PDF] <http://dss.sdu.dk/assets/fpd-lof/outlier-detection-urban.pdf>`_
-**Social Media**       A survey on social media anomaly detection                                                         SIGKDD Explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
-**Social Media**       GLAD: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
-**Machine Failure**    Detecting the Onset of Machine Failure Using Anomaly Detection Methods                             DAWAK                         2019   [#Riazi2019Detecting]_        `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/postscript/DAWAK19.pdf>`_
-===================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+========================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Field                       Paper Title                                                                                        Venue                         Year   Ref                           Materials
+========================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+**Security**                A survey of distance and similarity measures used within network intrusion anomaly detection       IEEE Commun. Surv. Tutor.     2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
+**Security**                Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
+**Finance**                 A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
+**Traffic**                 Outlier Detection in Urban Traffic Data                                                            WIMS                          2018   [#Djenouri2018Outlier]_       `[PDF] <http://dss.sdu.dk/assets/fpd-lof/outlier-detection-urban.pdf>`_
+**Social Media**            A survey on social media anomaly detection                                                         SIGKDD Explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
+**Social Media**            GLAD: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
+**Machine Failure**         Detecting the Onset of Machine Failure Using Anomaly Detection Methods                             DAWAK                         2019   [#Riazi2019Detecting]_        `[PDF] <https://webdocs.cs.ualberta.ca/~zaiane/postscript/DAWAK19.pdf>`_
+**Video Surveillance**      AnomalyNet: An anomaly detection network for video surveillance                                    TIFS                          2019   [#Zhou2019AnomalyNet]_        `[IEEE] <https://ieeexplore.ieee.org/document/8649753>`_, `Code <https://github.com/joeyzhouty/AnomalyNet>`_
+========================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
 4.16. Emerging and Interesting Topics
@@ -600,6 +601,8 @@ References
 .. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 .. [#Zhao2019LSCP] Zhao, Y., Nasrullah, Z., Hryniewicki, M.K. and Li, Z., 2019, May. LSCP: Locally selective combination in parallel outlier ensembles. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 585-593. Society for Industrial and Applied Mathematics.
+
+.. [#Zhou2019AnomalyNet] Zhou, J.T., Du, J., Zhu, H., Peng, X., Liu, Y. and Goh, R.S.M., 2019. AnomalyNet: An anomaly detection network for video surveillance. *IEEE Transactions on Information Forensics and Security*.
 
 .. [#Zhu2019Tripartite] Zhu, Y. and Yang, K., 2019. Tripartite Active Learning for Interactive Anomaly Discovery. *IEEE Access*.
 
