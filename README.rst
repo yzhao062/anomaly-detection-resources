@@ -90,6 +90,18 @@ Table of Contents
 
 ----
 
+
+The project is free of charge thanks to community sponsorship. Check out the banner below to support us :)
+
+
+.. image:: https://images.gitads.io/anomaly-detection-resources
+   :target: https://tracking.gitads.io/?repo=anomaly-detection-resources
+   :alt: sponsorship
+
+
+----
+
+
 1. Books & Tutorials
 --------------------
 
