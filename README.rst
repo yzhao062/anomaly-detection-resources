@@ -239,6 +239,7 @@ Quantitative comparison of unsupervised anomaly detection algorithms for intrusi
 Progress in Outlier Detection Techniques: A Survey                                                 IEEE Access                   2019   [#Wang2019Progress]_          `[PDF] <https://ieeexplore.ieee.org/iel7/6287639/8600701/08786096.pdf>`_                
 Deep learning for anomaly detection: A survey                                                      Preprint                      2019   [#Chalapathy2019Deep]_        `[PDF] <https://arxiv.org/pdf/1901.03407.pdf>`_
 Anomalous Instance Detection in Deep Learning: A Survey                                            Preprint                      2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
+Deep Learning for Anomaly Detection: A Review                                                      Preprint                      2020   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -583,6 +584,8 @@ References
 .. [#Pang2017Learning] Pang, G., Cao, L., Chen, L. and Liu, H., 2017, August. Learning homophily couplings from non-iid data for joint feature selection and noise-resilient outlier detection. In Proceedings of the 26th International Joint Conference on Artificial Intelligence (pp. 2585-2591). AAAI Press.
 
 .. [#Pang2018Learning] Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018.
+
+.. [#Pang2020Deep] Pang, G., Shen, C., Cao, L. and Hengel, A.V.D., 2020. Deep Learning for Anomaly Detection: A Review. arXiv preprint arXiv:2007.02500.
 
 .. [#Pelleg2005Active] Pelleg, D. and Moore, A.W., 2005. Active learning for anomaly and rare-category detection. In *Advances in neural information processing systems*\, pp. 1073-1080.
 
