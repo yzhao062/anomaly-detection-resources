@@ -91,17 +91,6 @@ Table of Contents
 ----
 
 
-anomaly-detection-resources is being sponsored by the following tool; please help to support us by taking a look and signing up to a free trial.
-
-
-.. image:: https://images.gitads.io/anomaly-detection-resources
-   :target: https://tracking.gitads.io/?repo=anomaly-detection-resources
-   :alt: sponsorship
-
-
-----
-
-
 1. Books & Tutorials
 --------------------
 
