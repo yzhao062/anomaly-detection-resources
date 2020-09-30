@@ -81,7 +81,7 @@ Table of Contents
   * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
   * `4.16. Automated Outlier Detection <#416-automated-outlier-detection>`_
-  * `4.17. Emerging and Interesting Topics <#416-emerging-and-interesting-topics>`_
+  * `4.17. Emerging and Interesting Topics <#417-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
