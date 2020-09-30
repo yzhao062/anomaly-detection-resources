@@ -80,7 +80,8 @@ Table of Contents
   * `4.13. Interactive Outlier Detection <#413-interactive-outlier-detection>`_
   * `4.14. Outlier Detection in Other fields <#414-outlier-detection-in-other-fields>`_
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
-  * `4.16. Emerging and Interesting Topics <#416-emerging-and-interesting-topics>`_
+  * `4.16. Automated Outlier Detection <#416-automated-outlier-detection>`_
+  * `4.17. Emerging and Interesting Topics <#416-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -172,6 +173,7 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 3.2. Time series outlier detection
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+[**Python**] `TODS <https://github.com/datamllab/tods>`_\ : TODS is a full-stack automated machine learning system for outlier detection on multivariate time-series data.
 
 [**Python**] `skyline <https://github.com/earthgecko/skyline>`_\ : Skyline is a near real time anomaly detection system.
 
@@ -376,6 +378,7 @@ Paper Title                                                                     
 Active learning for anomaly and rare-category detection                                             NeurIPS                       2005   [#Pelleg2005Active]_          `[PDF] <http://papers.nips.cc/paper/2554-active-learning-for-anomaly-and-rare-category-detection.pdf>`_
 Outlier detection by active learning                                                                SIGKDD                        2006   [#Abe2006Outlier]_            `[PDF] <https://www.researchgate.net/profile/Naoki_Abe2/publication/221653343_Outlier_detection_by_active_learning/links/5441464a0cf2e6f0c0f60abb.pdf>`_
 Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability                  Preprint                      2019   [#Das2019Active]_             `[PDF] <https://arxiv.org/pdf/1901.08930.pdf>`_
+Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning                                 ICDM                          2020   [#Zha2020Meta]_               `[PDF] <https://arxiv.org/pdf/2009.07415.pdf>`_
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -419,7 +422,19 @@ Field                       Paper Title                                         
 ========================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
-4.16. Emerging and Interesting Topics
+4.16. Automated Outlier Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning        ICDE                          2020   [#Li2020AutoOD]_              `[PDF] <https://arxiv.org/pdf/2006.11321.pdf>`_
+Extended Isolation Forest                                                                          Preprint                      2020   [#Zhao2020Automating]_        `[PDF] <https://arxiv.org/pdf/2009.10606.pdf>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
+
+4.17. Emerging and Interesting Topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -566,6 +581,8 @@ References
 
 .. [#Liu2019Generative] Liu, Y., Li, Z., Zhou, C., Jiang, Y., Sun, J., Wang, M. and He, X., 2019. Generative Adversarial Active Learning for Unsupervised Outlier Detection. *IEEE transactions on knowledge and data engineering*.
 
+.. [#Li2020AutoOD] Li, Y., Chen, Z., Zha, D., Zhou, K., Jin, H., Chen, H. and Hu, X., 2020. AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning. *ICDE*.
+
 .. [#Macha2018Explaining] Macha, M. and Akoglu, L., 2018. Explaining anomalies in groups with characterizing subspace rules. Data Mining and Knowledge Discovery, 32(5), pp.1444-1480.
 
 .. [#Manzoor2018Outlier] Manzoor, E., Lamba, H. and Akoglu, L. Outlier Detection in Feature-Evolving Data Streams. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018.
@@ -616,13 +633,21 @@ References
 
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
+.. [#Yoon2019NETS] Yoon, S., Lee, J. G., & Lee, B. S., 2019. NETS: extremely fast outlier detection from a data stream via set-based processing. Proceedings of the VLDB Endowment, 12(11), 1303-1315.
+
+.. [#Yoon2020STARE] Yoon, S., Lee, J. G., & Lee, B. S., 2020. Ultrafast local outlier detection from a data stream with stationary region skipping. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 1181-1191)
+
 .. [#Yu2015Glad] Yu, R., He, X. and Liu, Y., 2015. GLAD: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18.
 
 .. [#Yu2016A] Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14.
 
+.. [#Zha2020Meta] Zha, D., Lai, K.H., Wan, M. and Hu, X., 2020. Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning. *ICDM*.
+
 .. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
 
 .. [#Zhao2019LSCP] Zhao, Y., Nasrullah, Z., Hryniewicki, M.K. and Li, Z., 2019, May. LSCP: Locally selective combination in parallel outlier ensembles. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 585-593. Society for Industrial and Applied Mathematics.
+
+.. [#Zhao2020Automating] Zhao, Y., Rossi, R.A. and Akoglu, L., 2020. Automating Outlier Detection via Meta-Learning. arXiv preprint arXiv:2009.10606.
 
 .. [#Zhou2019AnomalyNet] Zhou, J.T., Du, J., Zhu, H., Peng, X., Liu, Y. and Goh, R.S.M., 2019. AnomalyNet: An anomaly detection network for video surveillance. *IEEE Transactions on Information Forensics and Security*.
 
@@ -634,6 +659,3 @@ References
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
-.. [#Yoon2019NETS] Yoon, S., Lee, J. G., & Lee, B. S., 2019. NETS: extremely fast outlier detection from a data stream via set-based processing. Proceedings of the VLDB Endowment, 12(11), 1303-1315.
-
-.. [#Yoon2020STARE] Yoon, S., Lee, J. G., & Lee, B. S., 2020. Ultrafast local outlier detection from a data stream with stationary region skipping. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 1181-1191)
