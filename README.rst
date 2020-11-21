@@ -522,6 +522,8 @@ References
 
 .. [#Campos2019Outlier] Campos, G.O., Moreira, E., Meira Jr, W. and Zimek, A., 2019. Outlier Detection in Graphs: A Study on the Impact of Multiple Graph Models. *Computer Science & Information Systems*, 16(2).
 
+.. [#Castellani2020Siamese] Castellani, A., Schmitt, S., Squartini, S., 2020. Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning. In *IEEE Transactions on Industrial Informatics*.
+
 .. [#Chalapathy2019Deep] Chalapathy, R. and Chawla, S., 2019. Deep learning for anomaly detection: A survey. arXiv preprint arXiv:1901.03407.
 
 .. [#Chandola2009Anomaly] Chandola, V., Banerjee, A. and Kumar, V., 2009. Anomaly detection: A survey. *ACM computing surveys* , 41(3), p.15.
@@ -660,5 +662,4 @@ References
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
-.. [#Castellani2020Siamese] Castellani, A., Schmitt, S., Squartini, S., 2020. Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning. In IEEE Transactions on Industrial Informatics.
 
