@@ -430,7 +430,7 @@ Field                       Paper Title                                         
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning        ICDE                          2020   [#Li2020AutoOD]_              `[PDF] <https://arxiv.org/pdf/2006.11321.pdf>`_
-Extended Isolation Forest                                                                          Preprint                      2020   [#Zhao2020Automating]_        `[PDF] <https://arxiv.org/pdf/2009.10606.pdf>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
+Automating Outlier Detection via Meta-Learning                                                     Preprint                      2020   [#Zhao2020Automating]_        `[PDF] <https://arxiv.org/pdf/2009.10606.pdf>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
