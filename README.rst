@@ -219,6 +219,8 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 4.1. Overview & Survey Papers
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Papers are sorted by the publication year.
+
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -232,8 +234,8 @@ Research Issues in Outlier Detection                                            
 Quantitative comparison of unsupervised anomaly detection algorithms for intrusion detection       SAC                           2019   [#Falcao2019Quantitative]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3297314>`_
 Progress in Outlier Detection Techniques: A Survey                                                 IEEE Access                   2019   [#Wang2019Progress]_          `[PDF] <https://ieeexplore.ieee.org/iel7/6287639/8600701/08786096.pdf>`_                
 Deep learning for anomaly detection: A survey                                                      Preprint                      2019   [#Chalapathy2019Deep]_        `[PDF] <https://arxiv.org/pdf/1901.03407.pdf>`_
-Anomalous Instance Detection in Deep Learning: A Survey                                            Preprint                      2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
-Deep Learning for Anomaly Detection: A Review                                                      Preprint                      2020   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
+Anomalous Instance Detection in Deep Learning: A Survey                                            Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
+Deep Learning for Anomaly Detection: A Review                                                      CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -361,11 +363,11 @@ Sequential Feature Explanations for Anomaly Detection                           
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding                  KDD                           2018   [#Hundman2018Detecting]_      `[PDF] <https://arxiv.org/pdf/1802.04431.pdf>`_, `[Code] <https://github.com/khundman/telemanom>`_
-MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks  Preprint                      2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
+MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks  ICANN                         2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
 Generative Adversarial Active Learning for Unsupervised Outlier Detection                          TKDE                          2019   [#Liu2019Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
 Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                        ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
 Deep Anomaly Detection with Outlier Exposure                                                       ICLR                          2019   [#Hendrycks2019Deep]_         `[PDF] <https://arxiv.org/pdf/1812.04606.pdf>`_, `[Code] <https://github.com/hendrycks/outlier-exposure>`_
-Unsupervised Anomaly Detection With LSTM Neural Networks                                           IEEE TNNLS                    2019   [#Ergen2019Unsupervised]_     `[PDF] <https://arxiv.org/pdf/1710.09207.pdf>`_, `[IEEE] <https://ieeexplore.ieee.org/document/8836638>`_,
+Unsupervised Anomaly Detection With LSTM Neural Networks                                           TNNLS                         2019   [#Ergen2019Unsupervised]_     `[PDF] <https://arxiv.org/pdf/1710.09207.pdf>`_, `[IEEE] <https://ieeexplore.ieee.org/document/8836638>`_,
 Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network  NeurIPS                       2019   [#Wang2019Effective]_         `[PDF] <https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf>`_ `[Code] <https://github.com/demonzyj56/E3Outlier>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
@@ -529,7 +531,7 @@ References
 
 .. [#Breunig2000LOF] Breunig, M.M., Kriegel, H.P., Ng, R.T. and Sander, J., 2000, May. LOF: identifying density-based local outliers. *ACM SIGMOD Record*\ , 29(2), pp. 93-104.
 
-.. [#Bulusu2020Deep] Bulusu, S., Kailkhura, B., Li, B., Varshney, P.K. and Song, D., 2020. Anomalous Instance Detection in Deep Learning: A Survey. arXiv preprint arXiv:2003.06979.
+.. [#Bulusu2020Deep] Bulusu, S., Kailkhura, B., Li, B., Varshney, P. and Song, D., 2020. Anomalous instance detection in deep learning: A survey (No. LLNL-CONF-808677). Lawrence Livermore National Lab.(LLNL), Livermore, CA (United States).
 
 .. [#Campos2016On] Campos, G.O., Zimek, A., Sander, J., Campello, R.J., Micenková, B., Schubert, E., Assent, I. and Houle, M.E., 2016. On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study. *Data Mining and Knowledge Discovery*\ , 30(4), pp.891-927.
 
@@ -587,7 +589,7 @@ References
 
 .. [#Lazarevic2008Data] Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. *Tutorial at ECML PKDD 2008*.
 
-.. [#Li2019MAD] Li, D., Chen, D., Shi, L., Jin, B., Goh, J. and Ng, S.K., 2019. MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks. arXiv preprint arXiv:1901.04997.
+.. [#Li2019MAD] Li, D., Chen, D., Jin, B., Shi, L., Goh, J. and Ng, S.K., 2019, September. MAD-GAN: Multivariate anomaly detection for time series data with generative adversarial networks. In *International Conference on Artificial Neural Networks* (pp. 703-716). Springer, Cham.
 
 .. [#Li2020COPOD] Li, Z., Zhao, Y., Botta, N., Ionescu, C. and Hu, X. COPOD: Copula-Based Outlier Detection. *IEEE International Conference on Data Mining (ICDM)*, 2020.
 
@@ -617,7 +619,7 @@ References
 
 .. [#Pang2018Learning] Pang, G., Cao, L., Chen, L. and Liu, H., 2018. Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection. In *24th ACM SIGKDD International Conference on Knowledge Discovery and Data mining (KDD)*. 2018.
 
-.. [#Pang2020Deep] Pang, G., Shen, C., Cao, L. and Hengel, A.V.D., 2020. Deep Learning for Anomaly Detection: A Review. arXiv preprint arXiv:2007.02500.
+.. [#Pang2020Deep] Pang, G., Shen, C., Cao, L. and Hengel, A.V.D., 2021. Deep Learning for Anomaly Detection: A Review. ACM Computing Surveys (CSUR), 54(2), pp.1-38.
 
 .. [#Pelleg2005Active] Pelleg, D. and Moore, A.W., 2005. Active learning for anomaly and rare-category detection. In *Advances in neural information processing systems*\, pp. 1073-1080.
 
