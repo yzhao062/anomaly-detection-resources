@@ -463,6 +463,7 @@ Paper Title                                                                     
 Clustering with Outlier Removal                                                                    Preprint                      2018   [#Liu2018Clustering]_         `[PDF] <https://arxiv.org/pdf/1801.01899.pdf>`_
 Extended Isolation Forest                                                                          TKDE                          2019   [#Hariri2019Extended]_        `[PDF] <https://arxiv.org/pdf/1811.02141.pdf>`_
 Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning          IEEE Trans. Ind. Informat.    2020   [#Castellani2020Siamese]_     `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030>`_
+SSD: A Unified Framework for Self-Supervised Outlier Detection          ICLR    2021   [#Sehwag2021SSD]_     `[PDF] <https://openreview.net/pdf?id=v5gjXpmR8J>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
