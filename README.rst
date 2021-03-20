@@ -209,6 +209,8 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 **Anomaly Detection Meta-Analysis Benchmarks**\ : https://ir.library.oregonstate.edu/concern/datasets/47429f155
 
+**Skoltech Anomaly Benchmark (SKAB)**\ : https://github.com/waico/skab
+
 
 ----
 
