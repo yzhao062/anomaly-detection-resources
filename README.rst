@@ -82,7 +82,8 @@ Table of Contents
   * `4.15. Outlier Detection Applications <#415-outlier-detection-applications>`_
   * `4.16. Automated Outlier Detection <#416-automated-outlier-detection>`_
   * `4.17. Machine Learning Systems for Outlier Detection <#417-machine-learning-systems-for-outlier-detection>`_
-  * `4.18. Emerging and Interesting Topics <#418-emerging-and-interesting-topics>`_
+  * `4.18. Fairness and Bias in Outlier Detection <#418-fairness-and-bias-in-outlier-detection>`_
+  * `4.19. Emerging and Interesting Topics <#419-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -458,7 +459,18 @@ SUOD: Accelerating Large-Scale Unsupervised Heterogeneous Outlier Detection     
 
 
 
-4.18. Emerging and Interesting Topics
+4.18. Fairness and Bias in Outlier Detection
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A Framework for Determining the Fairness of Outlier Detection                                      ECAI                          2020   [#Davidson2020A]_             `[PDF] <https://web.cs.ucdavis.edu/~davidson/Publications/TR.pdf>`_
+FAIROD: Fairness-aware Outlier Detection                                                           AIES                          2021   [#Shekhar2021FAIROD]_         `[PDF] <https://arxiv.org/pdf/2012.03063.pdf>`_
+=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
+
+4.19. Emerging and Interesting Topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -483,7 +495,7 @@ Key data mining conference **deadlines**, **historical acceptance rates**, and m
 can be found `data-mining-conferences <https://github.com/yzhao062/data-mining-conferences>`_.
 
 
-`ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) <http://www.kdd.org/conferences>`_. **Note**: SIGKDD usually has an Outlier Detection Workshop (ODD), see `ODD 2018 <https://www.andrew.cmu.edu/user/lakoglu/odd/index.html>`_.
+`ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD) <http://www.kdd.org/conferences>`_. **Note**: SIGKDD usually has an Outlier Detection Workshop (ODD), see `ODD 2021 <https://oddworkshop.github.io/>`_.
 
 `ACM International Conference on Management of Data (SIGMOD) <https://sigmod.org/>`_
 
@@ -562,6 +574,8 @@ References
 .. [#Dang2014Discriminative] Dang, X.H., Assent, I., Ng, R.T., Zimek, A. and Schubert, E., 2014, March. Discriminative features for identifying and interpreting outliers. In *International Conference on Data Engineering (ICDE)*. IEEE.
 
 .. [#Das2019Active] Das, S., Islam, M.R., Jayakodi, N.K. and Doppa, J.R., 2019. Active Anomaly Detection via Ensembles: Insights, Algorithms, and Interpretability. arXiv preprint arXiv:1901.08930.
+
+.. [#Davidson2020A] Davidson, I. and Ravi, S.S., 2020. A framework for determining the fairness of outlier detection. In Proceedings of the 24th European Conference on Artificial Intelligence (ECAI2020) (Vol. 2029).
 
 .. [#Ding2019Interactive] Ding, K., Li, J. and Liu, H., 2019, January. Interactive anomaly detection on attributed networks. In *Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining*, pp. 357-365. ACM.
 
@@ -650,6 +664,8 @@ References
 .. [#Scholkopf2001Estimating] Schölkopf, B., Platt, J.C., Shawe-Taylor, J., Smola, A.J. and Williamson, R.C., 2001. Estimating the support of a high-dimensional distribution. *Neural Computation*, 13(7), pp.1443-1471.
 
 .. [#Sehwag2021SSD] Sehwag, V., Chiang, M., Mittal, P., 2021. SSD: A Unified Framework for Self-Supervised Outlier Detection. *International Conference on Learning Representations (ICLR)*.
+
+.. [#Shekhar2021FAIROD] Shekhar, S., Shah, N. and Akoglu, L., 2021. FAIROD: Fairness-aware Outlier Detection. AAAI/ACM Conference on AI, Ethics, and Society (AIES).
 
 .. [#Siddiqui2019Sequential] Siddiqui, M.A., Fern, A., Dietterich, T.G. and Wong, W.K., 2019. Sequential Feature Explanations for Anomaly Detection. *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 13(1), p.1.
 
