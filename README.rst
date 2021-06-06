@@ -44,6 +44,9 @@ Please feel free to suggest other key resources by opening an issue report,
 submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
 Enjoy reading!
 
+BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
+`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful.
+
 ----
 
 Table of Contents
@@ -83,7 +86,8 @@ Table of Contents
   * `4.16. Automated Outlier Detection <#416-automated-outlier-detection>`_
   * `4.17. Machine Learning Systems for Outlier Detection <#417-machine-learning-systems-for-outlier-detection>`_
   * `4.18. Fairness and Bias in Outlier Detection <#418-fairness-and-bias-in-outlier-detection>`_
-  * `4.19. Emerging and Interesting Topics <#419-emerging-and-interesting-topics>`_
+  * `4.19. Isolation-based Methods <#419-isolation-based-methods>`_
+  * `4.20. Emerging and Interesting Topics <#420-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -470,7 +474,22 @@ FAIROD: Fairness-aware Outlier Detection                                        
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
-4.19. Emerging and Interesting Topics
+
+4.19. Isolation-Based Methods
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+=================================================================================================  ============================  =====  ============================  ==============================================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=================================================================================================  ============================  =====  ============================  ==============================================================================================================================================================================================
+Isolation forest                                                                                   ICDM                          2008   [#Liu2008Isolation]_          `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
+Isolation‐based anomaly detection using nearest‐neighbor ensembles                                  Computational Intelligence    2018   [#Bandaragoda2018Isolation]_  `[PDF] <https://www.researchgate.net/publication/322359651_Isolation-based_anomaly_detection_using_nearest-neighbor_ensembles_iNNE>`_, `[Code] <https://github.com/zhuye88/iNNE>`_
+Extended Isolation Forest                                                                          TKDE                          2019   [#Hariri2019Extended]_        `[PDF] <https://arxiv.org/pdf/1811.02141.pdf>`_, `[Code] <https://github.com/sahandha/eif>`_
+Isolation Distributional Kernel: A New Tool for Kernel based Anomaly Detection                     KDD                           2020   [#Ting2020Isolation]_         `[PDF] <https://arxiv.org/pdf/2009.12196.pdf>`_, `[Code] <https://github.com/IsolationKernel/Codes/tree/main/IDK>`_
+=================================================================================================  ============================  =====  ============================  ==============================================================================================================================================================================================
+
+
+
+4.20. Emerging and Interesting Topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -546,6 +565,8 @@ References
 .. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery*, pp. 15-27.
 
 .. [#Arnaldo2019ex2] Arnaldo, I., Veeramachaneni, K. and Lam, M., 2019. ex2: a framework for interactive anomaly detection. In *ACM IUI Workshop on Exploratory Search and Interactive Data Analytics (ESIDA)*.
+
+.. [#Bandaragoda2018Isolation] Bandaragoda, Tharindu R., Kai Ming Ting, David Albrecht, Fei Tony Liu, Ye Zhu, and Jonathan R. Wells. "Isolation‐based anomaly detection using nearest‐neighbor ensembles." *Computational Intelligence* 34, no. 4 (2018): 968-998.
 
 .. [#Bhatia2020MIDAS] Bhatia, S., Hooi, B., Yoon, M., Shin, K. and Faloutsos. C., 2020. MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams. In *AAAI Conference on Artificial Intelligence (AAAI)*.
 
@@ -674,6 +695,8 @@ References
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
 
 .. [#Ting2018Which] Ting, KM., Aryal, S. and Washio, T., 2018, Which Anomaly Detector should I use? *Tutorial at ICDM 2018*.
+
+.. [#Ting2020Isolation] Ting, Kai Ming, Bi-Cun Xu, Takashi Washio, and Zhi-Hua Zhou. "Isolation Distributional Kernel: A New Tool for Kernel based Anomaly Detection." In *Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*, pp. 198-206. 2020.
 
 .. [#Wang2019Effective] Wang, S., Zeng, Y., Liu, X., Zhu, E., Yin, J., Xu, C. and Kloft, M., 2019. Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network. In *33rd Conference on Neural Information Processing Systems*.
 
