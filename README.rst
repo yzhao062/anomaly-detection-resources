@@ -248,7 +248,6 @@ Deep learning for anomaly detection: A survey                                   
 Anomalous Instance Detection in Deep Learning: A Survey                                            Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
 Anomaly detection in univariate time-series: A survey on the state-of-the-art                      Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
 Deep Learning for Anomaly Detection: A Review                                                      CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
-A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                               Preprint                      2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -275,6 +274,7 @@ Paper Title                                                                     
 Graph based anomaly detection and description: a survey                                            DMKD                           2015   [#Akoglu2015Graph]_           `[PDF] <https://arxiv.org/pdf/1404.4679.pdf>`_
 Anomaly detection in dynamic networks: a survey                                                    WIREs Computational Statistic  2015   [#Ranshous2015Anomaly]_       `[PDF] <https://onlinelibrary.wiley.com/doi/pdf/10.1002/wics.1347>`_
 Outlier detection in graphs: On the impact of multiple graph models                                ComSIS                         2019   [#Campos2019Outlier]_         `[PDF] <http://www.comsis.org/pdf.php?id=wims-8671>`_
+A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                               Preprint                       2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
 =================================================================================================  =============================  =====  ============================  ==========================================================================================================================================================================
 
 
