@@ -248,6 +248,7 @@ Deep learning for anomaly detection: A survey                                   
 Anomalous Instance Detection in Deep Learning: A Survey                                            Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
 Anomaly detection in univariate time-series: A survey on the state-of-the-art                      Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
 Deep Learning for Anomaly Detection: A Review                                                      CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
+Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -287,6 +288,7 @@ Paper Title                                                                     
 Outlier detection for temporal data: A survey                                                      TKDE                          2014   [#Gupta2014Outlier]_          `[PDF] <https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/gupta14_tkde.pdf>`_
 Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding                  KDD                           2018   [#Hundman2018Detecting]_      `[PDF] <https://arxiv.org/pdf/1802.04431.pdf>`_, `[Code] <https://github.com/khundman/telemanom>`_
 Time-Series Anomaly Detection Service at Microsoft                                                 KDD                           2019   [#Ren2019Time]_               `[PDF] <https://arxiv.org/pdf/1906.03821.pdf>`_
+Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -627,6 +629,8 @@ References
 .. [#Kannan2017Outlier] Kannan, R., Woo, H., Aggarwal, C.C. and Park, H., 2017, June. Outlier detection for text data. In *Proceedings of the 2017 SIAM International Conference on Data Mining*, pp. 489-497. Society for Industrial and Applied Mathematics. 
 
 .. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
+
+.. [#Lai2021Revisiting] Lai, K.H., Zha, D., Xu, J., Zhao, Y., Wang, G. and Hu, X., 2021. Revisiting Time Series Outlier Detection: Definitions and Benchmarks. *Advances in Neural Information Processing Systems (NeurIPS)*, Datasets and Benchmarks Track.
 
 .. [#Lamba2019Learning] Lamba, H. and Akoglu, L., 2019, May. Learning On-the-Job to Re-rank Anomalies from Top-1 Feedback. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 612-620. Society for Industrial and Applied Mathematics.
 
