@@ -248,6 +248,7 @@ Deep learning for anomaly detection: A survey                                   
 Anomalous Instance Detection in Deep Learning: A Survey                                            Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
 Anomaly detection in univariate time-series: A survey on the state-of-the-art                      Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
 Deep Learning for Anomaly Detection: A Review                                                      CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
+A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                               Preprint                      2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
 Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
@@ -653,7 +654,7 @@ References
 
 .. [#Li2020AutoOD] Li, Y., Chen, Z., Zha, D., Zhou, K., Jin, H., Chen, H. and Hu, X., 2020. AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning. *ICDE*.
 
-.. [#Ma2021A] Ma, X., Wu, J., Xue, S., Yang, J., Sheng, Q.Z. and Xiong, H., 2021. A Comprehensive Survey on Graph Anomaly Detection with Deep Learning. arXiv preprint arXiv:2106.07178.
+.. [#Ma2021A] Ma, X., Wu, J., Xue, S., Yang, J., Zhou, C., Sheng, Q.Z., Xiong, H. and Akoglu, L, 2021. A Comprehensive Survey on Graph Anomaly Detection with Deep Learning. arXiv preprint arXiv:2106.07178.
 
 .. [#Macha2018Explaining] Macha, M. and Akoglu, L., 2018. Explaining anomalies in groups with characterizing subspace rules. Data Mining and Knowledge Discovery, 32(5), pp.1444-1480.
 
