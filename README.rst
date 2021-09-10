@@ -125,6 +125,8 @@ Outlier detection techniques                          ACM SIGKDD                
 Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
 Anomaly Detection in Networks                         KDD                                           2017   [#Mendiratta2017Anomaly]_     `[Page] <https://veena-mendiratta.blog/tutorial-anomaly-detection-in-networks/>`_
 Which Anomaly Detector should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf>`_
+Deep Learning for Anomaly Detection                   KDD                                           2020   [#Wang2020Deep]_              `[HTML] <https://sites.google.com/view/kdd2020deepeye/home>`_, `[Video] <https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=66>`_
+Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 ----
@@ -674,6 +676,8 @@ References
 
 .. [#Pang2020Deep] Pang, G., Shen, C., Cao, L. and Hengel, A.V.D., 2021. Deep Learning for Anomaly Detection: A Review. ACM Computing Surveys (CSUR), 54(2), pp.1-38.
 
+.. [#Pang2021Deep] Pang, G., Cao, L. and Aggarwal, C., 2021. Deep Learning for Anomaly Detection. *Tutorial at WSDM 2021*.
+
 .. [#Pelleg2005Active] Pelleg, D. and Moore, A.W., 2005. Active learning for anomaly and rare-category detection. In *Advances in neural information processing systems*\, pp. 1073-1080.
 
 .. [#Radovanovic2015Reverse] Radovanović, M., Nanopoulos, A. and Ivanović, M., 2015. Reverse nearest neighbors in unsupervised distance-based outlier detection. *IEEE transactions on knowledge and data engineering*, 27(5), pp.1369-1382.
@@ -709,6 +713,8 @@ References
 .. [#Wang2019Effective] Wang, S., Zeng, Y., Liu, X., Zhu, E., Yin, J., Xu, C. and Kloft, M., 2019. Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network. In *33rd Conference on Neural Information Processing Systems*.
 
 .. [#Wang2019Progress] Wang, H., Bah, M.J. and Hammad, M., 2019. Progress in Outlier Detection Techniques: A Survey. *IEEE Access*, 7, pp.107964-108000.
+
+.. [#Wang2020Deep] Wang, R., Nie, K., Chang, Y. J., Gong, X., Wang, T., Yang, Y., Long, B.,  2020. Deep Learning for Anomaly Detection. *Tutorial at KDD 2020*.
 
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
