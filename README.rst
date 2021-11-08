@@ -234,25 +234,26 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 Papers are sorted by the publication year.
 
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                        Venue                         Year   Ref                           Materials
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-A survey of outlier detection methodologies                                                        ARTIF INTELL REV              2004   [#Hodge2004A]_                `[PDF] <https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf>`_
-Anomaly detection: A survey                                                                        CSUR                          2009   [#Chandola2009Anomaly]_       `[PDF] <https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf>`_
-A meta-analysis of the anomaly detection problem                                                   Preprint                      2015   [#Emmott2015A]_               `[PDF] <https://arxiv.org/pdf/1503.01158.pdf>`_
-On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study    DMKD                          2016   [#Campos2016On]_              `[HTML] <https://link.springer.com/article/10.1007/s10618-015-0444-8>`_, `[SLIDES] <https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf>`_
-A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data        PLOS ONE                      2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
-A comparative evaluation of outlier detection algorithms: Experiments and analyses                 Pattern Recognition           2018   [#Domingues2018A]_            `[PDF] <https://www.researchgate.net/publication/320025854_A_comparative_evaluation_of_outlier_detection_algorithms_Experiments_and_analyses>`_
-Research Issues in Outlier Detection                                                               Book Chapter                  2019   [#Suri2019Research]_          `[HTML] <https://link.springer.com/chapter/10.1007/978-3-030-05127-3_3>`_
-Quantitative comparison of unsupervised anomaly detection algorithms for intrusion detection       SAC                           2019   [#Falcao2019Quantitative]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3297314>`_
-Progress in Outlier Detection Techniques: A Survey                                                 IEEE Access                   2019   [#Wang2019Progress]_          `[PDF] <https://ieeexplore.ieee.org/iel7/6287639/8600701/08786096.pdf>`_                
-Deep learning for anomaly detection: A survey                                                      Preprint                      2019   [#Chalapathy2019Deep]_        `[PDF] <https://arxiv.org/pdf/1901.03407.pdf>`_
-Anomalous Instance Detection in Deep Learning: A Survey                                            Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
-Anomaly detection in univariate time-series: A survey on the state-of-the-art                      Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
-Deep Learning for Anomaly Detection: A Review                                                      CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
-A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                               Preprint                      2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
-Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                                             Venue                         Year   Ref                           Materials
+======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+A survey of outlier detection methodologies                                                                             ARTIF INTELL REV              2004   [#Hodge2004A]_                `[PDF] <https://www-users.cs.york.ac.uk/vicky/myPapers/Hodge+Austin_OutlierDetection_AIRE381.pdf>`_
+Anomaly detection: A survey                                                                                             CSUR                          2009   [#Chandola2009Anomaly]_       `[PDF] <https://www.vs.inf.ethz.ch/edu/HS2011/CPS/papers/chandola09_anomaly-detection-survey.pdf>`_
+A meta-analysis of the anomaly detection problem                                                                        Preprint                      2015   [#Emmott2015A]_               `[PDF] <https://arxiv.org/pdf/1503.01158.pdf>`_
+On the evaluation of unsupervised outlier detection: measures, datasets, and an empirical study                         DMKD                          2016   [#Campos2016On]_              `[HTML] <https://link.springer.com/article/10.1007/s10618-015-0444-8>`_, `[SLIDES] <https://imada.sdu.dk/~zimek/InvitedTalks/TUVienna-2016-05-18-outlier-evaluation.pdf>`_
+A comparative evaluation of unsupervised anomaly detection algorithms for multivariate data                             PLOS ONE                      2016   [#Goldstein2016A]_            `[PDF] <http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0152173&type=printable>`_
+A comparative evaluation of outlier detection algorithms: Experiments and analyses                                      Pattern Recognition           2018   [#Domingues2018A]_            `[PDF] <https://www.researchgate.net/publication/320025854_A_comparative_evaluation_of_outlier_detection_algorithms_Experiments_and_analyses>`_
+Research Issues in Outlier Detection                                                                                    Book Chapter                  2019   [#Suri2019Research]_          `[HTML] <https://link.springer.com/chapter/10.1007/978-3-030-05127-3_3>`_
+Quantitative comparison of unsupervised anomaly detection algorithms for intrusion detection                            SAC                           2019   [#Falcao2019Quantitative]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3297314>`_
+Progress in Outlier Detection Techniques: A Survey                                                                      IEEE Access                   2019   [#Wang2019Progress]_          `[PDF] <https://ieeexplore.ieee.org/iel7/6287639/8600701/08786096.pdf>`_
+Deep learning for anomaly detection: A survey                                                                           Preprint                      2019   [#Chalapathy2019Deep]_        `[PDF] <https://arxiv.org/pdf/1901.03407.pdf>`_
+Anomalous Instance Detection in Deep Learning: A Survey                                                                 Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
+Anomaly detection in univariate time-series: A survey on the state-of-the-art                                           Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
+Deep Learning for Anomaly Detection: A Review                                                                           CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
+A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                                                    Preprint                      2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
+Revisiting Time Series Outlier Detection: Definitions and Benchmarks                                                    NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
+A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges      Preprint                      2021   [#Salehi2021A]_               `[PDF] <https://arxiv.org/pdf/2110.14051.pdf>`_
+======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
@@ -694,6 +695,8 @@ References
 
 .. [#Salehi2018A] Salehi, Mahsa & Rashidi, Lida. (2018). A Survey on Anomaly detection in Evolving Data: [with Application to Forest Fire Risk Prediction]. *ACM SIGKDD Explorations Newsletter*. 20. 13-23.
 
+.. [#Salehi2021A] Salehi, M., Mirzaei, H., Hendrycks, D., Li, Y., Rohban, M.H., Sabokrou, M., 2021. A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges. arXiv preprint arXiv:2110.14051.
+
 .. [#Scholkopf2001Estimating] Schölkopf, B., Platt, J.C., Shawe-Taylor, J., Smola, A.J. and Williamson, R.C., 2001. Estimating the support of a high-dimensional distribution. *Neural Computation*, 13(7), pp.1443-1471.
 
 .. [#Sehwag2021SSD] Sehwag, V., Chiang, M., Mittal, P., 2021. SSD: A Unified Framework for Self-Supervised Outlier Detection. *International Conference on Learning Representations (ICLR)*.
@@ -749,5 +752,3 @@ References
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
-
-
