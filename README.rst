@@ -162,6 +162,8 @@ Deep Learning for Anomaly Detection                   WSDM                      
 
 [**Python**] `Python Outlier Detection (PyOD) <https://github.com/yzhao062/pyod>`_\ : PyOD is a comprehensive and scalable Python toolkit for detecting outlying objects in multivariate data. It contains more than 20 detection algorithms, including emerging deep learning models and outlier ensembles.
 
+[**Python**, **GPU**] `TOD: Tensor-based Outlier Detection (PyTOD) <https://github.com/yzhao062/pytod>`_: A general GPU-accelerated framework for outlier detection.
+
 [**Python**] `Python Streaming Anomaly Detection (PySAD) <https://github.com/selimfirat/pysad>`_\ : PySAD is a streaming anomaly detection framework in Python, which provides a complete set of tools for anomaly detection experiments. It currently contains more than 15 online anomaly detection algorithms and 2 different methods to integrate PyOD detectors to the streaming setting.
 
 [**Python**] `Scikit-learn Novelty and Outlier Detection <http://scikit-learn.org/stable/modules/outlier_detection.html>`_. It supports some popular algorithms like LOF, Isolation Forest, and One-class SVM.
@@ -469,6 +471,7 @@ Paper Title                                                                     
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 PyOD: A Python Toolbox for Scalable Outlier Detection                                              JMLR                          2019   [#Zhao2019PYOD]_              `[PDF] <https://www.jmlr.org/papers/volume20/19-011/19-011.pdf>`_, `[Code] <https://github.com/yzhao062/pyod>`_
 SUOD: Accelerating Large-Scale Unsupervised Heterogeneous Outlier Detection                        MLSys                         2021   [#Zhao2021SUOD]_              `[PDF] <https://arxiv.org/pdf/2003.05731.pdf>`_, `[Code] <https://github.com/yzhao062/suod>`_
+TOD: Tensor-based Outlier Detection                                                                Preprint                      2021   [#Zhao2021TOD]_               `[PDF] <https://arxiv.org/pdf/2110.14007.pdf>`_, `[Code] <https://github.com/yzhao062/pytod>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -744,6 +747,8 @@ References
 .. [#Zhao2020Automating] Zhao, Y., Rossi, R.A. and Akoglu, L., 2021. Automatic Unsupervised Outlier Model Selection. *Advances in Neural Information Processing Systems*.
 
 .. [#Zhao2021SUOD] Zhao, Y., Hu, X., Cheng, C., Wang, C., Wan, C., Wang, W., Yang, J., Bai, H., Li, Z., Xiao, C. and Wang, Y., 2021. SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection. *Proceedings of Machine Learning and Systems (MLSys)*.
+
+.. [#Zhao2021TOD] Zhao, Y., Chen, G.H. and Jia, Z., 2021. TOD: Tensor-based Outlier Detection. arXiv preprint arXiv:2110.14007.
 
 .. [#Zhou2019AnomalyNet] Zhou, J.T., Du, J., Zhu, H., Peng, X., Liu, Y. and Goh, R.S.M., 2019. AnomalyNet: An anomaly detection network for video surveillance. *IEEE Transactions on Information Forensics and Security*.
 
