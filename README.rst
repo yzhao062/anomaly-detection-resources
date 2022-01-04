@@ -510,6 +510,7 @@ Paper Title                                                                     
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Clustering with Outlier Removal                                                                    TKDE                          2019   [#Liu2018Clustering]_         `[PDF] <https://arxiv.org/pdf/1801.01899.pdf>`_
 Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning          IEEE Trans. Ind. Informat.    2020   [#Castellani2020Siamese]_     `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030>`_
+A3: Activation Anomaly Analysis                                                                    ECML-PKDD                     2020   [#Sperl2021A3]_               `[PDF] <https://arxiv.org/pdf/2003.01801>`_, `[Code] <https://github.com/Fraunhofer-AISEC/A3>`_
 SSD: A Unified Framework for Self-Supervised Outlier Detection                                     ICLR                          2021   [#Sehwag2021SSD]_             `[PDF] <https://openreview.net/pdf?id=v5gjXpmR8J>`_, `[Code] <https://github.com/inspire-group/SSD>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
@@ -709,6 +710,8 @@ References
 .. [#Shekhar2021FAIROD] Shekhar, S., Shah, N. and Akoglu, L., 2021. FAIROD: Fairness-aware Outlier Detection. AAAI/ACM Conference on AI, Ethics, and Society (AIES).
 
 .. [#Siddiqui2019Sequential] Siddiqui, M.A., Fern, A., Dietterich, T.G. and Wong, W.K., 2019. Sequential Feature Explanations for Anomaly Detection. *ACM Transactions on Knowledge Discovery from Data (TKDD)*, 13(1), p.1.
+
+.. [#Sperl2021A3] Sperl, P., Schulze, J.-P., and Böttinger, K., 2021. Activation Anomaly Analysis. *European Conference on Machine Learning and Data Mining (ECML-PKDD) 2020*.
 
 .. [#Suri2019Research] Suri, N.R. and Athithan, G., 2019. Research Issues in Outlier Detection. In *Outlier Detection: Techniques and Applications*, pp. 29-51. Springer, Cham.
 
