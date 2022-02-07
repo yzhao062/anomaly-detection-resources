@@ -456,6 +456,7 @@ Field                       Paper Title                                         
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+AutoML: state of the art with a focus on anomaly detection, challenges, and research directions    Int J Data Sci Anal           2022   [#Bahri2022automl]_           `[PDF] <https://www.researchgate.net/publication/358364044_AutoML_state_of_the_art_with_a_focus_on_anomaly_detection_challenges_and_research_directions>`_
 AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning        ICDE                          2020   [#Li2020AutoOD]_              `[PDF] <https://arxiv.org/pdf/2006.11321.pdf>`_
 Automatic Unsupervised Outlier Model Selection                                                     NeurIPS                       2021   [#Zhao2020Automating]_        `[PDF] <https://www.andrew.cmu.edu/user/yuezhao2/papers/21-neurips-metaod.pdf>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -578,6 +579,8 @@ References
 .. [#Angiulli2002Fast] Angiulli, F. and Pizzuti, C., 2002, August. Fast outlier detection in high dimensional spaces. In *European Conference on Principles of Data Mining and Knowledge Discovery*, pp. 15-27.
 
 .. [#Arnaldo2019ex2] Arnaldo, I., Veeramachaneni, K. and Lam, M., 2019. ex2: a framework for interactive anomaly detection. In *ACM IUI Workshop on Exploratory Search and Interactive Data Analytics (ESIDA)*.
+
+.. [#Bahri2022automl] Bahri, M., Salutari, F., Putina, A. et al. AutoML: state of the art with a focus on anomaly detection, challenges, and research directions. *International Journal of Data Science and Analytics*  (2022).
 
 .. [#Bandaragoda2018Isolation] Bandaragoda, Tharindu R., Kai Ming Ting, David Albrecht, Fei Tony Liu, Ye Zhu, and Jonathan R. Wells. "Isolation‐based anomaly detection using nearest‐neighbor ensembles." *Computational Intelligence* 34, no. 4 (2018): 968-998.
 
