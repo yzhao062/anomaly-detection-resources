@@ -205,6 +205,9 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 [**R**] `anomalize <https://cran.r-project.org/web/packages/anomalize/>`_\ : The 'anomalize' package enables a "tidy" workflow for detecting anomalies in data.
 
+[**Python**] `Chaos Genius <https://github.com/chaos-genius/chaos_genius>`_\ : ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+
+
 3.3. Real-time Elasticsearch
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
