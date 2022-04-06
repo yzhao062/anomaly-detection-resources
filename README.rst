@@ -170,6 +170,8 @@ Deep Learning for Anomaly Detection                   WSDM                      
 
 [**Python**] `Scalable Unsupervised Outlier Detection (SUOD) <https://github.com/yzhao062/suod>`_\ : SUOD (Scalable Unsupervised Outlier Detection) is an acceleration framework for large-scale unsupervised outlier detector training and prediction, on top of PyOD.
 
+[**Julia**] `OutlierDetection.jl <https://github.com/OutlierDetectionJL/OutlierDetection.jl>`_\ : OutlierDetection.jl is a Julia toolkit for detecting outlying objects, also known as anomalies.
+
 [**Java**] `ELKI: Environment for Developing KDD-Applications Supported by Index-Structures <https://elki-project.github.io/>`_\ :
 ELKI is an open source (AGPLv3) data mining software written in Java. The focus of ELKI is research in algorithms, with an emphasis on unsupervised methods in cluster analysis and outlier detection. 
 
@@ -199,13 +201,14 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 
 [**Python**] `CueObserve <https://github.com/cuebook/CueObserve>`_\ : Anomaly detection on SQL data warehouses and databases.
 
+[**Python**] `Chaos Genius <https://github.com/chaos-genius/chaos_genius>`_\ : ML powered analytics engine for outlier/anomaly detection and root cause analysis.
+
 [**R**] `CRAN Task View: Anomaly Detection with R <https://github.com/pridiltal/ctv-AnomalyDetection>`_\ : This CRAN task view contains a list of packages that can be used for anomaly detection with R.
 
 [**R**] `AnomalyDetection <https://github.com/twitter/AnomalyDetection>`_\ : AnomalyDetection is an open-source R package to detect anomalies which is robust, from a statistical standpoint, in the presence of seasonality and an underlying trend.
 
 [**R**] `anomalize <https://cran.r-project.org/web/packages/anomalize/>`_\ : The 'anomalize' package enables a "tidy" workflow for detecting anomalies in data.
 
-[**Python**] `Chaos Genius <https://github.com/chaos-genius/chaos_genius>`_\ : ML powered analytics engine for outlier/anomaly detection and root cause analysis.
 
 
 3.3. Real-time Elasticsearch
