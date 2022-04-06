@@ -271,6 +271,8 @@ A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detectio
 4.2. Key Algorithms
 ^^^^^^^^^^^^^^^^^^^
 
+All these algorithms are available in `Python Outlier Detection (PyOD) <https://github.com/yzhao062/pyod>`_.
+
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
 Abbreviation          Paper Title                                                                                        Venue                              Year   Ref                          Materials
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
@@ -281,6 +283,7 @@ IForest               Isolation forest                                          
 OCSVM                 Estimating the support of a high-dimensional distribution                                          Neural Computation                 2001   [#Scholkopf2001Estimating]_  `[PDF] <http://users.cecs.anu.edu.au/~williams/papers/P132.pdf>`_
 AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       SDM                                2017   [#Chen2017Outlier]_          `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
 COPOD                 COPOD: Copula-Based Outlier Detection                                                              ICDM                               2020   [#Li2020COPOD]_              `[PDF] <http://www.andrew.cmu.edu/user/yuezhao2/papers/20-icdm-copod.pdf>`_
+ECOD                  Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions                   TKDE                               2022   [#Li2021ECOD]_               `[PDF] <https://www.andrew.cmu.edu/user/yuezhao2/papers/22-tkde-ecod.pdf>`_
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
 
 4.3. Graph & Network Outlier Detection
@@ -664,6 +667,8 @@ References
 .. [#Li2019MAD] Li, D., Chen, D., Jin, B., Shi, L., Goh, J. and Ng, S.K., 2019, September. MAD-GAN: Multivariate anomaly detection for time series data with generative adversarial networks. In *International Conference on Artificial Neural Networks* (pp. 703-716). Springer, Cham.
 
 .. [#Li2020COPOD] Li, Z., Zhao, Y., Botta, N., Ionescu, C. and Hu, X. COPOD: Copula-Based Outlier Detection. *IEEE International Conference on Data Mining (ICDM)*, 2020.
+
+.. [#Li2021ECOD] Li, Z., Zhao, Y., Hu, X., Botta, N., Ionescu, C. and Chen, H. G. ECOD: Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions. *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2022.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
