@@ -137,6 +137,9 @@ Deep Learning for Anomaly Detection                   WSDM                      
 **Coursera Introduction to Anomaly Detection (by IBM)**\ :
 `[See Video] <https://www.coursera.org/learn/ai/lecture/ASPv0/introduction-to-anomaly-detection>`_
 
+**Get started with the Anomaly Detection API (by IBM)**\ :
+`[See Website] <https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/>`_
+
 **Coursera Real-Time Cyber Threat Detection and Mitigation partly covers the topic**\ :
 `[See Video] <https://www.coursera.org/learn/real-time-cyber-threat-detection>`_
 
