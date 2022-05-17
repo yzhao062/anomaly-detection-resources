@@ -269,9 +269,10 @@ Deep learning for anomaly detection: A survey                                   
 Anomalous Instance Detection in Deep Learning: A Survey                                                                 Tech Report                   2020   [#Bulusu2020Deep]_            `[PDF] <https://arxiv.org/pdf/2003.06979.pdf>`_
 Anomaly detection in univariate time-series: A survey on the state-of-the-art                                           Preprint                      2020   [#Braei2020Anomaly]_          `[PDF] <https://arxiv.org/pdf/2004.00433.pdf>`_
 Deep Learning for Anomaly Detection: A Review                                                                           CSUR                          2021   [#Pang2020Deep]_              `[PDF] <https://arxiv.org/pdf/2007.02500.pdf>`_
-A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                                                    Preprint                      2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
+A Comprehensive Survey on Graph Anomaly Detection with Deep Learning                                                    TKDE                          2021   [#Ma2021A]_                   `[PDF] <https://arxiv.org/pdf/2106.07178.pdf>`_
 Revisiting Time Series Outlier Detection: Definitions and Benchmarks                                                    NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
 A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges      Preprint                      2021   [#Salehi2021A]_               `[PDF] <https://arxiv.org/pdf/2110.14051.pdf>`_
+Self-Supervised Anomaly Detection: A Survey and Outlook                                                                 Preprint                      2022   [#Hojjati2022Self]_           `[PDF] <https://arxiv.org/pdf/2205.05173.pdf>`_
 ======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -655,6 +656,8 @@ References
 .. [#Hendrycks2019Deep] Hendrycks, D., Mazeika, M. and Dietterich, T.G., 2019. Deep Anomaly Detection with Outlier Exposure. International Conference on Learning Representations (ICLR).
 
 .. [#Hodge2004A] Hodge, V. and Austin, J., 2004. A survey of outlier detection methodologies. *Artificial intelligence review*\ , 22(2), pp.85-126.
+
+.. [#Hojjati2022Self] Hojjati, H., Ho, T.K.K. and Armanfard, N., 2022. Self-Supervised Anomaly Detection: A Survey and Outlook. arXiv preprint arXiv:2205.05173.
 
 .. [#Hundman2018Detecting] Hundman, K., Constantinou, V., Laporte, C., Colwell, I. and Soderstrom, T., 2018, July. Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding. In *Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining*, (pp. 387-395). ACM.
 
