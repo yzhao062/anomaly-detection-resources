@@ -316,7 +316,7 @@ Outlier detection for temporal data: A survey                                   
 Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding                  KDD                           2018   [#Hundman2018Detecting]_      `[PDF] <https://arxiv.org/pdf/1802.04431.pdf>`_, `[Code] <https://github.com/khundman/telemanom>`_
 Time-Series Anomaly Detection Service at Microsoft                                                 KDD                           2019   [#Ren2019Time]_               `[PDF] <https://arxiv.org/pdf/1906.03821.pdf>`_
 Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
-Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series                    ICLR                          2022   [#Dai2022Graph]               `[PDF] <https://openreview.net/pdf?id=45L_dgP48Vd>`_, `[Code] <https://github.com/EnyanDai/GANF>`_
+Graph-Augmented Normalizing Flows for Anomaly Detection of Multiple Time Series                    ICLR                          2022   [#Dai2022Graph]_               `[PDF] <https://openreview.net/pdf?id=45L_dgP48Vd>`_, `[Code] <https://github.com/EnyanDai/GANF>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
