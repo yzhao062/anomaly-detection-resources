@@ -21,6 +21,11 @@ Anomaly Detection Learning Resources
    :alt: Awesome
 
 
+.. image:: https://img.shields.io/badge/ADBench-benchmark_results-pink
+   :target: https://github.com/Minqi824/ADBench
+   :alt: Benchmark
+
+
 ----
 
 `Outlier Detection <https://en.wikipedia.org/wiki/Anomaly_detection>`_
@@ -53,10 +58,11 @@ Table of Contents
 -----------------
 
 
-* `1. Books & Tutorials <#1-books--tutorials>`_
+* `1. Books & Tutorials & Benchmarks <#1-books--tutorials--benchmarks>`_
 
   * `1.1. Books <#11-books>`_
   * `1.2. Tutorials <#12-tutorials>`_
+  * `1.3. Benchmarks <#13-tutorials>`_
 
 * `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
 * `3. Toolbox & Datasets <#3-toolbox--datasets>`_
@@ -129,6 +135,23 @@ Which Anomaly Detector should I use?                  ICDM                      
 Deep Learning for Anomaly Detection                   KDD                                           2020   [#Wang2020Deep]_              `[HTML] <https://sites.google.com/view/kdd2020deepeye/home>`_, `[Video] <https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=66>`_
 Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
+
+
+1.3. Benchmarks
+^^^^^^^^^^^^^^^
+
+**News**: We just released a 36-page, the most comprehensive `anomaly detection benchmark paper <https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf>`_.
+The fully `open-sourced ADBench <https://github.com/Minqi824/ADBench>`_ compares 30 anomaly detection algorithms on 55 benchmark datasets.
+
+
+=============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Data Types     Paper Title                                                                                        Venue                         Year   Ref                           Materials
+=============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Time-series    Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
+Graph          Benchmarking Node Outlier Detection on Graphs                                                      Preprint                      2022   [#Liu2022Benchmarking]_       `[PDF] <https://arxiv.org/abs/2206.10071>`_, `[Code] <https://github.com/pygod-team/pygod/tree/main/benchmark>`_
+Tabular        ADBench: Anomaly Detection Benchmark                                                               Preprint                      2022   [#Han2022Adbench]_            `[PDF] <https://arxiv.org/abs/2206.09426>`_, `[Code] <https://github.com/Minqi824/ADBench>`_
+=============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+
 
 ----
 
@@ -692,6 +715,8 @@ References
 
 .. [#Li2020AutoOD] Li, Y., Chen, Z., Zha, D., Zhou, K., Jin, H., Chen, H. and Hu, X., 2020. AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning. *ICDE*.
 
+.. [#Liu2022Benchmarking] Liu, K., Dou, Y., Zhao, Y., Ding, X., Hu, X., Zhang, R., Ding, K., Chen, C., Peng, H., Shu, K., Sun, L., Li, J., Chen, G.H., Jia, Z., and Yu, P.S. 2022. Benchmarking Node Outlier Detection on Graphs. arXiv preprint arXiv:2206.10071.
+
 .. [#Ma2021A] Ma, X., Wu, J., Xue, S., Yang, J., Zhou, C., Sheng, Q.Z., Xiong, H. and Akoglu, L., 2021. A comprehensive survey on graph anomaly detection with deep learning. *IEEE Transactions on Knowledge and Data Engineering*.
 
 .. [#Macha2018Explaining] Macha, M. and Akoglu, L., 2018. Explaining anomalies in groups with characterizing subspace rules. Data Mining and Knowledge Discovery, 32(5), pp.1444-1480.
@@ -703,6 +728,8 @@ References
 .. [#Micenkova2015Learning] Micenková, B., McWilliams, B. and Assent, I., 2015. Learning representations for outlier detection on a budget. arXiv preprint arXiv:1507.08104.
 
 .. [#Gupta2018Beyond] Gupta, N., Eswaran, D., Shah, N., Akoglu, L. and Faloutsos, C., Beyond Outlier Detection: LookOut for Pictorial Explanation. *ECML PKDD 2018*.
+
+.. [#Han2022Adbench] Han, S., Hu, X., Huang, H., Jiang, M. and Zhao, Y., 2022. ADBench: Anomaly Detection Benchmark. arXiv preprint arXiv:2206.09426.
 
 .. [#Pang2016Unsupervised] Pang, G., Cao, L., Chen, L. and Liu, H., 2016, December. Unsupervised feature selection for outlier detection by modelling hierarchical value-feature couplings. In Data Mining (ICDM), 2016 IEEE 16th International Conference on (pp. 410-419). IEEE.
 
