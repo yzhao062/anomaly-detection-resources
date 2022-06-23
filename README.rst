@@ -62,7 +62,7 @@ Table of Contents
 
   * `1.1. Books <#11-books>`_
   * `1.2. Tutorials <#12-tutorials>`_
-  * `1.3. Benchmarks <#13-tutorials>`_
+  * `1.3. Benchmarks <#13-benchmarks>`_
 
 * `2. Courses/Seminars/Videos <#2-coursesseminarsvideos>`_
 * `3. Toolbox & Datasets <#3-toolbox--datasets>`_
