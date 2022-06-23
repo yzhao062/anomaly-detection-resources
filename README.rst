@@ -105,8 +105,8 @@ Table of Contents
 ----
 
 
-1. Books & Tutorials
---------------------
+1. Books & Tutorials & Benchmarks
+---------------------------------
 
 1.1. Books
 ^^^^^^^^^^
