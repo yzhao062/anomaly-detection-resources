@@ -377,6 +377,7 @@ Outlier ensembles: position paper                                               
 Ensembles for unsupervised outlier detection: challenges and research questions a position paper   SIGKDD Explorations           2014   [#Zimek2014Ensembles]_        `[PDF] <http://www.kdd.org/exploration_files/V15-01-02-Zimek.pdf>`_
 An Unsupervised Boosting Strategy for Outlier Detection Ensembles                                  PAKDD                         2018   [#Campos2018An]_              `[HTML] <https://link.springer.com/chapter/10.1007/978-3-319-93034-3_45>`_
 LSCP: Locally selective combination in parallel outlier ensembles                                  SDM                           2019   [#Zhao2019LSCP]_              `[PDF] <https://epubs.siam.org/doi/pdf/10.1137/1.9781611975673.66>`_
+Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream       KDD                           2022   [#Yoon2022ARCUS]_             `[PDF] <https://dl.acm.org/doi/pdf/10.1145/3534678.3539348>`_, `[Github] <https://github.com/kaist-dmlab/ARCUS>`_, `[Slide] <https://drive.google.com/file/d/1JhrnEj1vScqGy69cfNUpfTjQYZh-vj_D/view>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.8. Outlier Detection in Evolving Data
@@ -392,6 +393,8 @@ Evaluating Real-Time Anomaly Detection Algorithms--The Numenta Anomaly Benchmark
 MIDAS: Microcluster-Based Detector of Anomalies in Edge Streams                                     AAAI                          2020   [#Bhatia2020MIDAS]_           `[PDF] <https://www.comp.nus.edu.sg/~sbhatia/assets/pdf/midas.pdf>`_, `[Github] <https://github.com/bhatiasiddharth/MIDAS>`_
 NETS: Extremely Fast Outlier Detection from a Data Stream via Set-Based Processing                  VLDB                          2019   [#Yoon2019NETS]_              `[PDF] <http://www.vldb.org/pvldb/vol12/p1303-yoon.pdf>`_, `[Github] <https://github.com/kaist-dmlab/NETS>`_, `[Slide] <https://drive.google.com/file/d/1wqKJZhEE4nTWe0zODu21ejgPDsDA_xaF/view?usp=sharing>`_
 Ultrafast Local Outlier Detection from a Data Stream with Stationary Region Skipping                KDD                           2020   [#Yoon2020STARE]_             `[PDF] <https://dl.acm.org/doi/pdf/10.1145/3394486.3403171>`_, `[Github] <https://github.com/kaist-dmlab/STARE>`_, `[Slide] <https://drive.google.com/file/d/11y7Gs703SKJBkPZ4nKKgua__dHXXMbkV/view?usp=sharing>`_
+Multiple Dynamic Outlier-Detection from a Data Stream by Exploiting Duality of Data and Queries     SIGMOD                        2021   [#Yoon2021MDUAL]_             `[PDF] <https://dl.acm.org/doi/pdf/10.1145/3448016.3452810>`_, `[Github] <https://github.com/kaist-dmlab/MDUAL>`_, `[Slide] <https://drive.google.com/file/d/1wmkkKCAcF9Dk8Wg49WnJF4U--lbtWy9J/view>`_
+Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream        KDD                           2022   [#Yoon2022ARCUS]_             `[PDF] <https://dl.acm.org/doi/pdf/10.1145/3534678.3539348>`_, `[Github] <https://github.com/kaist-dmlab/ARCUS>`_, `[Slide] <https://drive.google.com/file/d/1JhrnEj1vScqGy69cfNUpfTjQYZh-vj_D/view>`_
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -818,3 +821,7 @@ References
 .. [#Zimek2014Ensembles] Zimek, A., Campello, R.J. and Sander, J., 2014. Ensembles for unsupervised outlier detection: challenges and research questions a position paper. *ACM Sigkdd Explorations Newsletter*\ , 15(1), pp.11-22.
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
+
+.. [#Yoon2021MDUAL] Yoon, S., Shin, Y., Lee, J. G., & Lee, B. S. (2021, June). Multiple dynamic outlier-detection from a data stream by exploiting duality of data and queries. In Proceedings of the 2021 International Conference on Management of Data (SIGMOD).
+
+.. [#Yoon2022ARCUS] Yoon, S., Lee, Y., Lee, J.G. and Lee, B.S., 2022, August. Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 2347-2357).
