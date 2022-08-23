@@ -794,6 +794,10 @@ References
 
 .. [#Yoon2020STARE] Yoon, S., Lee, J. G., & Lee, B. S., 2020. Ultrafast local outlier detection from a data stream with stationary region skipping. In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 1181-1191)
 
+.. [#Yoon2021MDUAL] Yoon, S., Shin, Y., Lee, J. G., & Lee, B. S. (2021, June). Multiple dynamic outlier-detection from a data stream by exploiting duality of data and queries. In Proceedings of the 2021 International Conference on Management of Data (SIGMOD).
+
+.. [#Yoon2022ARCUS] Yoon, S., Lee, Y., Lee, J.G. and Lee, B.S., 2022, August. Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 2347-2357).
+
 .. [#Yu2015Glad] Yu, R., He, X. and Liu, Y., 2015. GLAD: group anomaly detection in social media analysis. *ACM Transactions on Knowledge Discovery from Data (TKDD)*\ , 10(2), p.18.
 
 .. [#Yu2016A] Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14.
@@ -822,6 +826,3 @@ References
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
-.. [#Yoon2021MDUAL] Yoon, S., Shin, Y., Lee, J. G., & Lee, B. S. (2021, June). Multiple dynamic outlier-detection from a data stream by exploiting duality of data and queries. In Proceedings of the 2021 International Conference on Management of Data (SIGMOD).
-
-.. [#Yoon2022ARCUS] Yoon, S., Lee, Y., Lee, J.G. and Lee, B.S., 2022, August. Adaptive Model Pooling for Online Deep Anomaly Detection from a Complex Evolving Data Stream. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 2347-2357).
