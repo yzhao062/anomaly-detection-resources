@@ -111,7 +111,7 @@ Table of Contents
 1.1. Books
 ^^^^^^^^^^
 
-`Outlier Analysis <https://www.springer.com/gp/book/9781461463955>`_ 
+`Outlier Analysis <https://link.springer.com/book/10.1007/978-3-319-47578-3>`_ 
 by Charu Aggarwal: Classical text book covering most of the outlier analysis techniques. 
 A **must-read** for people in the field of outlier detection. `[Preview.pdf] <http://charuaggarwal.net/outlierbook.pdf>`_
 
