@@ -429,17 +429,18 @@ Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Dev
 4.11. Outlier Detection with Neural Networks
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Paper Title                                                                                        Venue                         Year   Ref                           Materials
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
-Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding                  KDD                           2018   [#Hundman2018Detecting]_      `[PDF] <https://arxiv.org/pdf/1802.04431.pdf>`_, `[Code] <https://github.com/khundman/telemanom>`_
-MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks  ICANN                         2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
-Generative Adversarial Active Learning for Unsupervised Outlier Detection                          TKDE                          2019   [#Liu2019Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
-Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                        ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
-Deep Anomaly Detection with Outlier Exposure                                                       ICLR                          2019   [#Hendrycks2019Deep]_         `[PDF] <https://arxiv.org/pdf/1812.04606.pdf>`_, `[Code] <https://github.com/hendrycks/outlier-exposure>`_
-Unsupervised Anomaly Detection With LSTM Neural Networks                                           TNNLS                         2019   [#Ergen2019Unsupervised]_     `[PDF] <https://arxiv.org/pdf/1710.09207.pdf>`_, `[IEEE] <https://ieeexplore.ieee.org/document/8836638>`_,
-Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network  NeurIPS                       2019   [#Wang2019Effective]_         `[PDF] <https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf>`_ `[Code] <https://github.com/demonzyj56/E3Outlier>`_
-=================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Paper Title                                                                                         Venue                         Year   Ref                           Materials
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
+Detecting spacecraft anomalies using lstms and nonparametric dynamic thresholding                   KDD                           2018   [#Hundman2018Detecting]_      `[PDF] <https://arxiv.org/pdf/1802.04431.pdf>`_, `[Code] <https://github.com/khundman/telemanom>`_
+MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks   ICANN                         2019   [#Li2019MAD]_                 `[PDF] <https://arxiv.org/pdf/1901.04997.pdf>`_, `[Code] <https://github.com/LiDan456/MAD-GANs>`_
+Generative Adversarial Active Learning for Unsupervised Outlier Detection                           TKDE                          2019   [#Liu2019Generative]_         `[PDF] <https://arxiv.org/pdf/1809.10816.pdf>`_, `[Code] <https://github.com/leibinghe/GAAL-based-outlier-detection>`_
+Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection                         ICLR                          2018   [#Zong2018Deep]_              `[PDF] <http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf>`_, `[Code] <https://github.com/danieltan07/dagmm>`_
+Deep Anomaly Detection with Outlier Exposure                                                        ICLR                          2019   [#Hendrycks2019Deep]_         `[PDF] <https://arxiv.org/pdf/1812.04606.pdf>`_, `[Code] <https://github.com/hendrycks/outlier-exposure>`_
+Unsupervised Anomaly Detection With LSTM Neural Networks                                            TNNLS                         2019   [#Ergen2019Unsupervised]_     `[PDF] <https://arxiv.org/pdf/1710.09207.pdf>`_, `[IEEE] <https://ieeexplore.ieee.org/document/8836638>`_,
+Effective End-to-end Unsupervised Outlier Detection via Inlier Priority of Discriminative Network   NeurIPS                       2019   [#Wang2019Effective]_         `[PDF] <https://papers.nips.cc/paper/8830-effective-end-to-end-unsupervised-outlier-detection-via-inlier-priority-of-discriminative-network.pdf>`_ `[Code] <https://github.com/demonzyj56/E3Outlier>`_
+Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning  ICML                          2023   [#Xu2023Fascinating]_         `[PDF] <https://arxiv.org/abs/2305.16114>`_, `[Code] <https://github.com/xuhongzuo/scale-learning>`_ 
+==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
 4.12. Active Anomaly Detection
@@ -546,6 +547,7 @@ Isolation forest                                                                
 Isolation‐based anomaly detection using nearest‐neighbor ensembles                                  Computational Intelligence    2018   [#Bandaragoda2018Isolation]_   `[PDF] <https://www.researchgate.net/publication/322359651_Isolation-based_anomaly_detection_using_nearest-neighbor_ensembles_iNNE>`_, `[Code] <https://github.com/zhuye88/iNNE>`_
 Extended Isolation Forest                                                                          TKDE                          2019   [#Hariri2019Extended]_         `[PDF] <https://arxiv.org/pdf/1811.02141.pdf>`_, `[Code] <https://github.com/sahandha/eif>`_
 Isolation Distributional Kernel: A New Tool for Kernel based Anomaly Detection                     KDD                           2020   [#Ting2020Isolation]_          `[PDF] <https://arxiv.org/pdf/2009.12196.pdf>`_, `[Code] <https://github.com/IsolationKernel/Codes/tree/main/IDK>`_
+Deep Isolation Forest for Anomaly Detection                                                        TKDE                          2023   [#Xu2023Deep]_                 `[PDF] <https://arxiv.org/abs/2206.06602>`_, `[Code] <https://github.com/xuhongzuo/deep-iforest>`_
 =================================================================================================  ============================  =====  =============================  ==============================================================================================================================================================================================
 
 
@@ -789,6 +791,10 @@ References
 .. [#WellerFahy2015A] Weller-Fahy, D.J., Borghetti, B.J. and Sodemann, A.A., 2015. A survey of distance and similarity measures used within network intrusion anomaly detection. *IEEE Communications Surveys & Tutorials*\ , 17(1), pp.70-91.
 
 .. [#Xu2021Beyond] Xu, H., Wang, Y., Jian, S., Huang, Z., Wang, Y., Liu, N. and Li, F., 2021, April. Beyond Outlier Detection: Outlier Interpretation by Attention-Guided Triplet Deviation Network. In *Proceedings of the Web Conference* 2021 (pp. 1328-1339).
+
+.. [#Xu2023Deep] Xu, H., Pang, G., Wang, Y., Wang, Y., 2023. Deep Isolation Forest for Anomaly Detection. *IEEE Transactions on Knowledge and Data Engineering*. 
+
+.. [#Xu2023Fascinating] Xu, H., Wang, Y., Wei, J., Jian, S., Li, Y., Liu, N., 2023. Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning. *International Conference on Machine Learning (ICML)*.
 
 .. [#Yoon2019NETS] Yoon, S., Lee, J. G., & Lee, B. S., 2019. NETS: extremely fast outlier detection from a data stream via set-based processing. Proceedings of the VLDB Endowment, 12(11), 1303-1315.
 
