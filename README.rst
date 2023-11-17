@@ -151,8 +151,10 @@ The fully `open-sourced ADBench <https://github.com/Minqi824/ADBench>`_ compares
 Data Types     Paper Title                                                                                        Venue                         Year   Ref                           Materials
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Time-series    Revisiting Time Series Outlier Detection: Definitions and Benchmarks                               NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
-Graph          Benchmarking Node Outlier Detection on Graphs                                                      Preprint                      2022   [#Liu2022Benchmarking]_       `[PDF] <https://arxiv.org/abs/2206.10071>`_, `[Code] <https://github.com/pygod-team/pygod/tree/main/benchmark>`_
-Tabular        ADBench: Anomaly Detection Benchmark                                                               Preprint                      2022   [#Han2022Adbench]_            `[PDF] <https://arxiv.org/abs/2206.09426>`_, `[Code] <https://github.com/Minqi824/ADBench>`_
+Graph          Benchmarking Node Outlier Detection on Graphs                                                      NeurIPS                       2022   [#Liu2022Benchmarking]_       `[PDF] <https://arxiv.org/abs/2206.10071>`_, `[Code] <https://github.com/pygod-team/pygod/tree/main/benchmark>`_
+Graph          GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection                           NeurIPS                       2023   [#Tang2023GADBench]_          `[PDF] <https://arxiv.org/abs/2306.12251>`_, `[Code] <https://github.com/squareRoot3/GADBench>`_
+Tabular        ADBench: Anomaly Detection Benchmark                                                               NeurIPS                       2022   [#Han2022Adbench]_            `[PDF] <https://arxiv.org/abs/2206.09426>`_, `[Code] <https://github.com/Minqi824/ADBench>`_
+Tabular        ADGym: Design Choices for Deep Anomaly Detection                                                   NeurIPS                       2023   [#Jiang2023adgym]_            `[PDF] <https://arxiv.org/abs/2309.15376>`_, `[Code] <https://github.com/Minqi824/ADGym>`_
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -699,7 +701,9 @@ References
 
 .. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
 
-.. [#Lai2021Revisiting] Lai, K.H., Zha, D., Xu, J., Zhao, Y., Wang, G. and Hu, X., 2021. Revisiting Time Series Outlier Detection: Definitions and Benchmarks. *Advances in Neural Information Processing Systems (NeurIPS)*, Datasets and Benchmarks Track.
+.. [#Jiang2023adgym] Jiang, M., Hou, C., Zheng, A., Han, S., Huang, H., Wen, Q., Hu, X. and Zhao, Y., 2023. ADGym: Design Choices for Deep Anomaly Detection. *NeurIPS*, Datasets and Benchmarks Track.
+
+.. [#Lai2021Revisiting] Lai, K.H., Zha, D., Xu, J., Zhao, Y., Wang, G. and Hu, X., 2021. Revisiting Time Series Outlier Detection: Definitions and Benchmarks. *NeurIPS*, Datasets and Benchmarks Track.
 
 .. [#Lamba2019Learning] Lamba, H. and Akoglu, L., 2019, May. Learning On-the-Job to Re-rank Anomalies from Top-1 Feedback. In *Proceedings of the 2019 SIAM International Conference on Data Mining (SDM)*, pp. 612-620. Society for Industrial and Applied Mathematics.
 
@@ -784,6 +788,8 @@ References
 .. [#Suri2019Research] Suri, N.R. and Athithan, G., 2019. Research Issues in Outlier Detection. In *Outlier Detection: Techniques and Applications*, pp. 29-51. Springer, Cham.
 
 .. [#Tang2015Mining] Tang, G., Pei, J., Bailey, J. and Dong, G., 2015. Mining multidimensional contextual outliers from categorical relational data. *Intelligent Data Analysis*, 19(5), pp.1171-1192.
+
+.. [#Tang2023GADBench] Tang, J., Hua, F., Gao, Z., Zhao, P. and Li, J., 2023. GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection. *NeurIPS*, Datasets and Benchmarks Track.
 
 .. [#Ting2018Which] Ting, KM., Aryal, S. and Washio, T., 2018, Which Anomaly Detector should I use? *Tutorial at ICDM 2018*.
 
