@@ -301,6 +301,7 @@ A Comprehensive Survey on Graph Anomaly Detection with Deep Learning            
 Revisiting Time Series Outlier Detection: Definitions and Benchmarks                                                    NeurIPS                       2021   [#Lai2021Revisiting]_         `[PDF] <https://openreview.net/pdf?id=r8IvOsnHchr>`_, `[Code] <https://github.com/datamllab/tods/tree/benchmark>`_
 A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges      Preprint                      2021   [#Salehi2021A]_               `[PDF] <https://arxiv.org/pdf/2110.14051.pdf>`_
 Self-Supervised Anomaly Detection: A Survey and Outlook                                                                 Preprint                      2022   [#Hojjati2022Self]_           `[PDF] <https://arxiv.org/pdf/2205.05173.pdf>`_
+Weakly supervised anomaly detection: A survey                                                                           Preprint                      2023   [#Jiang2023weakly]_           `[PDF] <https://arxiv.org/abs/2302.04549>`_, `[PDF] <https://github.com/yzhao062/wsad>`_
 ======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -702,6 +703,8 @@ References
 .. [#Kriegel2010Outlier] Kriegel, H.P., Kröger, P. and Zimek, A., 2010. Outlier detection techniques. *Tutorial at ACM SIGKDD 2010*.
 
 .. [#Jiang2023adgym] Jiang, M., Hou, C., Zheng, A., Han, S., Huang, H., Wen, Q., Hu, X. and Zhao, Y., 2023. ADGym: Design Choices for Deep Anomaly Detection. *NeurIPS*, Datasets and Benchmarks Track.
+
+.. [#Jiang2023weakly] Jiang, M., Hou, C., Zheng, A., Hu, X., Han, S., Huang, H., He, X., Yu, P.S. and Zhao, Y., 2023. Weakly supervised anomaly detection: A survey. arXiv preprint arXiv:2302.04549.
 
 .. [#Lai2021Revisiting] Lai, K.H., Zha, D., Xu, J., Zhao, Y., Wang, G. and Hu, X., 2021. Revisiting Time Series Outlier Detection: Definitions and Benchmarks. *NeurIPS*, Datasets and Benchmarks Track.
 
