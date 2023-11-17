@@ -34,7 +34,7 @@ which aims to identify outlying objects that are deviant from the general data d
 Outlier detection has been proven critical in many fields, such as credit card
 fraud analytics, network intrusion detection, and mechanical unit defect detection.
 
-This repository collects:
+**This repository collects**:
 
 
 #. Books & Academic Papers 
@@ -46,11 +46,12 @@ This repository collects:
 
 **More items will be added to the repository**.
 Please feel free to suggest other key resources by opening an issue report,
-submitting a pull request, or dropping me an email @ (zhaoy@cmu.edu).
+submitting a pull request, or dropping me an email @ (yzhao010@usc.edu).
 Enjoy reading!
 
 BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
-`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful.
+`[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful,
+especially `PyOD library <https://github.com/yzhao062/pyod>`_ and `ADBench benchmark <https://github.com/Minqi824/ADBench>`_.
 
 ----
 
@@ -134,6 +135,8 @@ Anomaly Detection in Networks                         KDD                       
 Which Outlier Detector Should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://ieeexplore.ieee.org/document/8594824>`_
 Deep Learning for Anomaly Detection                   KDD                                           2020   [#Wang2020Deep]_              `[HTML] <https://sites.google.com/view/kdd2020deepeye/home>`_, `[Video] <https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=66>`_
 Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
+Toward Explainable Deep Anomaly Detection             KDD                                           2021   [#Pang2021Toward]_            `[HTML] <https://sites.google.com/site/gspangsite/kdd21_tutorial>`_
+Recent Advances in Anomaly Detection                  CVPR                                          2023   [#Pang2023recent]_            `[HTML] <https://sites.google.com/view/cvpr2023-tutorial-on-ad/>`_, `[Video] <https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -745,6 +748,10 @@ References
 .. [#Pang2020Deep] Pang, G., Shen, C., Cao, L. and Hengel, A.V.D., 2021. Deep Learning for Anomaly Detection: A Review. ACM Computing Surveys (CSUR), 54(2), pp.1-38.
 
 .. [#Pang2021Deep] Pang, G., Cao, L. and Aggarwal, C., 2021. Deep Learning for Anomaly Detection. *Tutorial at WSDM 2021*.
+
+.. [#Pang2021Toward] Pang, G. and Aggarwal, C., 2021, August. Toward explainable deep anomaly detection. In *KDD* (pp. 4056-4057).
+
+.. [#Pang2023recent] Guansong Pang, Joey Tianyi Zhou, Radu Tudor Ionescu, Yu Tian, and Kihyuk Sohn. "Recent Advances in Anomaly Detection". In: *CVPR'23*. Vancouver, Canada.
 
 .. [#Pelleg2005Active] Pelleg, D. and Moore, A.W., 2005. Active learning for anomaly and rare-category detection. In *Advances in neural information processing systems*\, pp. 1073-1080.
 
