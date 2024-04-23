@@ -825,6 +825,8 @@ References
 
 .. [#Yu2016A] Yu, R., Qiu, H., Wen, Z., Lin, C. and Liu, Y., 2016. A survey on social media anomaly detection. *ACM SIGKDD Explorations Newsletter*\ , 18(1), pp.1-14.
 
+.. [#Yuan2024Trustworthy] Yuan, S., Xu, D. and Wu, X., 2024  Trustworthy Anomaly Detection. *Tutorial at SDM 2024*.
+
 .. [#Zha2020Meta] Zha, D., Lai, K.H., Wan, M. and Hu, X., 2020. Meta-AAD: Active Anomaly Detection with Deep Reinforcement Learning. *ICDM*.
 
 .. [#Zhao2018Xgbod] Zhao, Y. and Hryniewicki, M.K., 2018, July. XGBOD: improving supervised outlier detection with unsupervised representation learning. In *2018 International Joint Conference on Neural Networks (IJCNN)*. IEEE.
@@ -849,4 +851,4 @@ References
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
-.. [#Yuan2024Trustworthy] Yuan, S., Xu, D. and Wu, X., 2024  Trustworthy Anomaly Detection. *Tutorial at SDM 2024*.
+
