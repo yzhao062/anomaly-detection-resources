@@ -137,6 +137,7 @@ Deep Learning for Anomaly Detection                   KDD                       
 Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
 Toward Explainable Deep Anomaly Detection             KDD                                           2021   [#Pang2021Toward]_            `[HTML] <https://sites.google.com/site/gspangsite/kdd21_tutorial>`_
 Recent Advances in Anomaly Detection                  CVPR                                          2023   [#Pang2023recent]_            `[HTML] <https://sites.google.com/view/cvpr2023-tutorial-on-ad/>`_, `[Video] <https://www.youtube.com/watch?v=dXxrzWeybBo&feature=youtu.be>`_
+Trustworthy Anomaly Detection                         SDM                                           2024   [#Yuan2024Trustworthy]_       `[HTML] <https://yuan.shuhan.org/talks/SDM24/>`_
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -848,3 +849,4 @@ References
 
 .. [#Zong2018Deep] Zong, B., Song, Q., Min, M.R., Cheng, W., Lumezanu, C., Cho, D. and Chen, H., 2018. Deep autoencoding gaussian mixture model for unsupervised anomaly detection. International Conference on Learning Representations (ICLR).
 
+.. [#Yuan2024Trustworthy] Yuan, S., Xu, D. and Wu, X., 2024  Trustworthy Anomaly Detection. *Tutorial at SDM 2024*.
