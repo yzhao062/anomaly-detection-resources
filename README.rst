@@ -170,6 +170,9 @@ Tabular        ADGym: Design Choices for Deep Anomaly Detection                 
 **Get started with the Anomaly Detection API (by IBM)**\ :
 `[See Website] <https://developer.ibm.com/learningpaths/get-started-anomaly-detection-api/>`_
 
+**Practical Anomaly Detection by appliedAI Institute**\:
+`[See Website] <https://transferlab.ai/trainings/practical-anomaly-detection/>`_, `[See Video] <https://www.youtube.com/watch?v=sEoMIDARpJ0&list=PLz6xKPm1Bnd6cDDgct3MDhNWJuPXzsmyW>`_, `[See GitHub] <https://github.com/aai-institute/tfl-training-practical-anomaly-detection>`_
+
 **Coursera Real-Time Cyber Threat Detection and Mitigation partly covers the topic**\ :
 `[See Video] <https://www.coursera.org/learn/real-time-cyber-threat-detection>`_
 
