@@ -354,6 +354,8 @@ Contextual outlier interpretation                                               
 Mining multidimensional contextual outliers from categorical relational data                       IDA                           2015   [#Tang2015Mining]_            `[PDF] <http://www.cs.sfu.ca/~jpei/publications/Contextual%20outliers.pdf>`_
 Discriminative features for identifying and interpreting outliers                                  ICDE                          2014   [#Dang2014Discriminative]_    `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.706.5744&rep=rep1&type=pdf>`_
 Sequential Feature Explanations for Anomaly Detection                                              TKDD                          2019   [#Siddiqui2019Sequential]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3230666>`_
+A Survey on Explainable Anomaly Detection                                                          TKDD                          2023   [#Li2023XAD]_                 `[HTML] <https://dl.acm.org/doi/10.1145/3609333>`_
+Explainable Contextual Anomaly Detection Using Quantile Regression Forests                         DMKD                          2023   [#Li2023QCAD]_                `[HTML] <https://link.springer.com/article/10.1007/s10618-023-00967-z>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -560,6 +562,10 @@ References
 .. [#Lazarevic2008Data] Lazarevic, A., Banerjee, A., Chandola, V., Kumar, V. and Srivastava, J., 2008, September. Data mining for anomaly detection. *Tutorial at ECML PKDD 2008*.
 
 .. [#Li2019MAD] Li, D., Chen, D., Shi, L., Jin, B., Goh, J. and Ng, S.K., 2019. MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks. arXiv preprint arXiv:1901.04997.
+
+.. [#Li2023XAD] Li, Z., Zhu, Y. and Van Leeuwen, M., 2023. A survey on explainable anomaly detection. *ACM Transactions on Knowledge Discovery from Data*, 18(1), pp.1-54.
+
+.. [#Li2023QCAD] Li, Z. and Van Leeuwen, M., 2023. Explainable contextual anomaly detection using quantile regression forests. *Data Mining and Knowledge Discovery*, 37(6), pp.2517-2563.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
