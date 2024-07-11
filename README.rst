@@ -418,6 +418,7 @@ Paper Title                                                                     
 Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
 Learning representations for outlier detection on a budget                                          Preprint                      2015   [#Micenkova2015Learning]_     `[PDF] <https://arxiv.org/pdf/1507.08104.pdf>`_
 XGBOD: improving supervised outlier detection with unsupervised representation learning             IJCNN                         2018   [#Zhao2018Xgbod]_             `[PDF] <http://www.andrew.cmu.edu/user/yuezhao2/papers/18-ijcnn-xgbod.pdf>`_
+Feature Encoding With Autoencoders for Weakly Supervised Anomaly Detection                          TNNLS                         2021   [#Zhou2021Feature]_           `[PDF] <https://arxiv.org/pdf/2105.10500.pdf>`_, `[Code] <https://github.com/yj-zhou/Feature_Encoding_with_AutoEncoders_for_Weakly-supervised_Anomaly_Detection>`_
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -852,6 +853,8 @@ References
 .. [#Zhao2021TOD] Zhao, Y., Chen, G.H. and Jia, Z., 2021. TOD: Tensor-based Outlier Detection. arXiv preprint arXiv:2110.14007.
 
 .. [#Zhou2019AnomalyNet] Zhou, J.T., Du, J., Zhu, H., Peng, X., Liu, Y. and Goh, R.S.M., 2019. AnomalyNet: An anomaly detection network for video surveillance. *IEEE Transactions on Information Forensics and Security*.
+
+.. [#Zhou2021Feature] Zhou, Y., Song, X., Zhang, Y., Liu, F., Zhu, C., & Liu, L. (2021). Feature encoding with autoencoders for weakly supervised anomaly detection. IEEE Transactions on Neural Networks and Learning Systems, 33(6), 2454-2465.
 
 .. [#Zhu2019Tripartite] Zhu, Y. and Yang, K., 2019. Tripartite Active Learning for Interactive Anomaly Discovery. *IEEE Access*.
 
