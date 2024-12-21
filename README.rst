@@ -328,8 +328,8 @@ LOF                   LOF: identifying density-based local outliers             
 IForest               Isolation forest                                                                                   ICDM                               2008   [#Liu2008Isolation]_         `[PDF] <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>`_
 OCSVM                 Estimating the support of a high-dimensional distribution                                          Neural Computation                 2001   [#Scholkopf2001Estimating]_  `[PDF] <http://users.cecs.anu.edu.au/~williams/papers/P132.pdf>`_
 AutoEncoder Ensemble  Outlier detection with autoencoder ensembles                                                       SDM                                2017   [#Chen2017Outlier]_          `[PDF] <http://saketsathe.net/downloads/autoencode.pdf>`_
-COPOD                 COPOD: Copula-Based Outlier Detection                                                              ICDM                               2020   [#Li2020COPOD]_              `[PDF] <http://www.andrew.cmu.edu/user/yuezhao2/papers/20-icdm-copod.pdf>`_
-ECOD                  Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions                   TKDE                               2022   [#Li2021ECOD]_               `[PDF] <https://www.andrew.cmu.edu/user/yuezhao2/papers/22-tkde-ecod.pdf>`_
+COPOD                 COPOD: Copula-Based Outlier Detection                                                              ICDM                               2020   [#Li2020COPOD]_              `[PDF] <https://arxiv.org/abs/2009.09463>`_
+ECOD                  Unsupervised Outlier Detection Using Empirical Cumulative Distribution Functions                   TKDE                               2022   [#Li2021ECOD]_               `[PDF] <https://arxiv.org/abs/2201.00382>`_
 ====================  =================================================================================================  =================================  =====  ===========================  ==============================================================================================================================================================================================
 
 4.3. Graph & Network Outlier Detection
@@ -379,7 +379,7 @@ Paper Title                                                                     
 ==================================================================================================  ============================  =====  ============================  =======================================================================================================================================================================================================
 A survey on unsupervised outlier detection in high-dimensional numerical data                       Stat Anal Data Min            2012   [#Zimek2012A]_                `[HTML] <https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11161>`_
 Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
-Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection                          TKDE                          2015   [#Radovanovic2015Reverse]_    `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.9559&rep=rep1&type=pdf>`_, `[SLIDES] <https://pdfs.semanticscholar.org/c8aa/832362422418287ff56793c780b425afa93f.pdf>`_
+Reverse Nearest Neighbors in Unsupervised Distance-Based Outlier Detection                          TKDE                          2015   [#Radovanovic2015Reverse]_    `[PDF] <https://ieeexplore.ieee.org/document/6948273>`_, `[SLIDES] <https://pdfs.semanticscholar.org/c8aa/832362422418287ff56793c780b425afa93f.pdf>`_
 Outlier detection for high-dimensional data                                                         Biometrika                    2015   [#Ro2015Outlier]_             `[PDF] <http://web.hku.hk/~gyin/materials/2015RoZouWangYinBiometrika.pdf>`_
 ==================================================================================================  ============================  =====  ============================  =======================================================================================================================================================================================================
 
@@ -423,7 +423,7 @@ Paper Title                                                                     
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Learning Representations of Ultrahigh-dimensional Data for Random Distance-based Outlier Detection  SIGKDD                        2018   [#Pang2018Learning]_          `[PDF] <https://arxiv.org/pdf/1806.04808.pdf>`_
 Learning representations for outlier detection on a budget                                          Preprint                      2015   [#Micenkova2015Learning]_     `[PDF] <https://arxiv.org/pdf/1507.08104.pdf>`_
-XGBOD: improving supervised outlier detection with unsupervised representation learning             IJCNN                         2018   [#Zhao2018Xgbod]_             `[PDF] <http://www.andrew.cmu.edu/user/yuezhao2/papers/18-ijcnn-xgbod.pdf>`_
+XGBOD: improving supervised outlier detection with unsupervised representation learning             IJCNN                         2018   [#Zhao2018Xgbod]_             `[PDF] <https://arxiv.org/abs/1912.00290>`_
 ==================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -437,7 +437,7 @@ Explaining Anomalies in Groups with Characterizing Subspace Rules               
 Beyond Outlier Detection: LookOut for Pictorial Explanation                                        ECML-PKDD                     2018   [#Gupta2018Beyond]_           `[PDF] <https://www.andrew.cmu.edu/user/lakoglu/pubs/18-pkdd-lookout.pdf>`_
 Contextual outlier interpretation                                                                  IJCAI                         2018   [#Liu2018Contextual]_         `[PDF] <https://arxiv.org/pdf/1711.10589.pdf>`_
 Mining multidimensional contextual outliers from categorical relational data                       IDA                           2015   [#Tang2015Mining]_            `[PDF] <http://www.cs.sfu.ca/~jpei/publications/Contextual%20outliers.pdf>`_
-Discriminative features for identifying and interpreting outliers                                  ICDE                          2014   [#Dang2014Discriminative]_    `[PDF] <http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.706.5744&rep=rep1&type=pdf>`_
+Discriminative features for identifying and interpreting outliers                                  ICDE                          2014   [#Dang2014Discriminative]_    `[PDF] <https://ieeexplore.ieee.org/abstract/document/6816642>`_
 Sequential Feature Explanations for Anomaly Detection                                              TKDD                          2019   [#Siddiqui2019Sequential]_    `[HTML] <https://dl.acm.org/citation.cfm?id=3230666>`_
 A Survey on Explainable Anomaly Detection                                                          TKDD                          2023   [#Li2023XAD]_                 `[HTML] <https://dl.acm.org/doi/10.1145/3609333>`_
 Explainable Contextual Anomaly Detection Using Quantile Regression Forests                         DMKD                          2023   [#Li2023QCAD]_                `[HTML] <https://link.springer.com/article/10.1007/s10618-023-00967-z>`_
@@ -506,8 +506,8 @@ Field          Paper Title                                                      
 Field                       Paper Title                                                                                        Venue                         Year   Ref                           Materials
 ========================    =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 **Security**                A survey of distance and similarity measures used within network intrusion anomaly detection       IEEE Commun. Surv. Tutor.     2015   [#WellerFahy2015A]_           `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6853338>`_
-**Security**                Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <http://dtstc.ugr.es/~jedv/descargas/2009_CoSe09-Anomaly-based-network-intrusion-detection-Techniques,-systems-and-challenges.pdf>`_
-**Finance**                 A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <http://isiarticles.com/bundles/Article/pre/pdf/76882.pdf>`_
+**Security**                Anomaly-based network intrusion detection: Techniques, systems and challenges                      Computers & Security          2009   [#GarciaTeodoro2009Anomaly]_  `[PDF] <https://www2.cs.uh.edu/~acl/cs6397/Doc/2009-Elsevier-Anomaly-based%20network%20intrusion%20detection.pdf>`_
+**Finance**                 A survey of anomaly detection techniques in financial domain                                       Future Gener Comput Syst      2016   [#Ahmed2016A]_                `[PDF] <https://www.sciencedirect.com/science/article/abs/pii/S0167739X15000023>`_
 **Traffic**                 Outlier Detection in Urban Traffic Data                                                            WIMS                          2018   [#Djenouri2018Outlier]_       `[PDF] <http://dss.sdu.dk/assets/fpd-lof/outlier-detection-urban.pdf>`_
 **Social Media**            A survey on social media anomaly detection                                                         SIGKDD Explorations           2016   [#Yu2016A]_                   `[PDF] <https://arxiv.org/pdf/1601.01102.pdf>`_
 **Social Media**            GLAD: group anomaly detection in social media analysis                                             TKDD                          2015   [#Yu2015Glad]_                `[PDF] <https://arxiv.org/pdf/1410.1940.pdf>`_
@@ -524,7 +524,7 @@ Paper Title                                                                     
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 AutoML: state of the art with a focus on anomaly detection, challenges, and research directions    Int J Data Sci Anal           2022   [#Bahri2022automl]_           `[PDF] <https://www.researchgate.net/publication/358364044_AutoML_state_of_the_art_with_a_focus_on_anomaly_detection_challenges_and_research_directions>`_
 AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning        ICDE                          2020   [#Li2020AutoOD]_              `[PDF] <https://arxiv.org/pdf/2006.11321.pdf>`_
-Automatic Unsupervised Outlier Model Selection                                                     NeurIPS                       2021   [#Zhao2020Automating]_        `[PDF] <https://www.andrew.cmu.edu/user/yuezhao2/papers/21-neurips-metaod.pdf>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
+Automatic Unsupervised Outlier Model Selection                                                     NeurIPS                       2021   [#Zhao2020Automating]_        `[PDF] <https://openreview.net/forum?id=KCd-3Pz8VjM>`_, `[Code] <https://github.com/yzhao062/MetaOD>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -601,7 +601,7 @@ can be found `data-mining-conferences <https://github.com/yzhao062/data-mining-c
 
 `The Web Conference (WWW) <https://www2018.thewebconf.org/>`_
 
-`IEEE International Conference on Data Mining (ICDM) <http://icdm2018.org/>`_
+`IEEE International Conference on Data Mining (ICDM) <https://icdm2024.org//>`_
 
 `SIAM International Conference on Data Mining (SDM) <https://www.siam.org/Conferences/CM/Main/sdm19>`_
 
