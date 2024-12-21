@@ -51,7 +51,8 @@ Enjoy reading!
 
 BTW, you may find my `[GitHub] <https://github.com/yzhao062>`_ and
 `[outlier detection papers] <https://scholar.google.com/citations?user=zoGDYsoAAAAJ&hl=en>`_ useful,
-especially `PyOD library <https://github.com/yzhao062/pyod>`_ and `ADBench benchmark <https://github.com/Minqi824/ADBench>`_.
+especially `PyOD library <https://github.com/yzhao062/pyod>`_, `ADBench benchmark <https://github.com/Minqi824/ADBench>`_,
+and `AD-LLM: benchmarking LLMs for AD <https://github.com/USC-FORTIS/AD-LLM>`_.
 
 ----
 
@@ -130,8 +131,6 @@ Tutorial Title                                        Venue                     
 ===================================================== ============================================  =====  ============================  ==========================================================================================================================================================================
 Data mining for anomaly detection                     PKDD                                          2008   [#Lazarevic2008Data]_         `[Video] <http://videolectures.net/ecmlpkdd08_lazarevic_dmfa/>`_
 Outlier detection techniques                          ACM SIGKDD                                    2010   [#Kriegel2010Outlier]_        `[PDF] <https://imada.sdu.dk/~zimek/publications/KDD2010/kdd10-outlier-tutorial.pdf>`_
-Anomaly Detection: A Tutorial                         ICDM                                          2011   [#Chawla2011Anomaly]_         `[PDF] <http://webdocs.cs.ualberta.ca/~icdm2011/downloads/ICDM2011_anomaly_detection_tutorial.pdf>`_
-Anomaly Detection in Networks                         KDD                                           2017   [#Mendiratta2017Anomaly]_     `[Page] <https://veena-mendiratta.blog/tutorial-anomaly-detection-in-networks/>`_
 Which Outlier Detector Should I use?                  ICDM                                          2018   [#Ting2018Which]_             `[PDF] <https://ieeexplore.ieee.org/document/8594824>`_
 Deep Learning for Anomaly Detection                   KDD                                           2020   [#Wang2020Deep]_              `[HTML] <https://sites.google.com/view/kdd2020deepeye/home>`_, `[Video] <https://www.youtube.com/watch?v=Fn0qDbKL3UI&list=PLn0nrSd4xjja7AD3aY9Jxmr820gx59EQC&index=66>`_
 Deep Learning for Anomaly Detection                   WSDM                                          2021   [#Pang2021Deep]_              `[HTML] <https://sites.google.com/site/gspangsite/wsdm21_tutorial>`_
@@ -157,8 +156,8 @@ Graph          Benchmarking Node Outlier Detection on Graphs                    
 Graph          GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection                           NeurIPS                       2023   [#Tang2023GADBench]_          `[PDF] <https://arxiv.org/abs/2306.12251>`_, `[Code] <https://github.com/squareRoot3/GADBench>`_
 Tabular        ADBench: Anomaly Detection Benchmark                                                               NeurIPS                       2022   [#Han2022Adbench]_            `[PDF] <https://arxiv.org/abs/2206.09426>`_, `[Code] <https://github.com/Minqi824/ADBench>`_
 Tabular        ADGym: Design Choices for Deep Anomaly Detection                                                   NeurIPS                       2023   [#Jiang2023adgym]_            `[PDF] <https://arxiv.org/abs/2309.15376>`_, `[Code] <https://github.com/Minqi824/ADGym>`_
-NLP            NLP-ADBench: NLP Anomaly Detection Benchmark                                                       arXiv                         2024   [#Li2024NLPADBench]_          `[PDF] <https://arxiv.org/abs/2412.04784>`_, `[Code] <https://github.com/USC-FORTIS/NLP-ADBench>`_
-NLP            AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                   arXiv                         2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
+NLP            NLP-ADBench: NLP Anomaly Detection Benchmark                                                       Preprint                      2024   [#Li2024NLPADBench]_          `[PDF] <https://arxiv.org/abs/2412.04784>`_, `[Code] <https://github.com/USC-FORTIS/NLP-ADBench>`_
+NLP            AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                   Preprint                      2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -266,6 +265,8 @@ ELKI is an open source (AGPLv3) data mining software written in Java. The focus 
 3.5. Datasets
 ^^^^^^^^^^^^^
 
+**NLP-ADBench**: NLP Anomaly Detection Benchmark and Datasets: https://github.com/USC-FORTIS/NLP-ADBench
+
 **ELKI Outlier Datasets**\ : https://elki-project.github.io/datasets/outlier
 
 **Outlier Detection DataSets (ODDS)**\ : http://odds.cs.stonybrook.edu/#table1
@@ -309,6 +310,8 @@ Revisiting Time Series Outlier Detection: Definitions and Benchmarks            
 A Unified Survey on Anomaly, Novelty, Open-Set, and Out-of-Distribution Detection: Solutions and Future Challenges      Preprint                      2021   [#Salehi2021A]_               `[PDF] <https://arxiv.org/pdf/2110.14051.pdf>`_
 Self-Supervised Anomaly Detection: A Survey and Outlook                                                                 Preprint                      2022   [#Hojjati2022Self]_           `[PDF] <https://arxiv.org/pdf/2205.05173.pdf>`_
 Weakly supervised anomaly detection: A survey                                                                           Preprint                      2023   [#Jiang2023weakly]_           `[PDF] <https://arxiv.org/abs/2302.04549>`_, `[PDF] <https://github.com/yzhao062/wsad>`_
+AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                                        Preprint                      2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
+Large Language Models for Anomaly and Out-of-Distribution Detection: A Survey                                           Preprint                      2024   [#Xu2024LLMsurvey]_           `[PDF] <https://arxiv.org/abs/2409.01980>`_
 ======================================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 4.2. Key Algorithms
@@ -829,6 +832,8 @@ References
 .. [#Xu2023Deep] Xu, H., Pang, G., Wang, Y., Wang, Y., 2023. Deep Isolation Forest for Anomaly Detection. *IEEE Transactions on Knowledge and Data Engineering*. 
 
 .. [#Xu2023Fascinating] Xu, H., Wang, Y., Wei, J., Jian, S., Li, Y., Liu, N., 2023. Fascinating Supervisory Signals and Where to Find Them: Deep Anomaly Detection with Scale Learning. *International Conference on Machine Learning (ICML)*.
+
+.. [#Xu2024LLMsurvey] Xu, R. and Ding, K., 2024. Large language models for anomaly and out-of-distribution detection: A survey. arXiv preprint arXiv:2409.01980.
 
 .. [#Yoon2019NETS] Yoon, S., Lee, J. G., & Lee, B. S., 2019. NETS: extremely fast outlier detection from a data stream via set-based processing. Proceedings of the VLDB Endowment, 12(11), 1303-1315.
 
