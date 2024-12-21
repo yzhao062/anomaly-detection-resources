@@ -144,9 +144,10 @@ Trustworthy Anomaly Detection                         SDM                       
 1.3. Benchmarks
 ^^^^^^^^^^^^^^^
 
-**News**: We just released a 36-page, the most comprehensive `anomaly detection benchmark paper <https://www.andrew.cmu.edu/user/yuezhao2/papers/22-preprint-adbench.pdf>`_.
-The fully `open-sourced ADBench <https://github.com/Minqi824/ADBench>`_ compares 30 anomaly detection algorithms on 55 benchmark datasets.
+**News**: We have two new works on NLP-based and LLM-based anomaly detection:
 
+- NLP-ADBench: NLP Anomaly Detection Benchmark
+- AD-LLM: Benchmarking Large Language Models for Anomaly Detection
 
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 Data Types     Paper Title                                                                                        Venue                         Year   Ref                           Materials
@@ -156,6 +157,8 @@ Graph          Benchmarking Node Outlier Detection on Graphs                    
 Graph          GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection                           NeurIPS                       2023   [#Tang2023GADBench]_          `[PDF] <https://arxiv.org/abs/2306.12251>`_, `[Code] <https://github.com/squareRoot3/GADBench>`_
 Tabular        ADBench: Anomaly Detection Benchmark                                                               NeurIPS                       2022   [#Han2022Adbench]_            `[PDF] <https://arxiv.org/abs/2206.09426>`_, `[Code] <https://github.com/Minqi824/ADBench>`_
 Tabular        ADGym: Design Choices for Deep Anomaly Detection                                                   NeurIPS                       2023   [#Jiang2023adgym]_            `[PDF] <https://arxiv.org/abs/2309.15376>`_, `[Code] <https://github.com/Minqi824/ADGym>`_
+NLP            NLP-ADBench: NLP Anomaly Detection Benchmark                                                       arXiv                         2024   [#Li2024NLPADBench]_          `[PDF] <https://arxiv.org/abs/2412.04784>`_, `[Code] <https://github.com/USC-FORTIS/NLP-ADBench>`_
+NLP            AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                   arXiv                         2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -730,6 +733,10 @@ References
 .. [#Li2023XAD] Li, Z., Zhu, Y. and Van Leeuwen, M., 2023. A survey on explainable anomaly detection. *ACM Transactions on Knowledge Discovery from Data*, 18(1), pp.1-54.
 
 .. [#Li2023QCAD] Li, Z. and Van Leeuwen, M., 2023. Explainable contextual anomaly detection using quantile regression forests. *Data Mining and Knowledge Discovery*, 37(6), pp.2517-2563.
+
+.. [#Li2024NLPADBench] Li, Y., Li, J., Xiao, Z., Yang, T., Nian, Y., Hu, X. and Zhao, Y. "NLP-ADBench: NLP Anomaly Detection Benchmark," arXiv preprint arXiv:2412.04784.
+
+.. [#Yang2024ADLLM] Yang, T., Nian, Y., Li, S., Xu, R., Li, Y., Li, J., Xiao, Z., Hu, X., Rossi, R., Ding, K., Hu, X. and Zhao, Y.  "AD-LLM: Benchmarking Large Language Models for Anomaly Detection," arXiv preprint arXiv:2412.11142.
 
 .. [#Liu2008Isolation] Liu, F.T., Ting, K.M. and Zhou, Z.H., 2008, December. Isolation forest. In *International Conference on Data Mining*\ , pp. 413-422. IEEE.
 
