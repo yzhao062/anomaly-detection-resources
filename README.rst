@@ -96,7 +96,8 @@ Table of Contents
   * `4.17. Machine Learning Systems for Outlier Detection <#417-machine-learning-systems-for-outlier-detection>`_
   * `4.18. Fairness and Bias in Outlier Detection <#418-fairness-and-bias-in-outlier-detection>`_
   * `4.19. Isolation-based Methods <#419-isolation-based-methods>`_
-  * `4.20. Emerging and Interesting Topics <#420-emerging-and-interesting-topics>`_
+  * `4.20. Weakly-supervised Methods <#420-weakly-supervised-methods>`_
+  * `4.21. Emerging and Interesting Topics <#420-emerging-and-interesting-topics>`_
 
 * `5. Key Conferences/Workshops/Journals <#5-key-conferencesworkshopsjournals>`_
 
@@ -570,8 +571,19 @@ Deep Isolation Forest for Anomaly Detection                                     
 =================================================================================================  ============================  =====  =============================  ==============================================================================================================================================================================================
 
 
+4.20. Weakly-Supervised Methods
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-4.20. Emerging and Interesting Topics
+=================================================================================================  ============================  =====  =============================  ==============================================================================================================================================================================================
+Paper Title                                                                                        Venue                         Year   Ref                            Materials
+=================================================================================================  ============================  =====  =============================  ==============================================================================================================================================================================================
+XGBOD: improving supervised outlier detection with unsupervised representation learning            IJCNN                         2018   [#Zhao2018Xgbod]_              `[PDF] <https://arxiv.org/abs/1912.00290>`_
+Feature Encoding With Autoencoders for Weakly Supervised Anomaly Detection                         TNNLS                         2021   [#Zhou2021Feature]_            `[PDF] <https://arxiv.org/pdf/2105.10500.pdf>`_, `[Code] <https://github.com/yj-zhou/Feature_Encoding_with_AutoEncoders_for_Weakly-supervised_Anomaly_Detection>`_
+=================================================================================================  ============================  =====  =============================  ==============================================================================================================================================================================================
+
+
+
+4.21. Emerging and Interesting Topics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
@@ -580,6 +592,7 @@ Paper Title                                                                     
 Clustering with Outlier Removal                                                                    TKDE                          2019   [#Liu2018Clustering]_         `[PDF] <https://arxiv.org/pdf/1801.01899.pdf>`_
 Real-World Anomaly Detection by using Digital Twin Systems and Weakly-Supervised Learning          IEEE Trans. Ind. Informat.    2020   [#Castellani2020Siamese]_     `[PDF] <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9179030>`_
 SSD: A Unified Framework for Self-Supervised Outlier Detection                                     ICLR                          2021   [#Sehwag2021SSD]_             `[PDF] <https://openreview.net/pdf?id=v5gjXpmR8J>`_, `[Code] <https://github.com/inspire-group/SSD>`_
+AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                   Preprint                      2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
 =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 
 
@@ -864,6 +877,8 @@ References
 .. [#Zhao2021TOD] Zhao, Y., Chen, G.H. and Jia, Z., 2021. TOD: Tensor-based Outlier Detection. arXiv preprint arXiv:2110.14007.
 
 .. [#Zhou2019AnomalyNet] Zhou, J.T., Du, J., Zhu, H., Peng, X., Liu, Y. and Goh, R.S.M., 2019. AnomalyNet: An anomaly detection network for video surveillance. *IEEE Transactions on Information Forensics and Security*.
+
+.. [#Zhou2021Feature] Zhou, Y., Song, X., Zhang, Y., Liu, F., Zhu, C., & Liu, L. (2021). Feature encoding with autoencoders for weakly supervised anomaly detection. IEEE Transactions on Neural Networks and Learning Systems, 33(6), 2454-2465.
 
 .. [#Zhu2019Tripartite] Zhu, Y. and Yang, K., 2019. Tripartite Active Learning for Interactive Anomaly Discovery. *IEEE Access*.
 
