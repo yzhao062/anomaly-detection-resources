@@ -196,6 +196,8 @@ NLP            AD-LLM: Benchmarking Large Language Models for Anomaly Detection 
 3. Toolbox & Datasets
 ---------------------
 
+[**Python**] `OpenAD <https://github.com/USC-FORTIS/OpenAD>`_: OpenAD is a multi-agent framework designed to automate anomaly detection across diverse data modalities, including tabular, graph, time series, and more. It integrates modular agents, model selection strategies, and configurable pipelines to support extensible and interpretable detection workflows. The framework is under active development and aims to support both academic research and practical deployment.
+
 3.1. Multivariate Data
 ^^^^^^^^^^^^^^^^^^^^^^
 
