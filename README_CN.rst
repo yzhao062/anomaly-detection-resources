@@ -129,6 +129,7 @@ Data Types     Paper Title                                                      
 =============  =================================================================================================  ============================  =====  ============================  ==========================================================================================================================================================================
 NLP            NLP-ADBench: NLP Anomaly Detection Benchmark                                                       Preprint                      2024   [#Li2024NLPADBench]_          `[PDF] <https://arxiv.org/abs/2412.04784>`_, `[Code] <https://github.com/USC-FORTIS/NLP-ADBench>`_
 NLP            AD-LLM: Benchmarking Large Language Models for Anomaly Detection                                   Preprint                      2024   [#Yang2024ADLLM]_             `[PDF] <https://arxiv.org/abs/2412.11142>`_, `[Code] <https://github.com/USC-FORTIS/AD-LLM>`_
+Time-series    The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark               NeurIPS D&B                   2024   [#Liu2024Elephant]_           `[Homepage] <https://nips.cc/virtual/2024/poster/97690>`_, `[PDF] <https://papers.nips.cc/paper_files/paper/2024/file/c3f3c690b7a99fba16d0efd35cb83b2c-Paper-Datasets_and_Benchmarks_Track.pdf>`_, `[Code] <https://github.com/TheDatumOrg/TSB-AD>`_
 Graph          GADBench: Revisiting and Benchmarking Supervised Graph Anomaly Detection                           NeurIPS                       2023   [#Tang2023GADBench]_          `[PDF] <https://arxiv.org/abs/2306.12251>`_, `[Code] <https://github.com/squareRoot3/GADBench>`_
 Tabular        ADGym: Design Choices for Deep Anomaly Detection                                                   NeurIPS                       2023   [#Jiang2023adgym]_            `[PDF] <https://arxiv.org/abs/2309.15376>`_, `[Code] <https://github.com/Minqi824/ADGym>`_
 Graph          Benchmarking Node Outlier Detection on Graphs                                                      NeurIPS                       2022   [#Liu2022Benchmarking]_       `[PDF] <https://arxiv.org/abs/2206.10071>`_, `[Code] <https://github.com/pygod-team/pygod/tree/main/benchmark>`_
@@ -823,6 +824,7 @@ References
 .. [#Li2020AutoOD] Li, Y., Chen, Z., Zha, D., Zhou, K., Jin, H., Chen, H. and Hu, X., 2020. AutoOD: Automated Outlier Detection via Curiosity-guided Search and Self-imitation Learning. *ICDE*.
 
 .. [#Liu2022Benchmarking] Liu, K., Dou, Y., Zhao, Y., Ding, X., Hu, X., Zhang, R., Ding, K., Chen, C., Peng, H., Shu, K., Sun, L., Li, J., Chen, G.H., Jia, Z., and Yu, P.S. 2022. Benchmarking Node Outlier Detection on Graphs. arXiv preprint arXiv:2206.10071.
+.. [#Liu2024Elephant] Liu, Q. and Paparrizos, J., 2024. The Elephant in the Room: Towards A Reliable Time-Series Anomaly Detection Benchmark. *NeurIPS 2024 Datasets and Benchmarks Track*.
 
 .. [#Ma2021A] Ma, X., Wu, J., Xue, S., Yang, J., Zhou, C., Sheng, Q.Z., Xiong, H. and Akoglu, L., 2021. A comprehensive survey on graph anomaly detection with deep learning. *IEEE Transactions on Knowledge and Data Engineering*.
 
